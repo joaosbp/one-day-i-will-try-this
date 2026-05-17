@@ -63,9 +63,12 @@
 
 | Repository | Stars | Created | Hype | Description | Activity (30d) |
 |------------|-------|---------|------|-------------|----------------|
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) [📈](https://star-history.com/#{r['name']}) | ⭐ 49,254 | 2026-01-22 | 🔥🔥 | CLI proxy that reduces LLM token consumption by 60-90% on common dev c | 🔥 300+ (100+c / 100+i / 100+p) |
 | [BerriAI/litellm](https://github.com/BerriAI/litellm) [📈](https://star-history.com/#{r['name']}) | ⭐ 47,306 | 2023-07-27 | 🔥 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI  | 🔥 300+ (100+c / 100+i / 100+p) |
+| [decolua/9router](https://github.com/decolua/9router) [📈](https://star-history.com/#{r['name']}) | ⭐ 11,494 | 2026-01-05 | 🔥🔥 | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, C | 🔥 300+ (100+c / 100+i / 100+p) |
 | [mnfst/manifest](https://github.com/mnfst/manifest) [📈](https://star-history.com/#{r['name']}) | ⭐ 6,526 | 2022-09-27 | ⚡ | Smart Model Routing for Agents. Cut Costs up to 70% 🦚 | 🔥 300+ (100+c / 100+i / 100+p) |
 | [maximhq/bifrost](https://github.com/maximhq/bifrost) [📈](https://star-history.com/#{r['name']}) | ⭐ 4,985 | 2025-03-19 | 🔥 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive  | 🔥 300+ (100+c / 100+i / 100+p) |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) [📈](https://star-history.com/#{r['name']}) | ⭐ 4,766 | 2026-02-13 | 🔥🔥 | Never stop coding. Free AI gateway: one endpoint, 160+ providers, RTK+ | 🔥 300+ (100+c / 100+i / 100+p) |
 
 ---
 
@@ -171,16 +174,13 @@
 |------------|-------|---------|------|-------------|----------------|
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) [📈](https://star-history.com/#{r['name']}) | ⭐ 73,419 | 2025-08-04 | 🔥🔥 | A cross-platform desktop All-in-One assistant for Claude Code, Codex,  | 🔥 300+ (100+c / 100+i / 100+p) |
 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) [📈](https://star-history.com/#{r['name']}) | ⭐ 50,662 | 2024-10-13 | 📈 | 🕷️ An adaptive Web Scraping framework that handles everything from a s | ⚡ 103+ (47c / 41i / 15p) |
-| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) [📈](https://star-history.com/#{r['name']}) | ⭐ 49,254 | 2026-01-22 | 🔥🔥 | CLI proxy that reduces LLM token consumption by 60-90% on common dev c | 🔥 300+ (100+c / 100+i / 100+p) |
 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) [📈](https://star-history.com/#{r['name']}) | ⭐ 40,771 | 2022-02-12 | ⚡ | A community-supported supercharged document management system: scan, i | 🔥 300+ (100+c / 100+i / 100+p) |
 | [roboflow/supervision](https://github.com/roboflow/supervision) [📈](https://star-history.com/#{r['name']}) | ⭐ 39,162 | 2022-11-28 | 📈 | We write your reusable computer vision tools. 💜 | ⚡ 137+ (28c / 82i / 27p) |
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) [📈](https://star-history.com/#{r['name']}) | ⭐ 35,452 | 2026-03-08 | 🔥🔥 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://c | 🔥 213+ (100+c / 78i / 35p) |
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) [📈](https://star-history.com/#{r['name']}) | ⭐ 34,368 | 2025-01-19 | 📈 | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI  | 🟢 56+ (0c / 34i / 22p) |
 | [apernet/hysteria](https://github.com/apernet/hysteria) [📈](https://star-history.com/#{r['name']}) | ⭐ 21,061 | 2020-04-21 | 📈 | Hysteria is a powerful, lightning fast and censorship resistant proxy. | 🟢 66+ (18c / 38i / 10p) |
 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) [📈](https://star-history.com/#{r['name']}) | ⭐ 13,471 | 2026-02-22 | 🔥 | Stealth Chromium that passes every bot detection test. Drop-in Playwri | ⚡ 165+ (32c / 100+i / 33p) |
-| [decolua/9router](https://github.com/decolua/9router) [📈](https://star-history.com/#{r['name']}) | ⭐ 11,494 | 2026-01-05 | 🔥🔥 | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, C | 🔥 300+ (100+c / 100+i / 100+p) |
 | [millionco/react-doctor](https://github.com/millionco/react-doctor) [📈](https://star-history.com/#{r['name']}) | ⭐ 9,902 | 2026-02-13 | 🔥🔥 | Your agent writes bad React. This catches it | 🔥 300+ (100+c / 100+i / 100+p) |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) [📈](https://star-history.com/#{r['name']}) | ⭐ 4,766 | 2026-02-13 | 🔥🔥 | Never stop coding. Free AI gateway: one endpoint, 160+ providers, RTK+ | 🔥 300+ (100+c / 100+i / 100+p) |
 
 ---
 
@@ -240,16 +240,16 @@
 
 ### AI Gateways & LLM Routers
 
-| | [LiteLLM](https://github.com/BerriAI/litellm) | [Bifrost](https://github.com/maximhq/bifrost) | [Manifest](https://github.com/mnfst/manifest) |
-|---|:---:|:---:|:---:|
-| **Stars** | ⭐ 47K | ⭐ 5K | ⭐ 6.5K |
-| **Created** | 2023 | 2024 | 2024 |
-| **Hype** | 🔥🔥 | 🔥 | 🔥 |
-| **Speed** | Fast | 50x faster | Smart routing |
-| **Providers** | 100+ | 1000+ | Multi-provider |
-| **Cost Focus** | Unified billing | Load balancing | Up to 70% off |
+| | [LiteLLM](https://github.com/BerriAI/litellm) | [Bifrost](https://github.com/maximhq/bifrost) | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [Manifest](https://github.com/mnfst/manifest) | [9Router](https://github.com/decolua/9router) |
+|---|:---:|:---:|:---:|:---:|:---:|
+| **Stars** | ⭐ 47K | ⭐ 5K | ⭐ 4.8K | ⭐ 6.5K | ⭐ 11.5K |
+| **Created** | 2023 | 2024 | 2024 | 2024 | 2025 |
+| **Hype** | 🔥🔥 | 🔥 | ⚡ | 🔥 | 🔥🔥 |
+| **Speed** | Fast | 50x faster | RTK compression | Smart routing | Proxy layer |
+| **Providers** | 100+ | 1000+ | 160+ free | Multi-provider | 40+ free |
+| **Cost Focus** | Unified billing | Load balancing | ~95% token savings | Up to 70% off | Free Claude access |
 
-![Star History — AI Gateways](https://api.star-history.com/svg?repos=BerriAI/litellm,maximhq/bifrost,mnfst/manifest&type=Date)
+![Star History — AI Gateways](https://api.star-history.com/svg?repos=BerriAI/litellm,maximhq/bifrost,diegosouzapw/OmniRoute,mnfst/manifest,decolua/9router&type=Date)
 
 ### Memory Systems
 
