@@ -25,10 +25,9 @@
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) [📈](https://star-history.com/#{r['name']}) | ⭐ 161,598 | 2025-04-30 | 🔥🔥 | The open source coding agent. | 🔥 300+ (100+c / 100+i / 100+p) |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) [📈](https://star-history.com/#{r['name']}) | ⭐ 154,519 | 2025-07-22 | 🔥🔥🔥 | The agent that grows with you | 🔥 300+ (100+c / 100+i / 100+p) |
 | [garrytan/gstack](https://github.com/garrytan/gstack) [📈](https://star-history.com/#{r['name']}) | ⭐ 98,451 | 2026-03-11 | 🔥🔥 | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that ser | 🔥 262+ (62c / 100+i / 100+p) |
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) [📈](https://star-history.com/#{r['name']}) | ⭐ 73,419 | 2025-08-04 | 🔥🔥 | A cross-platform desktop All-in-One assistant for Claude Code, Codex,  | 🔥 300+ (100+c / 100+i / 100+p) |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) [📈](https://star-history.com/#{r['name']}) | ⭐ 68,124 | 2025-05-07 | 🔥🔥 | An open-source long-horizon SuperAgent harness that researches, codes, | 🔥 300+ (100+c / 100+i / 100+p) |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) [📈](https://star-history.com/#{r['name']}) | ⭐ 61,275 | 2026-04-04 | 🔥🔥 | 🪨 why use many token when few token do trick — Claude Code skill that  | 🔥 242+ (42c / 100+i / 100+p) |
 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) [📈](https://star-history.com/#{r['name']}) | ⭐ 52,270 | 2025-06-02 | 🔥🔥 | 🌊 The leading agent orchestration platform for Claude. Deploy intellig | 🔥 300+ (100+c / 100+i / 100+p) |
-| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) [📈](https://star-history.com/#{r['name']}) | ⭐ 49,254 | 2026-01-22 | 🔥🔥 | CLI proxy that reduces LLM token consumption by 60-90% on common dev c | 🔥 300+ (100+c / 100+i / 100+p) |
 | [safishamsi/graphify](https://github.com/safishamsi/graphify) [📈](https://star-history.com/#{r['name']}) | ⭐ 48,742 | 2026-04-03 | 🔥🔥 | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemin | 🔥 300+ (100+c / 100+i / 100+p) |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) [📈](https://star-history.com/#{r['name']}) | ⭐ 45,395 | 2024-08-23 | 🔥 | an open source, extensible AI agent that goes beyond code suggestions  | 🔥 300+ (100+c / 100+i / 100+p) |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) [📈](https://star-history.com/#{r['name']}) | ⭐ 43,450 | 2026-04-28 | 🔥🔥 | 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ | 🔥 300+ (100+c / 100+i / 100+p) |
@@ -64,16 +63,9 @@
 
 | Repository | Stars | Created | Hype | Description | Activity (30d) |
 |------------|-------|---------|------|-------------|----------------|
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) [📈](https://star-history.com/#{r['name']}) | ⭐ 68,124 | 2025-05-07 | 🔥🔥 | An open-source long-horizon SuperAgent harness that researches, codes, | 🔥 300+ (100+c / 100+i / 100+p) |
 | [BerriAI/litellm](https://github.com/BerriAI/litellm) [📈](https://star-history.com/#{r['name']}) | ⭐ 47,306 | 2023-07-27 | 🔥 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI  | 🔥 300+ (100+c / 100+i / 100+p) |
-| [decolua/9router](https://github.com/decolua/9router) [📈](https://star-history.com/#{r['name']}) | ⭐ 11,494 | 2026-01-05 | 🔥🔥 | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, C | 🔥 300+ (100+c / 100+i / 100+p) |
 | [mnfst/manifest](https://github.com/mnfst/manifest) [📈](https://star-history.com/#{r['name']}) | ⭐ 6,526 | 2022-09-27 | ⚡ | Smart Model Routing for Agents. Cut Costs up to 70% 🦚 | 🔥 300+ (100+c / 100+i / 100+p) |
 | [maximhq/bifrost](https://github.com/maximhq/bifrost) [📈](https://star-history.com/#{r['name']}) | ⭐ 4,985 | 2025-03-19 | 🔥 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive  | 🔥 300+ (100+c / 100+i / 100+p) |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) [📈](https://star-history.com/#{r['name']}) | ⭐ 4,766 | 2026-02-13 | 🔥🔥 | Never stop coding. Free AI gateway: one endpoint, 160+ providers, RTK+ | 🔥 300+ (100+c / 100+i / 100+p) |
-| [abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) [📈](https://star-history.com/#{r['name']}) | ⭐ 3,968 | 2026-02-01 | ⚡ | AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and | 🟡 35+ (0c / 23i / 12p) |
-| [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) [📈](https://star-history.com/#{r['name']}) | ⭐ 2,020 | 2026-01-28 | ⚡ | A clean web dashboard for OpenClaw. Connect your Gateway, manage agent | ⚪ 1+ (0c / 1i / 0p) |
-| [chrysb/alphaclaw](https://github.com/chrysb/alphaclaw) [📈](https://star-history.com/#{r['name']}) | ⭐ 1,302 | 2026-02-25 | ⚡ | The ultimate setup harness for OpenClaw. Deploy in minutes. Stay runni | 🟢 56+ (36c / 12i / 8p) |
-| [shenhao-stu/openclaw-agents](https://github.com/shenhao-stu/openclaw-agents) [📈](https://star-history.com/#{r['name']}) | ⭐ 431 | 2026-03-01 | ⚡ | 🐾 One-command multi-agent setup for OpenClaw — 9 specialized AI agents | ⚪ 1+ (0c / 1i / 0p) |
 
 ---
 
@@ -116,9 +108,11 @@
 | [cft0808/edict](https://github.com/cft0808/edict) [📈](https://star-history.com/#{r['name']}) | ⭐ 15,781 | 2026-02-23 | 🔥 | 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized A | 🟢 76+ (28c / 36i / 12p) |
 | [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) [📈](https://star-history.com/#{r['name']}) | ⭐ 7,220 | 2026-02-05 | 🔥🔥 | ClawX is a desktop app that provides a graphical interface for OpenCla | 🔥 287+ (87c / 100+i / 100+p) |
 | [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) [📈](https://star-history.com/#{r['name']}) | ⭐ 4,848 | 2026-02-13 | 🔥 | Self-hosted AI agent orchestration platform: dispatch tasks, run multi | ⚡ 194+ (19c / 100+i / 75p) |
+| [abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) [📈](https://star-history.com/#{r['name']}) | ⭐ 3,968 | 2026-02-01 | ⚡ | AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and | 🟡 35+ (0c / 23i / 12p) |
 | [bradygaster/squad](https://github.com/bradygaster/squad) [📈](https://star-history.com/#{r['name']}) | ⭐ 2,602 | 2026-02-06 | 🔥🔥 | Squad: AI agent teams for any project | 🔥 213+ (55c / 100+i / 58p) |
 | [UniRound-Tec/Aurogen](https://github.com/UniRound-Tec/Aurogen) [📈](https://star-history.com/#{r['name']}) | ⭐ 759 | 2026-03-09 | ⚡ | "Aurogen🍊: The Multi-Agent Evolution of OpenClaw." | ⚪ 1+ (0c / 1i / 0p) |
 | [robsannaa/openclaw-mission-control](https://github.com/robsannaa/openclaw-mission-control) [📈](https://star-history.com/#{r['name']}) | ⭐ 612 | 2026-02-15 | ⚡ | A GUI that runs on your Openclaw host and lets you totally manage it w | ⚪ 8+ (0c / 6i / 2p) |
+| [shenhao-stu/openclaw-agents](https://github.com/shenhao-stu/openclaw-agents) [📈](https://star-history.com/#{r['name']}) | ⭐ 431 | 2026-03-01 | ⚡ | 🐾 One-command multi-agent setup for OpenClaw — 9 specialized AI agents | ⚪ 1+ (0c / 1i / 0p) |
 | [raulvidis/openclaw-multi-agent-kit](https://github.com/raulvidis/openclaw-multi-agent-kit) [📈](https://star-history.com/#{r['name']}) | ⭐ 376 | 2026-03-04 | ⚡ | Production-tested templates for deploying multi-agent AI teams on Open | ⚪ 1+ (0c / 1i / 0p) |
 | [1Panel-dev/ClawSwarm](https://github.com/1Panel-dev/ClawSwarm) [📈](https://star-history.com/#{r['name']}) | ⭐ 238 | 2026-03-12 | ⚡ | 🔥 Open-source multi-agent orchestration system for OpenClaw, enabling  | 🟡 22+ (15c / 7i / 0p) |
 | [Richchen-maker/openclaw-multi-agent-team](https://github.com/Richchen-maker/openclaw-multi-agent-team) [📈](https://star-history.com/#{r['name']}) | ⭐ 77 | 2026-02-26 | ⚡ | 🐊 Multi-Team Intelligent Orchestrator v5.3.1 — DNA-driven multi-agent  | 💤 0+ (0c / 0i / 0p) |
@@ -146,6 +140,8 @@
 | [garrytan/gbrain](https://github.com/garrytan/gbrain) [📈](https://star-history.com/#{r['name']}) | ⭐ 16,433 | 2026-04-05 | 🔥🔥 | Garry's Opinionated OpenClaw/Hermes Agent Brain | 🔥 300+ (100+c / 100+i / 100+p) |
 | [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center) [📈](https://star-history.com/#{r['name']}) | ⭐ 3,972 | 2026-03-11 | ⚡ | Turn OpenClaw from a black box into a local control center you can see | 🟡 10+ (0c / 7i / 3p) |
 | [snarktank/antfarm](https://github.com/snarktank/antfarm) [📈](https://star-history.com/#{r['name']}) | ⭐ 2,461 | 2026-02-06 | ⚡ | Build your agent team in OpenClaw with one command. | 🟡 11+ (0c / 8i / 3p) |
+| [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) [📈](https://star-history.com/#{r['name']}) | ⭐ 2,020 | 2026-01-28 | ⚡ | A clean web dashboard for OpenClaw. Connect your Gateway, manage agent | ⚪ 1+ (0c / 1i / 0p) |
+| [chrysb/alphaclaw](https://github.com/chrysb/alphaclaw) [📈](https://star-history.com/#{r['name']}) | ⭐ 1,302 | 2026-02-25 | ⚡ | The ultimate setup harness for OpenClaw. Deploy in minutes. Stay runni | 🟢 56+ (36c / 12i / 8p) |
 | [carlosazaustre/tenacitOS](https://github.com/carlosazaustre/tenacitOS) [📈](https://star-history.com/#{r['name']}) | ⭐ 1,208 | 2026-02-21 | ⚡ | OpenClaw Mission Control Dashboard | ⚪ 3+ (0c / 2i / 1p) |
 | [mudrii/openclaw-dashboard](https://github.com/mudrii/openclaw-dashboard) [📈](https://star-history.com/#{r['name']}) | ⭐ 439 | 2026-02-06 | ⚡ | A beautiful, zero-dependency command center for OpenClaw AI agents | 🟢 64+ (54c / 6i / 4p) |
 | [outsourc-e/clawsuite](https://github.com/outsourc-e/clawsuite) [📈](https://star-history.com/#{r['name']}) | ⭐ 337 | 2026-02-07 | ⚡ | All-in-one command center for OpenClaw agents | 🟡 17+ (9c / 7i / 1p) |
@@ -173,14 +169,18 @@
 
 | Repository | Stars | Created | Hype | Description | Activity (30d) |
 |------------|-------|---------|------|-------------|----------------|
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) [📈](https://star-history.com/#{r['name']}) | ⭐ 73,419 | 2025-08-04 | 🔥🔥 | A cross-platform desktop All-in-One assistant for Claude Code, Codex,  | 🔥 300+ (100+c / 100+i / 100+p) |
 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) [📈](https://star-history.com/#{r['name']}) | ⭐ 50,662 | 2024-10-13 | 📈 | 🕷️ An adaptive Web Scraping framework that handles everything from a s | ⚡ 103+ (47c / 41i / 15p) |
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) [📈](https://star-history.com/#{r['name']}) | ⭐ 49,254 | 2026-01-22 | 🔥🔥 | CLI proxy that reduces LLM token consumption by 60-90% on common dev c | 🔥 300+ (100+c / 100+i / 100+p) |
 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) [📈](https://star-history.com/#{r['name']}) | ⭐ 40,771 | 2022-02-12 | ⚡ | A community-supported supercharged document management system: scan, i | 🔥 300+ (100+c / 100+i / 100+p) |
 | [roboflow/supervision](https://github.com/roboflow/supervision) [📈](https://star-history.com/#{r['name']}) | ⭐ 39,162 | 2022-11-28 | 📈 | We write your reusable computer vision tools. 💜 | ⚡ 137+ (28c / 82i / 27p) |
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) [📈](https://star-history.com/#{r['name']}) | ⭐ 35,452 | 2026-03-08 | 🔥🔥 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://c | 🔥 213+ (100+c / 78i / 35p) |
 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) [📈](https://star-history.com/#{r['name']}) | ⭐ 34,368 | 2025-01-19 | 📈 | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI  | 🟢 56+ (0c / 34i / 22p) |
 | [apernet/hysteria](https://github.com/apernet/hysteria) [📈](https://star-history.com/#{r['name']}) | ⭐ 21,061 | 2020-04-21 | 📈 | Hysteria is a powerful, lightning fast and censorship resistant proxy. | 🟢 66+ (18c / 38i / 10p) |
 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) [📈](https://star-history.com/#{r['name']}) | ⭐ 13,471 | 2026-02-22 | 🔥 | Stealth Chromium that passes every bot detection test. Drop-in Playwri | ⚡ 165+ (32c / 100+i / 33p) |
+| [decolua/9router](https://github.com/decolua/9router) [📈](https://star-history.com/#{r['name']}) | ⭐ 11,494 | 2026-01-05 | 🔥🔥 | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, C | 🔥 300+ (100+c / 100+i / 100+p) |
 | [millionco/react-doctor](https://github.com/millionco/react-doctor) [📈](https://star-history.com/#{r['name']}) | ⭐ 9,902 | 2026-02-13 | 🔥🔥 | Your agent writes bad React. This catches it | 🔥 300+ (100+c / 100+i / 100+p) |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) [📈](https://star-history.com/#{r['name']}) | ⭐ 4,766 | 2026-02-13 | 🔥🔥 | Never stop coding. Free AI gateway: one endpoint, 160+ providers, RTK+ | 🔥 300+ (100+c / 100+i / 100+p) |
 
 ---
 
@@ -240,16 +240,16 @@
 
 ### AI Gateways & LLM Routers
 
-| | [LiteLLM](https://github.com/BerriAI/litellm) | [Bifrost](https://github.com/maximhq/bifrost) | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [Manifest](https://github.com/mnfst/manifest) | [9Router](https://github.com/decolua/9router) |
-|---|:---:|:---:|:---:|:---:|:---:|
-| **Stars** | ⭐ 47K | ⭐ 5K | ⭐ 4.8K | ⭐ 6.5K | ⭐ 11.5K |
-| **Created** | 2023 | 2024 | 2024 | 2024 | 2025 |
-| **Hype** | 🔥🔥 | 🔥 | ⚡ | 🔥 | 🔥🔥 |
-| **Speed** | Fast | 50x faster | RTK compression | Smart routing | Proxy layer |
-| **Providers** | 100+ | 1000+ | 160+ free | Multi-provider | 40+ free |
-| **Cost Focus** | Unified billing | Load balancing | ~95% token savings | Up to 70% off | Free Claude access |
+| | [LiteLLM](https://github.com/BerriAI/litellm) | [Bifrost](https://github.com/maximhq/bifrost) | [Manifest](https://github.com/mnfst/manifest) |
+|---|:---:|:---:|:---:|
+| **Stars** | ⭐ 47K | ⭐ 5K | ⭐ 6.5K |
+| **Created** | 2023 | 2024 | 2024 |
+| **Hype** | 🔥🔥 | 🔥 | 🔥 |
+| **Speed** | Fast | 50x faster | Smart routing |
+| **Providers** | 100+ | 1000+ | Multi-provider |
+| **Cost Focus** | Unified billing | Load balancing | Up to 70% off |
 
-![Star History — AI Gateways](https://api.star-history.com/svg?repos=BerriAI/litellm,maximhq/bifrost,diegosouzapw/OmniRoute,mnfst/manifest,decolua/9router&type=Date)
+![Star History — AI Gateways](https://api.star-history.com/svg?repos=BerriAI/litellm,maximhq/bifrost,mnfst/manifest&type=Date)
 
 ### Memory Systems
 
