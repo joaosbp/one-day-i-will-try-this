@@ -13,9 +13,9 @@
 
 ---
 
-## 💻 AI Coding Agents & Claude Tools
+## 💻 AI Coding Agents
 
-> Agents and tools that write, edit, and test code. Everything Claude, Codex, and vibe-coding related.
+> Agents and tools that write, edit, and test code for you.
 
 ### 🔧 Real Applications
 
@@ -24,7 +24,6 @@
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) [📈](https://star-history.com/#{r['name']}) | ⭐ 191,777 | 2026-03-31 | 🔥🔥🔥 | The repo is finally unlocked. enjoy the party! The fastest repo in his | 🔥 300+ (100+c / 100+i / 100+p) |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) [📈](https://star-history.com/#{r['name']}) | ⭐ 161,598 | 2025-04-30 | 🔥🔥 | The open source coding agent. | 🔥 300+ (100+c / 100+i / 100+p) |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) [📈](https://star-history.com/#{r['name']}) | ⭐ 154,519 | 2025-07-22 | 🔥🔥🔥 | The agent that grows with you | 🔥 300+ (100+c / 100+i / 100+p) |
-| [garrytan/gstack](https://github.com/garrytan/gstack) [📈](https://star-history.com/#{r['name']}) | ⭐ 98,451 | 2026-03-11 | 🔥🔥 | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that ser | 🔥 262+ (62c / 100+i / 100+p) |
 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) [📈](https://star-history.com/#{r['name']}) | ⭐ 68,124 | 2025-05-07 | 🔥🔥 | An open-source long-horizon SuperAgent harness that researches, codes, | 🔥 300+ (100+c / 100+i / 100+p) |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) [📈](https://star-history.com/#{r['name']}) | ⭐ 61,275 | 2026-04-04 | 🔥🔥 | 🪨 why use many token when few token do trick — Claude Code skill that  | 🔥 242+ (42c / 100+i / 100+p) |
 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) [📈](https://star-history.com/#{r['name']}) | ⭐ 52,270 | 2025-06-02 | 🔥🔥 | 🌊 The leading agent orchestration platform for Claude. Deploy intellig | 🔥 300+ (100+c / 100+i / 100+p) |
@@ -44,13 +43,34 @@
 
 | Repository | Stars | Created | Hype | Description | Activity (30d) |
 |------------|-------|---------|------|-------------|----------------|
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) [📈](https://star-history.com/#{r['name']}) | ⭐ 133,755 | 2026-01-27 | 🔥 | A single CLAUDE.md file to improve Claude Code behavior, derived from  | ⚡ 102+ (3c / 53i / 46p) |
 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) [📈](https://star-history.com/#{r['name']}) | ⭐ 53,413 | 2025-10-31 | 🔥 | from vibe coding to agentic engineering - practice makes claude perfec | ⚡ 140+ (100+c / 26i / 14p) |
 | [santifer/career-ops](https://github.com/santifer/career-ops) [📈](https://star-history.com/#{r['name']}) | ⭐ 45,158 | 2026-04-04 | 🔥🔥 | AI-powered job search system built on Claude Code. 14 skill modes, Go  | 🔥 276+ (76c / 100+i / 100+p) |
 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) [📈](https://star-history.com/#{r['name']}) | ⭐ 44,032 | 2025-04-19 | 🔥 | A curated list of awesome skills, hooks, slash-commands, agent orchest | ⚡ 183+ (81c / 100+i / 2p) |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) [📈](https://star-history.com/#{r['name']}) | ⭐ 42,810 | 2026-02-15 | 🔥🔥 | Production-grade engineering skills for AI coding agents. | 🔥 224+ (62c / 100+i / 62p) |
 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) [📈](https://star-history.com/#{r['name']}) | ⭐ 33,280 | 2025-11-07 | ⚡ | A visual, example-driven guide to Claude Code — from basic concepts to | ⚡ 101+ (30c / 45i / 26p) |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) [📈](https://star-history.com/#{r['name']}) | ⭐ 26,028 | 2026-01-23 | 🔥🔥 | AI agent skill that researches any topic across Reddit, X, YouTube, HN | 🔥 300+ (100+c / 100+i / 100+p) |
+
+---
+
+## 🎯 Claude Skills, Configs & Guides
+
+> Skills packs, setup configs, and curated guides for Claude Code and Claude Desktop.
+
+### 🔧 Real Applications
+
+| Repository | Stars | Created | Hype | Description | Activity (30d) |
+|------------|-------|---------|------|-------------|----------------|
+| [anthropics/skills](https://github.com/anthropics/skills) [📈](https://star-history.com/#{r['name']}) | ⭐ 136,248 | 2025-09-22 | 🔥🔥 | Public repository for Agent Skills | 🔥 205+ (5c / 100+i / 100+p) |
+| [garrytan/gstack](https://github.com/garrytan/gstack) [📈](https://star-history.com/#{r['name']}) | ⭐ 98,451 | 2026-03-11 | 🔥🔥 | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that ser | 🔥 262+ (62c / 100+i / 100+p) |
+| [garrytan/gbrain](https://github.com/garrytan/gbrain) [📈](https://star-history.com/#{r['name']}) | ⭐ 16,433 | 2026-04-05 | 🔥🔥 | Garry's Opinionated OpenClaw/Hermes Agent Brain | 🔥 300+ (100+c / 100+i / 100+p) |
+
+### 📖 Guides, Lists & References
+
+| Repository | Stars | Created | Hype | Description | Activity (30d) |
+|------------|-------|---------|------|-------------|----------------|
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) [📈](https://star-history.com/#{r['name']}) | ⭐ 133,755 | 2026-01-27 | 🔥 | A single CLAUDE.md file to improve Claude Code behavior, derived from  | ⚡ 102+ (3c / 53i / 46p) |
+| [mattpocock/skills](https://github.com/mattpocock/skills) [📈](https://star-history.com/#{r['name']}) | ⭐ 88,577 | 2026-02-03 | 🔥🔥 | Skills for Real Engineers. Straight from my .claude directory. | ⚡ 174+ (51c / 100+i / 23p) |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) [📈](https://star-history.com/#{r['name']}) | ⭐ 42,810 | 2026-02-15 | 🔥🔥 | Production-grade engineering skills for AI coding agents. | 🔥 224+ (62c / 100+i / 62p) |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) [📈](https://star-history.com/#{r['name']}) | ⭐ 23,712 | 2025-10-19 | ⚡ | A set of ready to use Agent Skills for research, science, engineering, | 🟢 76+ (22c / 35i / 19p) |
 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) [📈](https://star-history.com/#{r['name']}) | ⭐ 15,163 | 2025-10-19 | 🔥🔥 | 263+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini | 🔥 300+ (100+c / 100+i / 100+p) |
 
 ---
@@ -140,7 +160,6 @@
 | Repository | Stars | Created | Hype | Description | Activity (30d) |
 |------------|-------|---------|------|-------------|----------------|
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) [📈](https://star-history.com/#{r['name']}) | ⭐ 372,634 | 2025-11-24 | 🚀🔥🔥🔥 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. | 🔥 300+ (100+c / 100+i / 100+p) |
-| [garrytan/gbrain](https://github.com/garrytan/gbrain) [📈](https://star-history.com/#{r['name']}) | ⭐ 16,433 | 2026-04-05 | 🔥🔥 | Garry's Opinionated OpenClaw/Hermes Agent Brain | 🔥 300+ (100+c / 100+i / 100+p) |
 | [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center) [📈](https://star-history.com/#{r['name']}) | ⭐ 3,972 | 2026-03-11 | ⚡ | Turn OpenClaw from a black box into a local control center you can see | 🟡 10+ (0c / 7i / 3p) |
 | [snarktank/antfarm](https://github.com/snarktank/antfarm) [📈](https://star-history.com/#{r['name']}) | ⭐ 2,461 | 2026-02-06 | ⚡ | Build your agent team in OpenClaw with one command. | 🟡 11+ (0c / 8i / 3p) |
 | [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) [📈](https://star-history.com/#{r['name']}) | ⭐ 2,020 | 2026-01-28 | ⚡ | A clean web dashboard for OpenClaw. Connect your Gateway, manage agent | ⚪ 1+ (0c / 1i / 0p) |
@@ -199,12 +218,6 @@
 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) [📈](https://star-history.com/#{r['name']}) | ⭐ 25,217 | 2025-07-01 | ⚡ | Kronos: A Foundation Model for the Language of Financial Markets | 🟡 41+ (0c / 29i / 12p) |
 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) [📈](https://star-history.com/#{r['name']}) | ⭐ 12,633 | 2026-02-18 | 🔥🔥 | Your Personal AI super intelligence. Private, Simple and extremely pow | 🔥 300+ (100+c / 100+i / 100+p) |
 
-### 📖 Guides, Lists & References
-
-| Repository | Stars | Created | Hype | Description | Activity (30d) |
-|------------|-------|---------|------|-------------|----------------|
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) [📈](https://star-history.com/#{r['name']}) | ⭐ 23,712 | 2025-10-19 | ⚡ | A set of ready to use Agent Skills for research, science, engineering, | 🟢 76+ (22c / 35i / 19p) |
-
 ---
 
 ## 📦 Other Projects
@@ -216,7 +229,6 @@
 | Repository | Stars | Created | Hype | Description | Activity (30d) |
 |------------|-------|---------|------|-------------|----------------|
 | [obra/superpowers](https://github.com/obra/superpowers) [📈](https://star-history.com/#{r['name']}) | ⭐ 194,963 | 2025-10-09 | 🔥🔥 | An agentic skills framework & software development methodology that wo | 🔥 203+ (3c / 100+i / 100+p) |
-| [anthropics/skills](https://github.com/anthropics/skills) [📈](https://star-history.com/#{r['name']}) | ⭐ 136,248 | 2025-09-22 | 🔥🔥 | Public repository for Agent Skills | 🔥 205+ (5c / 100+i / 100+p) |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) [📈](https://star-history.com/#{r['name']}) | ⭐ 98,997 | 2025-10-13 | 🔥 | A complete AI agency at your fingertips - From frontend wizards to Red | ⚡ 134+ (0c / 93i / 41p) |
 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) [📈](https://star-history.com/#{r['name']}) | ⭐ 54,335 | 2026-01-08 | 🔥🔥 | Real-time global intelligence dashboard. AI-powered news aggregation,  | 🔥 300+ (100+c / 100+i / 100+p) |
 | [multica-ai/multica](https://github.com/multica-ai/multica) [📈](https://star-history.com/#{r['name']}) | ⭐ 28,992 | 2026-01-13 | 🔥🔥 | The open-source managed agents platform. Turn coding agents into real  | 🔥 300+ (100+c / 100+i / 100+p) |
@@ -227,7 +239,6 @@
 
 | Repository | Stars | Created | Hype | Description | Activity (30d) |
 |------------|-------|---------|------|-------------|----------------|
-| [mattpocock/skills](https://github.com/mattpocock/skills) [📈](https://star-history.com/#{r['name']}) | ⭐ 88,577 | 2026-02-03 | 🔥🔥 | Skills for Real Engineers. Straight from my .claude directory. | ⚡ 174+ (51c / 100+i / 23p) |
 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) [📈](https://star-history.com/#{r['name']}) | ⭐ 80,281 | 2026-03-31 | 🔥 | A collection of DESIGN.md files inspired by popular brand design syste | 🟢 61+ (12c / 39i / 10p) |
 | [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) [📈](https://star-history.com/#{r['name']}) | ⭐ 21,718 | 2024-07-04 | 📈 | A list of free LLM inference resources accessible via API. | 🟡 41+ (5c / 21i / 15p) |
 | [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) [📈](https://star-history.com/#{r['name']}) | ⭐ 12,270 | 2025-02-16 | 📈 | A collection of projects showcasing RAG, agents, workflows, and other  | 🟡 48+ (20c / 19i / 9p) |
@@ -287,17 +298,17 @@
 
 ![Star History — Multi-Agent](https://api.star-history.com/svg?repos=bradygaster/squad,ruvnet/ruflo,builderz-labs/mission-control,1Panel-dev/ClawSwarm&type=Date)
 
-### Claude / Vibe Coding Skills
+### Claude Skills, Configs & Guides
 
-| | [superpowers](https://github.com/obra/superpowers) | [gstack](https://github.com/garrytan/gstack) | [gbrain](https://github.com/garrytan/gbrain) | [easy-vibe](https://github.com/datawhalechina/easy-vibe) |
+| | [superpowers](https://github.com/obra/superpowers) | [gstack](https://github.com/garrytan/gstack) | [gbrain](https://github.com/garrytan/gbrain) | [anthropics/skills](https://github.com/anthropics/skills) |
 |---|:---:|:---:|:---:|:---:|
-| **Stars** | ⭐ 195K | ⭐ 98K | ⭐ 16K | ⭐ 12K |
+| **Stars** | ⭐ 195K | ⭐ 98K | ⭐ 16K | ⭐ 136K |
 | **Created** | 2024 | 2024 | 2024 | 2025 |
-| **Hype** | 🚀🔥🔥🔥 | 🔥🔥🔥 | 🔥🔥 | 🔥 |
-| **Focus** | Agentic methodology | 23 opinionated roles | Agent brain | Vibe coding tutorial |
-| **Best For** | Patterns & culture | Full team simulation | Thinking layer | Learn vibe coding |
+| **Hype** | 🚀🔥🔥🔥 | 🔥🔥🔥 | 🔥🔥 | 🚀🔥🔥🔥 |
+| **Focus** | Agentic methodology | 23 opinionated roles | Agent brain | Official skills |
+| **Best For** | Patterns & culture | Full team simulation | Thinking layer | Production ready |
 
-![Star History — Claude Skills](https://api.star-history.com/svg?repos=obra/superpowers,garrytan/gstack,garrytan/gbrain,datawhalechina/easy-vibe&type=Date)
+![Star History — Claude Skills](https://api.star-history.com/svg?repos=obra/superpowers,garrytan/gstack,garrytan/gbrain,anthropics/skills&type=Date)
 
 ---
 
