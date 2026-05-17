@@ -130,6 +130,12 @@
 
 ---
 
+### Hype Score Formula
+```
+(stars_7d * 6) + (forks_7d * 10) + (new_contributors_30d * 5) +
+(commits_30d * 0.25) + (prs_30d * 2) + (log10(total_stars) * 15)
+```
+
 ### Hype Tiers
 | Icon | Tier | Score |
 |------|------|-------|
