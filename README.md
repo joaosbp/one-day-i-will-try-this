@@ -2,70 +2,476 @@
 
 # One Day I Will Try This
 
-**A curated list of awesome repositories I have starred and want to try someday.**
+### *A curated journey through the best AI agent, coding, and automation repositories.*
 
 ![Repos](https://img.shields.io/badge/repos-103-blue?style=flat-square)
 ![Stars](https://img.shields.io/badge/total%20stars-3M-yellow?style=flat-square&logo=github)
-![Projects](https://img.shields.io/badge/projects-82-orange?style=flat-square)
-![Lists](https://img.shields.io/badge/lists%20%26%20guides-21-purple?style=flat-square)
-![Hyperactive](https://img.shields.io/badge/hyperactive%20%F0%9F%94%A5-47-red?style=flat-square)
+![Featured](https://img.shields.io/badge/featured%20⭐-8-purple?style=flat-square)
+![Projects](https://img.shields.io/badge/projects-77-green?style=flat-square)
 
 </div>
 
 ---
 
-## Portfolio Overview
+## 🗺️ The Journey
 
-| Metric | Value |
-|--------|-------|
-| **Total Repositories** | 103 |
-| **Real Projects & Software** | 82 |
-| **Lists, Guides & Resources** | 21 |
-| **Total Stars** | ⭐ 3,931,482 |
-| **Project Categories** | 8 |
-| **List Categories** | 6 |
-| **Top Language** | TypeScript (35 repos) |
-| **Hyperactive (🔥 200+)** | 47 |
-| **Very Active (⚡ 100-199)** | 13 |
-| **Plug & Play** | 46 |
-| **Setup Medio** | 31 |
-| **Advanced** | 26 |
+This isn't just a list. It's a path.
+
+1. **Start with the [Essentials](#-start-here--the-essentials)** — the tools that matter most
+2. **Power up with [AI Gateways](#-ai-gateways--model-routing)** — never pay full price for LLMs
+3. **Give your agents [Memory](#-memory--knowledge-systems)** — so they remember
+4. **Scale with [Multi-Agent Systems](#-multi-agent-orchestration)** — teams of AI working together
+5. **Browse [Specialized Tools](#-specialized--niche)** for your specific domain
+6. **Reference [Guides & Skills](#-guides--references)** when you need to learn
 
 ---
 
-## Table of Contents
+## 🚀 Start Here — The Essentials
 
-### 🛠️ Part 1: Real Projects & Software
+> These are the repos that matter most. Start your journey here.
 
-- [OpenClaw Ecosystem](#openclaw-ecosystem) (35 repos)
-- [Agents & Skill Frameworks](#agents--skill-frameworks) (15 repos)
-- [Claude Code & Coding Agents](#claude-code--coding-agents) (15 repos)
-- [Other Projects](#other-projects) (6 repos)
-- [AI Gateways & Model Routing](#ai-gateways--model-routing) (4 repos)
-- [Memory & Knowledge Systems](#memory--knowledge-systems) (3 repos)
-- [UI, Dashboards & Desktop Apps](#ui-dashboards--desktop-apps) (2 repos)
-- [Automation & Productivity](#automation--productivity) (2 repos)
+### ⭐ [openclaw/openclaw](https://github.com/openclaw/openclaw) — ⭐ 372,634
 
-### 📚 Part 2: Lists, Guides & Resources
+Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
-- [Awesome Lists](#awesome-lists) (7 repos)
-- [Skills Collections](#skills-collections) (5 repos)
-- [Learning Resources](#learning-resources) (3 repos)
-- [Setup Guides & Configs](#setup-guides--configs) (3 repos)
-- [How-To Guides](#how-to-guides) (2 repos)
-- [Best Practices & Security](#best-practices--security) (1 repos)
+**Why it matters:** Your own personal AI assistant. Any OS. Any platform. The lobster way.
 
-- [Head-to-Head Comparisons](#head-to-head-comparisons)
-- [My Personal Tracker](#my-personal-tracker)
-- [Activity Legend](#activity-legend-last-30-days)
-- [Complexity Legend](#complexity-legend)
+**Activity (30d):** 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs · **License:** MIT · **Updated:** 2026-05-17
 
 ---
 
-## Activity Legend (Last 30 Days)
+### ⭐ [obra/superpowers](https://github.com/obra/superpowers) — ⭐ 194,963
 
-| Emoji | Activity Level | Total Events |
-|-------|---------------|-------------|
+An agentic skills framework & software development methodology that works.
+
+**Why it matters:** Agentic skills framework that actually works
+
+**Activity (30d):** 🔥 203+ | 3 commits / 100+ issues / 100+ PRs · **License:** MIT · **Updated:** 2026-05-17
+
+---
+
+### ⭐ [anomalyco/opencode](https://github.com/anomalyco/opencode) — ⭐ 161,598
+
+The open source coding agent.
+
+**Why it matters:** The open source coding agent. Let AI write code for you.
+
+**Activity (30d):** 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs · **License:** MIT · **Updated:** 2026-05-17
+
+---
+
+### ⭐ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 154,519
+
+The agent that grows with you
+
+**Why it matters:** The agent that grows with you. Self-improving AI companion.
+
+**Activity (30d):** 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs · **License:** MIT · **Updated:** 2026-05-17
+
+---
+
+### ⭐ [anthropics/skills](https://github.com/anthropics/skills) — ⭐ 136,248
+
+Public repository for Agent Skills
+
+**Why it matters:** Official Anthropic skills repository. Production-ready patterns.
+
+**Activity (30d):** 🔥 205+ | 5 commits / 100+ issues / 100+ PRs · **License:** Unknown · **Updated:** 2026-05-17
+
+---
+
+### ⭐ [garrytan/gstack](https://github.com/garrytan/gstack) — ⭐ 98,451
+
+Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager,
+
+**Why it matters:** Garry Tan's exact Claude Code setup — 23 tools for CEO, Designer, Eng Manager, QA
+
+**Activity (30d):** 🔥 262+ | 62 commits / 100+ issues / 100+ PRs · **License:** MIT · **Updated:** 2026-05-17
+
+---
+
+### ⭐ [aaif-goose/goose](https://github.com/aaif-goose/goose) — ⭐ 45,395
+
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+
+**Why it matters:** Open-source extensible AI agent — installs, executes, edits, tests
+
+**Activity (30d):** 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs · **License:** Apache-2.0 · **Updated:** 2026-05-17
+
+---
+
+### ⭐ [garrytan/gbrain](https://github.com/garrytan/gbrain) — ⭐ 16,433
+
+Garry's Opinionated OpenClaw/Hermes Agent Brain
+
+**Why it matters:** Opinionated agent brain for OpenClaw/Hermes. The thinking layer.
+
+**Activity (30d):** 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs · **License:** MIT · **Updated:** 2026-05-17
+
+---
+
+## 💻 AI Coding Agents
+
+<details open>
+<summary><b>🔧 Projects & Applications</b> — 10 repos</summary>
+
+| Repository | Stars | Description | Activity (30d) | License |
+|------------|-------|-------------|----------------|---------|
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | ⭐ 191,777 | The repo is finally unlocked. enjoy the party! The fastest repo in history to su | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | MIT |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | ⭐ 61,275 | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o | 🔥 242+ | 42 commits / 100+ issues / 100+ PRs | MIT |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | ⭐ 52,270 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi- | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | MIT |
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | ⭐ 49,254 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | Apache-2.0 |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | ⭐ 43,450 | 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | Apache-2.0 |
+| [wshobson/agents](https://github.com/wshobson/agents) | ⭐ 35,541 | Intelligent automation and multi-agent orchestration for Claude Code | 🟢 94+ | 29 commits / 40 issues / 25 PRs | MIT |
+| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | ⭐ 34,079 | Teams-first Multi-agent orchestration for Claude Code | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | MIT |
+| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | ⭐ 28,901 | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | Unknown |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | ⭐ 19,039 | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, | 🟢 54+ | 5 commits / 37 issues / 12 PRs | MIT |
+| [decolua/9router](https://github.com/decolua/9router) | ⭐ 11,494 | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | MIT |
+
+</details>
+
+## ⚡ AI Gateways & Model Routing
+
+<details open>
+<summary><b>🔧 Projects & Applications</b> — 2 repos</summary>
+
+| Repository | Stars | Description | Activity (30d) | License |
+|------------|-------|-------------|----------------|---------|
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ⭐ 68,124 | An open-source long-horizon SuperAgent harness that researches, codes, and creat | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | MIT |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | ⭐ 47,306 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | NOASSERTION |
+
+</details>
+
+## 🧠 Memory & Knowledge Systems
+
+<details open>
+<summary><b>🔧 Projects & Applications</b> — 3 repos</summary>
+
+| Repository | Stars | Description | Activity (30d) | License |
+|------------|-------|-------------|----------------|---------|
+| [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | ⭐ 52,366 | The best-benchmarked open-source AI memory system. And it's free. | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | MIT |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | ⭐ 22,601 | Memory engine and app that is extremely fast, scalable. The Memory API for the A | 🔥 277+ | 82 commits / 100+ issues / 95 PRs | MIT |
+| [EvoMap/evolver](https://github.com/EvoMap/evolver) | ⭐ 7,462 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Gen | ⚡ 198+ | 68 commits / 100+ issues / 30 PRs | GPL-3.0 |
+
+</details>
+
+## 🤖 Multi-Agent Orchestration
+
+<details open>
+<summary><b>🔧 Projects & Applications</b> — 1 repos</summary>
+
+| Repository | Stars | Description | Activity (30d) | License |
+|------------|-------|-------------|----------------|---------|
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | ⭐ 76,467 | TradingAgents: Multi-Agents LLM Financial Trading Framework | 🔥 249+ | 49 commits / 100+ issues / 100+ PRs | Apache-2.0 |
+
+</details>
+
+## 🦞 OpenClaw Ecosystem
+
+<details open>
+<summary><b>🔧 Projects & Applications</b> — 10 repos</summary>
+
+| Repository | Stars | Description | Activity (30d) | License |
+|------------|-------|-------------|----------------|---------|
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | ⭐ 76,358 | Persistent Context Across Sessions for Every Agent –  Captures everything your a | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | Apache-2.0 |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | ⭐ 73,419 | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,  | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | MIT |
+| [safishamsi/graphify](https://github.com/safishamsi/graphify) | ⭐ 48,742 | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | MIT |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | ⭐ 24,009 | OpenViking is an open-source context database designed specifically for AI Agent | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | AGPL-3.0 |
+| [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 15,781 | 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents w | 🟢 76+ | 28 commits / 36 issues / 12 PRs | MIT |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | ⭐ 13,648 | Memory for 24/7 proactive agents like OpenClaw. | 🟡 27+ | 1 commits / 20 issues / 6 PRs | NOASSERTION |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | ⭐ 11,094 | #1 Persistent memory for AI coding agents based on real-world benchmarks | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | Apache-2.0 |
+| [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | ⭐ 9,146 | Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-ret | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | Apache-2.0 |
+| [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) | ⭐ 7,220 | ClawX is a desktop app that provides a graphical interface for OpenClaw AI agent | 🔥 287+ | 87 commits / 100+ issues / 100+ PRs | MIT |
+| [mnfst/manifest](https://github.com/mnfst/manifest) | ⭐ 6,526 | Smart Model Routing for Agents. Cut Costs up to 70% 🦚 | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | MIT |
+
+</details>
+
+## 🛠️ Developer Tools & Utilities
+
+<details open>
+<summary><b>🔧 Projects & Applications</b> — 6 repos</summary>
+
+| Repository | Stars | Description | Activity (30d) | License |
+|------------|-------|-------------|----------------|---------|
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | ⭐ 50,662 | 🕷️ An adaptive Web Scraping framework that handles everything from a single requ | ⚡ 103+ | 47 commits / 41 issues / 15 PRs | BSD-3-Clause |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | ⭐ 40,771 | A community-supported supercharged document management system: scan, index and a | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | GPL-3.0 |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | ⭐ 39,162 | We write your reusable computer vision tools. 💜 | ⚡ 137+ | 28 commits / 82 issues / 27 PRs | MIT |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | ⭐ 34,368 | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and | 🟢 56+ | 0 commits / 34 issues / 22 PRs | Apache-2.0 |
+| [apernet/hysteria](https://github.com/apernet/hysteria) | ⭐ 21,061 | Hysteria is a powerful, lightning fast and censorship resistant proxy. | 🟢 66+ | 18 commits / 38 issues / 10 PRs | MIT |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | ⭐ 13,471 | Stealth Chromium that passes every bot detection test. Drop-in Playwright replac | ⚡ 165+ | 32 commits / 100+ issues / 33 PRs | MIT |
+
+</details>
+
+## 🔬 Specialized & Niche
+
+<details open>
+<summary><b>🔧 Projects & Applications</b> — 4 repos</summary>
+
+| Repository | Stars | Description | Activity (30d) | License |
+|------------|-------|-------------|----------------|---------|
+| [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | ⭐ 81,511 | AI agents running research on single-GPU nanochat training automatically | ⚡ 144+ | 0 commits / 81 issues / 63 PRs | Unknown |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ⭐ 36,558 | LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stoc | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | MIT |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | ⭐ 25,217 | Kronos: A Foundation Model for the Language of Financial Markets | 🟡 41+ | 0 commits / 29 issues / 12 PRs | MIT |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | ⭐ 12,633 | Your Personal AI super intelligence. Private, Simple and extremely powerful. | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | GPL-3.0 |
+
+</details>
+
+## 📦 Other Projects
+
+<details open>
+<summary><b>🔧 Projects & Applications</b> — 10 repos</summary>
+
+| Repository | Stars | Description | Activity (30d) | License |
+|------------|-------|-------------|----------------|---------|
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | ⭐ 98,997 | A complete AI agency at your fingertips - From frontend wizards to Reddit commun | ⚡ 134+ | 0 commits / 93 issues / 41 PRs | MIT |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | ⭐ 66,073 | The open-source app everyone uses to manage agents at work | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | MIT |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | ⭐ 54,335 | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | NOASSERTION |
+| [calcom/cal.diy](https://github.com/calcom/cal.diy) | ⭐ 43,150 | Scheduling infrastructure for absolutely everyone. | 🔥 237+ | 37 commits / 100+ issues / 100+ PRs | MIT |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | ⭐ 35,452 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything | 🔥 213+ | 100+ commits / 78 issues / 35 PRs | Apache-2.0 |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | ⭐ 28,992 | The open-source managed agents platform. Turn coding agents into real teammates  | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | NOASSERTION |
+| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | ⭐ 14,611 | Let's use AI to Earn! | 🟢 65+ | 14 commits / 35 issues / 16 PRs | MIT |
+| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | ⭐ 12,229 | 💻 vibe coding 2026 \| Your first modern Coding course for beginners to master ste | 🟢 61+ | 28 commits / 22 issues / 11 PRs | Unknown |
+| [millionco/react-doctor](https://github.com/millionco/react-doctor) | ⭐ 9,902 | Your agent writes bad React. This catches it | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs | MIT |
+| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | ⭐ 7,463 | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. | 🟢 79+ | 6 commits / 60 issues / 13 PRs | MIT |
+
+</details>
+
+## 🔌 Utilities & Extras
+
+<details>
+<summary><b>Lesser-known but useful tools</b> — click to expand</summary>
+
+| Repository | Stars | Description | Activity (30d) |
+|------------|-------|-------------|----------------|
+| [maximhq/bifrost](https://github.com/maximhq/bifrost) | ⭐ 4,985 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balan | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs |
+| [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) | ⭐ 4,848 | Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent wor | ⚡ 194+ | 19 commits / 100+ issues / 75 PRs |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | ⭐ 4,766 | Never stop coding. Free AI gateway: one endpoint, 160+ providers, RTK+Caveman st | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs |
+| [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center) | ⭐ 3,972 | Turn OpenClaw from a black box into a local control center you can see, trust, a | 🟡 10+ | 0 commits / 7 issues / 3 PRs |
+| [abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) | ⭐ 3,968 | AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinat | 🟡 35+ | 0 commits / 23 issues / 12 PRs |
+| [bradygaster/squad](https://github.com/bradygaster/squad) | ⭐ 2,602 | Squad: AI agent teams for any project | 🔥 213+ | 55 commits / 100+ issues / 58 PRs |
+| [snarktank/antfarm](https://github.com/snarktank/antfarm) | ⭐ 2,461 | Build your agent team in OpenClaw with one command. | 🟡 11+ | 0 commits / 8 issues / 3 PRs |
+| [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) | ⭐ 2,272 | Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy acc | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs |
+| [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) | ⭐ 2,020 | A clean web dashboard for OpenClaw. Connect your Gateway, manage agents, and shi | ⚪ 1+ | 0 commits / 1 issues / 0 PRs |
+| [chrysb/alphaclaw](https://github.com/chrysb/alphaclaw) | ⭐ 1,302 | The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for mon | 🟢 56+ | 36 commits / 12 issues / 8 PRs |
+| [carlosazaustre/tenacitOS](https://github.com/carlosazaustre/tenacitOS) | ⭐ 1,208 | OpenClaw Mission Control Dashboard | ⚪ 3+ | 0 commits / 2 issues / 1 PRs |
+| [JohnRiceML/clawport-ui](https://github.com/JohnRiceML/clawport-ui) | ⭐ 874 | Open-source AI agent command center for Claude Code agent teams. Built on OpenCl | 💤 0+ | 0 commits / 0 issues / 0 PRs |
+| [UniRound-Tec/Aurogen](https://github.com/UniRound-Tec/Aurogen) | ⭐ 759 | "Aurogen🍊: The Multi-Agent Evolution of OpenClaw." | ⚪ 1+ | 0 commits / 1 issues / 0 PRs |
+| [getclawe/clawe](https://github.com/getclawe/clawe) | ⭐ 726 | Multi-agent coordination system: think Trello for OpenClaw agents.  | 💤 0+ | 0 commits / 0 issues / 0 PRs |
+| [robsannaa/openclaw-mission-control](https://github.com/robsannaa/openclaw-mission-control) | ⭐ 612 | A GUI that runs on your Openclaw host and lets you totally manage it without tou | ⚪ 8+ | 0 commits / 6 issues / 2 PRs |
+| [mudrii/openclaw-dashboard](https://github.com/mudrii/openclaw-dashboard) | ⭐ 439 | A beautiful, zero-dependency command center for OpenClaw AI agents | 🟢 64+ | 54 commits / 6 issues / 4 PRs |
+| [shenhao-stu/openclaw-agents](https://github.com/shenhao-stu/openclaw-agents) | ⭐ 431 | 🐾 One-command multi-agent setup for OpenClaw — 9 specialized AI agents, group ro | ⚪ 1+ | 0 commits / 1 issues / 0 PRs |
+| [outsourc-e/clawsuite](https://github.com/outsourc-e/clawsuite) | ⭐ 337 | All-in-one command center for OpenClaw agents | 🟡 17+ | 9 commits / 7 issues / 1 PRs |
+| [1Panel-dev/ClawSwarm](https://github.com/1Panel-dev/ClawSwarm) | ⭐ 238 | 🔥 Open-source multi-agent orchestration system for OpenClaw, enabling swarm inte | 🟡 22+ | 15 commits / 7 issues / 0 PRs |
+| [JIGGAI/ClawRecipes](https://github.com/JIGGAI/ClawRecipes) | ⭐ 100 | Save 120+ Hours of Setup Pain (I did it for you) – Launch Your OpenClaw Agent Te | 🟢 91+ | 42 commits / 26 issues / 23 PRs |
+| [garrytan/alphaclaw](https://github.com/garrytan/alphaclaw) | ⭐ 96 | The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for mon | 💤 0+ | 0 commits / 0 issues / 0 PRs |
+| [Richchen-maker/openclaw-multi-agent-team](https://github.com/Richchen-maker/openclaw-multi-agent-team) | ⭐ 77 | 🐊 Multi-Team Intelligent Orchestrator v5.3.1 — DNA-driven multi-agent collaborat | 💤 0+ | 0 commits / 0 issues / 0 PRs |
+| [jefferyjob/openclaw-it-team](https://github.com/jefferyjob/openclaw-it-team) | ⭐ 32 | 🦞 OpenClaw uses a multi-agent approach to simulate a complete IT team, automatin | 💤 0+ | 0 commits / 0 issues / 0 PRs |
+
+</details>
+
+---
+
+---
+
+## 📚 Guides, References & Resources
+
+> Documentation, curated lists, tutorials, and skill collections. Read, learn, copy.
+
+### 📖 Curated Lists & Awesome Collections
+
+| Repository | Stars | What You Get | Activity (30d) |
+|------------|-------|--------------|----------------|
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐ 133,755 | Andrej Karpathy-style CLAUDE.md for better behavior | ⚡ 102+ | 3 commits / 53 issues / 46 PRs |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | ⭐ 88,577 | Production-grade skills from Matt Pocock's .claude directory | ⚡ 174+ | 51 commits / 100+ issues / 23 PRs |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | ⭐ 80,281 | DESIGN.md templates inspired by famous brand systems | 🟢 61+ | 12 commits / 39 issues / 10 PRs |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ⭐ 53,413 | From vibe coding to agentic engineering | ⚡ 140+ | 100+ commits / 26 issues / 14 PRs |
+| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | ⭐ 48,853 | 5,400+ OpenClaw skills filtered and categorized | ⚡ 124+ | 28 commits / 68 issues / 28 PRs |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | ⭐ 45,158 | AI-powered career operations and professional development | 🔥 276+ | 76 commits / 100+ issues / 100+ PRs |
+| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ⭐ 44,032 | Curated skills, hooks, commands for Claude Code | ⚡ 183+ | 81 commits / 100+ issues / 2 PRs |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⭐ 42,810 | Production engineering skills for AI coding agents | 🔥 224+ | 62 commits / 100+ issues / 62 PRs |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | ⭐ 33,280 | Visual guide to Claude Code — beginner to advanced | ⚡ 101+ | 30 commits / 45 issues / 26 PRs |
+| [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | ⭐ 31,079 | Real community use cases for OpenClaw | 🟡 44+ | 0 commits / 24 issues / 20 PRs |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ⭐ 26,028 | Research any topic across Reddit, X, YouTube, HN, Polymarket | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ⭐ 23,712 | Scientific research skills for AI agents | 🟢 76+ | 22 commits / 35 issues / 19 PRs |
+| [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | ⭐ 21,718 | Comprehensive list of free LLM inference APIs | 🟡 41+ | 5 commits / 21 issues / 15 PRs |
+| [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | ⭐ 12,270 | Showcase of real-world RAG, agent, and workflow projects | 🟡 48+ | 20 commits / 19 issues / 9 PRs |
+| [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide) | ⭐ 2,829 | Security practices specifically for OpenClaw agents | ⚪ 6+ | 0 commits / 6 issues / 0 PRs |
+| [alvinreal/awesome-openclaw](https://github.com/alvinreal/awesome-openclaw) | ⭐ 681 | Curated list of the best OpenClaw resources | 🟡 36+ | 3 commits / 18 issues / 15 PRs |
+| [raulvidis/openclaw-multi-agent-kit](https://github.com/raulvidis/openclaw-multi-agent-kit) | ⭐ 376 | AI development resource | ⚪ 1+ | 0 commits / 1 issues / 0 PRs |
+
+### ⚙️ Setup Configs & Templates
+
+| Repository | Stars | What You Get | Activity (30d) |
+|------------|-------|--------------|----------------|
+| [czl9707/build-your-own-openclaw](https://github.com/czl9707/build-your-own-openclaw) | ⭐ 1,642 | AI development resource | ⚪ 9+ | 2 commits / 5 issues / 2 PRs |
+| [win4r/ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) | ⭐ 1,370 | ClawTeam fork adapted for OpenClaw swarm coordination | ⚪ 9+ | 0 commits / 6 issues / 3 PRs |
+| [ucsandman/OpenClaw-Setup](https://github.com/ucsandman/OpenClaw-Setup) | ⭐ 112 | Personal OpenClaw with hierarchical memory and meditation | 💤 0+ | 0 commits / 0 issues / 0 PRs |
+| [Atlas-Cowork/openclaw-reference-setup](https://github.com/Atlas-Cowork/openclaw-reference-setup) | ⭐ 83 | Hardened personal OpenClaw with 15+ custom skills | 💤 0+ | 0 commits / 0 issues / 0 PRs |
+| [TheSethRose/OpenClaw-Advanced-Config](https://github.com/TheSethRose/OpenClaw-Advanced-Config) | ⭐ 46 | Production-ready multi-agent OpenClaw with hub-and-spoke | 💤 0+ | 0 commits / 0 issues / 0 PRs |
+
+### 🧩 Skills Collections
+
+| Repository | Stars | What You Get | Activity (30d) |
+|------------|-------|--------------|----------------|
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ⭐ 185,496 | Complete Claude Code optimization system | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs |
+| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | ⭐ 15,163 | 263+ skills for Claude Code, Codex, Gemini, Cursor | 🔥 300+ | 100+ commits / 100+ issues / 100+ PRs |
+| [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | ⭐ 3,396 | 162 production-ready OpenClaw agent templates | 🟡 40+ | 2 commits / 24 issues / 14 PRs |
+| [LeoYeAI/openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills) | ⭐ 1,989 | 1,200+ OpenClaw skills updated weekly | 🟡 21+ | 6 commits / 12 issues / 3 PRs |
+
+---
+
+## ⚖️ Head-to-Head Comparisons
+
+> Side-by-side of tools that solve similar problems. Pick your weapon.
+
+### AI Gateways
+
+| | [LiteLLM](https://github.com/BerriAI/litellm) | [Bifrost](https://github.com/maximhq/bifrost) | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [Manifest](https://github.com/mnfst/manifest) |
+|---|:---:|:---:|:---:|:---:|
+| **Stars** | ⭐ 47K | ⭐ 5K | ⭐ 4.8K | ⭐ 6.5K |
+| **Speed** | Fast | 50x faster | RTK compression | Smart routing |
+| **Providers** | 100+ | 1000+ | 160+ free | Multi-provider |
+| **Cost** | Unified billing | Load balance | ~95% savings | Up to 70% off |
+| **Best For** | Enterprise fleets | High throughput | Free tier max | Cost-aware routing |
+
+### Memory Systems
+
+| | [Supermemory](https://github.com/supermemoryai/supermemory) | [MemPalace](https://github.com/MemPalace/mempalace) | [MemOS](https://github.com/MemTensor/MemOS) | [memU](https://github.com/NevaMind-AI/memU) |
+|---|:---:|:---:|:---:|:---:|
+| **Stars** | ⭐ 22.6K | ⭐ 52.4K | ⭐ 9.1K | ⭐ 13.6K |
+| **Type** | Fast API | Benchmarked | Self-evolving | 24/7 persistent |
+| **Best For** | Production apps | Performance | Adaptive memory | Long-running agents |
+
+### Claude Code Skill Frameworks
+
+| | [superpowers](https://github.com/obra/superpowers) | [gstack](https://github.com/garrytan/gstack) | [gbrain](https://github.com/garrytan/gbrain) |
+|---|:---:|:---:|:---:|
+| **Stars** | ⭐ 195K | ⭐ 98K | ⭐ 16.4K |
+| **Focus** | Agentic methodology | 23 opinionated roles | Agent brain/personality |
+| **Best For** | Patterns & culture | Full team simulation | Thinking layer |
+
+---
+
+## 🎯 My Personal Tracker
+
+> Mark what I've tried. Update manually.
+
+### Essentials
+- [ ] ⬜ [openclaw/openclaw](https://github.com/openclaw/openclaw) — Your own personal AI assistant. Any OS. Any platfo
+- [ ] ⬜ [obra/superpowers](https://github.com/obra/superpowers) — Agentic skills framework that actually works
+- [ ] ⬜ [anomalyco/opencode](https://github.com/anomalyco/opencode) — The open source coding agent. Let AI write code fo
+- [ ] ⬜ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — The agent that grows with you. Self-improving AI c
+- [ ] ⬜ [anthropics/skills](https://github.com/anthropics/skills) — Official Anthropic skills repository. Production-r
+- [ ] ⬜ [garrytan/gstack](https://github.com/garrytan/gstack) — Garry Tan's exact Claude Code setup — 23 tools for
+- [ ] ⬜ [aaif-goose/goose](https://github.com/aaif-goose/goose) — Open-source extensible AI agent — installs, execut
+- [ ] ⬜ [garrytan/gbrain](https://github.com/garrytan/gbrain) — Opinionated agent brain for OpenClaw/Hermes. The t
+
+### Projects
+- [ ] ⬜ [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) — Massive OpenClaw skills repo — viral hit
+- [ ] ⬜ [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) — Complete AI agency — frontend to Reddit community
+- [ ] ⬜ [karpathy/autoresearch](https://github.com/karpathy/autoresearch) — AI agents running research on single-GPU setups au
+- [ ] ⬜ [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) — Multi-agent LLM framework for financial trading
+- [ ] ⬜ [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — Persistent memory across Claude sessions — remembe
+- [ ] ⬜ [farion1231/cc-switch](https://github.com/farion1231/cc-switch) — Desktop app unifying Claude Code, Codex, OpenCode 
+- [ ] ⬜ [bytedance/deer-flow](https://github.com/bytedance/deer-flow) — Long-horizon SuperAgent — researches, codes, creat
+- [ ] ⬜ [paperclipai/paperclip](https://github.com/paperclipai/paperclip) — Open-source app to manage agents at work — team co
+- [ ] ⬜ [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — Claude Code skill that cuts 65% of tokens with min
+- [ ] ⬜ [koala73/worldmonitor](https://github.com/koala73/worldmonitor) — Real-time global intelligence dashboard
+- [ ] ⬜ [MemPalace/mempalace](https://github.com/MemPalace/mempalace) — Best-benchmarked open-source memory system for age
+- [ ] ⬜ [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — Leading Claude agent orchestration platform — inte
+- [ ] ⬜ [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) — Adaptive web scraping — handles any site layout au
+- [ ] ⬜ [rtk-ai/rtk](https://github.com/rtk-ai/rtk) — Reduce LLM token consumption by 60-90% on daily de
+- [ ] ⬜ [safishamsi/graphify](https://github.com/safishamsi/graphify) — Data visualization and graph analysis platform
+- [ ] ⬜ [BerriAI/litellm](https://github.com/BerriAI/litellm) — SDK/Proxy to call 100+ LLM APIs with OpenAI-compat
+- [ ] ⬜ [nexu-io/open-design](https://github.com/nexu-io/open-design) — Open-source design system for modern apps
+- [ ] ⬜ [calcom/cal.diy](https://github.com/calcom/cal.diy) — Scheduling infrastructure for everyone — built for
+- [ ] ⬜ [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) — Scan, index, search all your documents. Paperless 
+- [ ] ⬜ [roboflow/supervision](https://github.com/roboflow/supervision) — Reusable computer vision tools. Build vision apps 
+- [ ] ⬜ [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) — Daily automated stock market analysis
+- [ ] ⬜ [wshobson/agents](https://github.com/wshobson/agents) — Intelligent automation and multi-agent orchestrati
+- [ ] ⬜ [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) — Universal CLI to interact with anything — AI-power
+- [ ] ⬜ [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) — Desktop UI automation with AI agents
+- [ ] ⬜ [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — Multi-agent orchestration for Claude Code teams
+- [ ] ⬜ [multica-ai/multica](https://github.com/multica-ai/multica) — Turn coding agents into real teammates. Managed ag
+- [ ] ⬜ [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) — Add hooks, agent teams, and HUDs to Codex
+- [ ] ⬜ [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) — Temporal framework for time-aware AI agents
+- [ ] ⬜ [volcengine/OpenViking](https://github.com/volcengine/OpenViking) — Open-source context database built specifically fo
+- [ ] ⬜ [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) — Ultra-fast memory API for AI agents. Remember ever
+- [ ] ⬜ [apernet/hysteria](https://github.com/apernet/hysteria) — High-performance network protocol. Fast, secure tu
+- [ ] ⬜ [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — Transform Claude Code into a full game dev studio 
+- [ ] ⬜ [cft0808/edict](https://github.com/cft0808/edict) — 9 specialized agents inspired by ancient Chinese b
+- [ ] ⬜ [yikart/AiToEarn](https://github.com/yikart/AiToEarn) — Monetize your AI workflows
+- [ ] ⬜ [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) — 24/7 memory persistence for OpenClaw agents
+- [ ] ⬜ [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) — Privacy-first browser with anti-detection for web 
+- [ ] ⬜ [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) — Open-source digital human framework — create AI pe
+- [ ] ⬜ [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) — Learn vibe coding with hands-on examples and tutor
+- [ ] ⬜ [decolua/9router](https://github.com/decolua/9router) — Connect Claude Code/Codex/Cursor to free LLM provi
+- [ ] ⬜ [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) — Plug-and-play memory system for any AI agent
+- [ ] ⬜ [millionco/react-doctor](https://github.com/millionco/react-doctor) — React app diagnostic tool
+- [ ] ⬜ [MemTensor/MemOS](https://github.com/MemTensor/MemOS) — Self-evolving memory OS for LLMs — persistent hybr
+- [ ] ⬜ [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) — AI audio processing toolkit
+- [ ] ⬜ [EvoMap/evolver](https://github.com/EvoMap/evolver) — Genetic-evolution engine for AI agents — they impr
+- [ ] ⬜ [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) — Desktop GUI for OpenClaw — no terminal required
+- [ ] ⬜ [mnfst/manifest](https://github.com/mnfst/manifest) — Smart model routing for agents — cut API costs up 
+- [ ] ⬜ [maximhq/bifrost](https://github.com/maximhq/bifrost) — Fastest enterprise AI gateway — 50x faster than Li
+- [ ] ⬜ [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) — Self-hosted agent orchestration — dispatch tasks, 
+- [ ] ⬜ [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — Free AI gateway — 160+ providers, never hit rate l
+- [ ] ⬜ [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center) — Turn OpenClaw into a visual local control center
+- [ ] ⬜ [abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) — AI agent orchestration dashboard
+- [ ] ⬜ [bradygaster/squad](https://github.com/bradygaster/squad) — AI agent teams for any project. Assemble your crew
+- [ ] ⬜ [snarktank/antfarm](https://github.com/snarktank/antfarm) — Build your OpenClaw agent team with one command
+- [ ] ⬜ [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) — AI development resource
+- [ ] ⬜ [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) — Clean web dashboard for OpenClaw — manage agents v
+- [ ] ⬜ [chrysb/alphaclaw](https://github.com/chrysb/alphaclaw) — Ultimate OpenClaw harness — deploy in minutes, run
+- [ ] ⬜ [carlosazaustre/tenacitOS](https://github.com/carlosazaustre/tenacitOS) — OpenClaw mission control dashboard
+- [ ] ⬜ [JohnRiceML/clawport-ui](https://github.com/JohnRiceML/clawport-ui) — OpenClaw agent command center for Claude Code team
+- [ ] ⬜ [UniRound-Tec/Aurogen](https://github.com/UniRound-Tec/Aurogen) — Multi-agent evolution of OpenClaw with self-improv
+- [ ] ⬜ [getclawe/clawe](https://github.com/getclawe/clawe) — Trello-style multi-agent manager for OpenClaw
+- [ ] ⬜ [robsannaa/openclaw-mission-control](https://github.com/robsannaa/openclaw-mission-control) — GUI running on your OpenClaw host — point and clic
+- [ ] ⬜ [mudrii/openclaw-dashboard](https://github.com/mudrii/openclaw-dashboard) — Beautiful zero-dependency OpenClaw command center
+- [ ] ⬜ [shenhao-stu/openclaw-agents](https://github.com/shenhao-stu/openclaw-agents) — AI development resource
+- [ ] ⬜ [outsourc-e/clawsuite](https://github.com/outsourc-e/clawsuite) — All-in-one command center for OpenClaw agents
+- [ ] ⬜ [1Panel-dev/ClawSwarm](https://github.com/1Panel-dev/ClawSwarm) — Multi-agent swarm orchestration for OpenClaw
+- [ ] ⬜ [JIGGAI/ClawRecipes](https://github.com/JIGGAI/ClawRecipes) — Save 120+ hours — pre-built OpenClaw agent team te
+- [ ] ⬜ [garrytan/alphaclaw](https://github.com/garrytan/alphaclaw) — Quick OpenClaw deploy used by Garry Tan
+- [ ] ⬜ [Richchen-maker/openclaw-multi-agent-team](https://github.com/Richchen-maker/openclaw-multi-agent-team) — DNA-driven multi-agent collaboration
+- [ ] ⬜ [jefferyjob/openclaw-it-team](https://github.com/jefferyjob/openclaw-it-team) — Simulate a complete IT team with OpenClaw agents
+
+### Guides & References
+- [ ] ⬜ [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — Complete Claude Code optimization system
+- [ ] ⬜ [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — Andrej Karpathy-style CLAUDE.md for better behavio
+- [ ] ⬜ [mattpocock/skills](https://github.com/mattpocock/skills) — Production-grade skills from Matt Pocock's .claude
+- [ ] ⬜ [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) — DESIGN.md templates inspired by famous brand syste
+- [ ] ⬜ [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) — From vibe coding to agentic engineering
+- [ ] ⬜ [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) — 5,400+ OpenClaw skills filtered and categorized
+- [ ] ⬜ [santifer/career-ops](https://github.com/santifer/career-ops) — AI-powered career operations and professional deve
+- [ ] ⬜ [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) — Curated skills, hooks, commands for Claude Code
+- [ ] ⬜ [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — Production engineering skills for AI coding agents
+- [ ] ⬜ [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — Visual guide to Claude Code — beginner to advanced
+- [ ] ⬜ [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) — Real community use cases for OpenClaw
+- [ ] ⬜ [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — Research any topic across Reddit, X, YouTube, HN, 
+- [ ] ⬜ [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) — Scientific research skills for AI agents
+- [ ] ⬜ [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) — Comprehensive list of free LLM inference APIs
+- [ ] ⬜ [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) — 263+ skills for Claude Code, Codex, Gemini, Cursor
+- [ ] ⬜ [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) — Showcase of real-world RAG, agent, and workflow pr
+- [ ] ⬜ [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) — 162 production-ready OpenClaw agent templates
+- [ ] ⬜ [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide) — Security practices specifically for OpenClaw agent
+- [ ] ⬜ [LeoYeAI/openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills) — 1,200+ OpenClaw skills updated weekly
+- [ ] ⬜ [czl9707/build-your-own-openclaw](https://github.com/czl9707/build-your-own-openclaw) — AI development resource
+- [ ] ⬜ [win4r/ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) — ClawTeam fork adapted for OpenClaw swarm coordinat
+- [ ] ⬜ [alvinreal/awesome-openclaw](https://github.com/alvinreal/awesome-openclaw) — Curated list of the best OpenClaw resources
+- [ ] ⬜ [raulvidis/openclaw-multi-agent-kit](https://github.com/raulvidis/openclaw-multi-agent-kit) — AI development resource
+- [ ] ⬜ [ucsandman/OpenClaw-Setup](https://github.com/ucsandman/OpenClaw-Setup) — Personal OpenClaw with hierarchical memory and med
+- [ ] ⬜ [Atlas-Cowork/openclaw-reference-setup](https://github.com/Atlas-Cowork/openclaw-reference-setup) — Hardened personal OpenClaw with 15+ custom skills
+- [ ] ⬜ [TheSethRose/OpenClaw-Advanced-Config](https://github.com/TheSethRose/OpenClaw-Advanced-Config) — Production-ready multi-agent OpenClaw with hub-and
+
+
+---
+
+## 📊 Activity Legend (Last 30 Days)
+
+| Emoji | Level | Events |
+|-------|-------|--------|
 | 🔥 | Hyperactive | 200+ |
 | ⚡ | Very Active | 100-199 |
 | 🟢 | Active | 50-99 |
@@ -73,760 +479,10 @@
 | ⚪ | Low | 1-9 |
 | 💤 | Dormant | 0 |
 
----
-
-## Complexity Legend
-
-| Emoji | Level | Description |
-|-------|-------|-------------|
-| 🟢 | Plug & Play | Roda em 1 comando. Sem configuracao. |
-| 🟡 | Setup Medio | Precisa de config basica ou leitura de docs. |
-| 🔴 | Advanced | Exige infraestrutura, multiplos servicos ou conhecimento tecnico. |
+> Activity counts are capped at 100+ per metric (commits, issues, PRs) due to GitHub API pagination limits.
 
 ---
 
-# 🛠️ Part 1: Real Projects & Software
-
-> Actual tools, frameworks, agents, gateways, dashboards, and applications you can install and run.
-
----
-
-## OpenClaw Ecosystem
-
-<div align="center"><a href="#table-of-contents">⬆️ Back to Top</a></div>
-
-### Quick View
-
-| Repo | Stars | Complexity | Activity |
-|------|-------|------------|----------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | ⭐ 372,634 | 🟢 Plug & Play | 🔥 300+ |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | ⭐ 154,519 | 🟢 Plug & Play | 🔥 300+ |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | ⭐ 76,358 | 🔴 Advanced | 🔥 300+ |
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | ⭐ 73,419 | 🟡 Setup Medio | 🔥 300+ |
-| [safishamsi/graphify](https://github.com/safishamsi/graphify) | ⭐ 48,742 | 🟡 Setup Medio | 🔥 300+ |
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | ⭐ 24,009 | 🔴 Advanced | 🔥 300+ |
-| [garrytan/gbrain](https://github.com/garrytan/gbrain) | ⭐ 16,433 | 🟡 Setup Medio | 🔥 300+ |
-| [cft0808/edict](https://github.com/cft0808/edict) | ⭐ 15,781 | 🔴 Advanced | 🟢 76+ |
-| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | ⭐ 15,163 | 🟢 Plug & Play | 🔥 300+ |
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | ⭐ 13,648 | 🔴 Advanced | 🟡 27+ |
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | ⭐ 11,094 | 🟡 Setup Medio | 🔥 300+ |
-| [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | ⭐ 9,146 | 🔴 Advanced | 🔥 300+ |
-| [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) | ⭐ 7,220 | 🔴 Advanced | 🔥 287+ |
-| [mnfst/manifest](https://github.com/mnfst/manifest) | ⭐ 6,526 | 🟢 Plug & Play | 🔥 300+ |
-| [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) | ⭐ 4,848 | 🔴 Advanced | ⚡ 194+ |
-| [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center) | ⭐ 3,972 | 🟡 Setup Medio | 🟡 10+ |
-| [abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) | ⭐ 3,968 | 🔴 Advanced | 🟡 35+ |
-| [snarktank/antfarm](https://github.com/snarktank/antfarm) | ⭐ 2,461 | 🟢 Plug & Play | 🟡 11+ |
-| [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) | ⭐ 2,020 | 🟡 Setup Medio | ⚪ 1+ |
-| [win4r/ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) | ⭐ 1,370 | 🟡 Setup Medio | ⚪ 9+ |
-| [chrysb/alphaclaw](https://github.com/chrysb/alphaclaw) | ⭐ 1,302 | 🟡 Setup Medio | 🟢 56+ |
-| [carlosazaustre/tenacitOS](https://github.com/carlosazaustre/tenacitOS) | ⭐ 1,208 | 🟢 Plug & Play | ⚪ 3+ |
-| [JohnRiceML/clawport-ui](https://github.com/JohnRiceML/clawport-ui) | ⭐ 874 | 🟢 Plug & Play | 💤 0+ |
-| [UniRound-Tec/Aurogen](https://github.com/UniRound-Tec/Aurogen) | ⭐ 759 | 🟡 Setup Medio | ⚪ 1+ |
-| [getclawe/clawe](https://github.com/getclawe/clawe) | ⭐ 726 | 🟡 Setup Medio | 💤 0+ |
-| [robsannaa/openclaw-mission-control](https://github.com/robsannaa/openclaw-mission-control) | ⭐ 612 | 🔴 Advanced | ⚪ 8+ |
-| [mudrii/openclaw-dashboard](https://github.com/mudrii/openclaw-dashboard) | ⭐ 439 | 🟢 Plug & Play | 🟢 64+ |
-| [shenhao-stu/openclaw-agents](https://github.com/shenhao-stu/openclaw-agents) | ⭐ 431 | 🟡 Setup Medio | ⚪ 1+ |
-| [raulvidis/openclaw-multi-agent-kit](https://github.com/raulvidis/openclaw-multi-agent-kit) | ⭐ 376 | 🟡 Setup Medio | ⚪ 1+ |
-| [outsourc-e/clawsuite](https://github.com/outsourc-e/clawsuite) | ⭐ 337 | 🟡 Setup Medio | 🟡 17+ |
-| [1Panel-dev/ClawSwarm](https://github.com/1Panel-dev/ClawSwarm) | ⭐ 238 | 🟡 Setup Medio | 🟡 22+ |
-| [JIGGAI/ClawRecipes](https://github.com/JIGGAI/ClawRecipes) | ⭐ 100 | 🟢 Plug & Play | 🟢 91+ |
-| [garrytan/alphaclaw](https://github.com/garrytan/alphaclaw) | ⭐ 96 | 🟡 Setup Medio | 💤 0+ |
-| [Richchen-maker/openclaw-multi-agent-team](https://github.com/Richchen-maker/openclaw-multi-agent-team) | ⭐ 77 | 🟢 Plug & Play | 💤 0+ |
-| [jefferyjob/openclaw-it-team](https://github.com/jefferyjob/openclaw-it-team) | ⭐ 32 | 🟢 Plug & Play | 💤 0+ |
-
-### Detailed View
-
-<details>
-<summary>Click to expand details</summary>
-
-| Repository | Stars | Description | Lang | Complexity | Popular Use Case | Quick Start | Commits | Issues | PRs | Activity | License | Forks | Updated |
-|------------|-------|-------------|------|------------|------------------|-------------|---------|--------|-----|----------|---------|-------|---------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) [📸](https://opengraph.githubassets.com/1/openclaw/openclaw) | ⭐ 372,634 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  | TypeScript | 🟢 Plug & Play | Seu assistente pessoal de IA que roda em qualquer OS | `npx openclaw@latest` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 77,242 | 2026-05-17 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) [📸](https://opengraph.githubassets.com/1/NousResearch/hermes-agent) | ⭐ 154,519 | The agent that grows with you | Python | 🟢 Plug & Play | Agente de AI que aprende e cresce com voce | `pip install hermes-agent` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 24,743 | 2026-05-17 |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) [📸](https://opengraph.githubassets.com/1/thedotmack/claude-mem) | ⭐ 76,358 | Persistent Context Across Sessions for Every Agent –  Captures everything your a | TypeScript | 🔴 Advanced | Memoria persistente entre sessoes do Claude | `-` | 100+ | 100+ | 100+ | 🔥 300+ | Apache-2.0 | 6,551 | 2026-05-17 |
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) [📸](https://opengraph.githubassets.com/1/farion1231/cc-switch) | ⭐ 73,419 | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,  | Rust | 🟡 Setup Medio | Desktop app que junta Claude Code, Codex, OpenCode em um so lugar | `-` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 4,767 | 2026-05-17 |
-| [safishamsi/graphify](https://github.com/safishamsi/graphify) [📸](https://opengraph.githubassets.com/1/safishamsi/graphify) | ⭐ 48,742 | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and | Python | 🟡 Setup Medio | AI development tool | `-` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 5,299 | 2026-05-17 |
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) [📸](https://opengraph.githubassets.com/1/volcengine/OpenViking) | ⭐ 24,009 | OpenViking is an open-source context database designed specifically for AI Agent | Python | 🔴 Advanced | Banco de dados de contexto open-source pra AI agents | `-` | 100+ | 100+ | 100+ | 🔥 300+ | AGPL-3.0 | 1,789 | 2026-05-17 |
-| [garrytan/gbrain](https://github.com/garrytan/gbrain) [📸](https://opengraph.githubassets.com/1/garrytan/gbrain) | ⭐ 16,433 | Garry's Opinionated OpenClaw/Hermes Agent Brain | TypeScript | 🟡 Setup Medio | Cerebro de agente OpenClaw/Hermes | `npx gbrain init` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 2,244 | 2026-05-17 |
-| [cft0808/edict](https://github.com/cft0808/edict) [📸](https://opengraph.githubassets.com/1/cft0808/edict) | ⭐ 15,781 | 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents w | Python | 🔴 Advanced | Sistema de 9 agents especializados OpenClaw | `-` | 28 | 36 | 12 | 🟢 76+ | MIT | 1,670 | 2026-05-17 |
-| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) [📸](https://opengraph.githubassets.com/1/alirezarezvani/claude-skills) | ⭐ 15,163 | 263+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Curs | Python | 🟢 Plug & Play | 263+ skills prontas pro Claude Code, Codex, Gemini CLI e Cursor | `-` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 2,054 | 2026-05-17 |
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) [📸](https://opengraph.githubassets.com/1/NevaMind-AI/memU) | ⭐ 13,648 | Memory for 24/7 proactive agents like OpenClaw. | Python | 🔴 Advanced | Memoria persistente pra agents OpenClaw 24/7 | `-` | 1 | 20 | 6 | 🟡 27+ | NOASSERTION | 1,027 | 2026-05-17 |
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) [📸](https://opengraph.githubassets.com/1/rohitg00/agentmemory) | ⭐ 11,094 | #1 Persistent memory for AI coding agents based on real-world benchmarks | TypeScript | 🟡 Setup Medio | AI development tool | `-` | 100+ | 100+ | 100+ | 🔥 300+ | Apache-2.0 | 935 | 2026-05-17 |
-| [MemTensor/MemOS](https://github.com/MemTensor/MemOS) [📸](https://opengraph.githubassets.com/1/MemTensor/MemOS) | ⭐ 9,146 | Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-ret | TypeScript | 🔴 Advanced | Sistema operacional de memoria pra LLM/agents | `-` | 100+ | 100+ | 100+ | 🔥 300+ | Apache-2.0 | 819 | 2026-05-17 |
-| [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) [📸](https://opengraph.githubassets.com/1/ValueCell-ai/ClawX) | ⭐ 7,220 | ClawX is a desktop app that provides a graphical interface for OpenClaw AI agent | TypeScript | 🔴 Advanced | App desktop com interface grafica pro OpenClaw | `-` | 87 | 100+ | 100+ | 🔥 287+ | MIT | 1,068 | 2026-05-17 |
-| [mnfst/manifest](https://github.com/mnfst/manifest) [📸](https://opengraph.githubassets.com/1/mnfst/manifest) | ⭐ 6,526 | Smart Model Routing for Agents. Cut Costs up to 70% 🦚 | TypeScript | 🟢 Plug & Play | Roteamento inteligente de modelos LLM - reduz custos em ate 70% | `npx @mnfst/manifest` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 397 | 2026-05-17 |
-| [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) [📸](https://opengraph.githubassets.com/1/builderz-labs/mission-control) | ⭐ 4,848 | Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent wor | TypeScript | 🔴 Advanced | Plataforma self-hosted de orquestracao de AI agents | `-` | 19 | 100+ | 75 | ⚡ 194+ | MIT | 847 | 2026-05-17 |
-| [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center) [📸](https://opengraph.githubassets.com/1/TianyiDataScience/openclaw-control-center) | ⭐ 3,972 | Turn OpenClaw from a black box into a local control center you can see, trust, a | TypeScript | 🟡 Setup Medio | Transforma o OpenClaw num centro de controle local | `-` | 0 | 7 | 3 | 🟡 10+ | MIT | 615 | 2026-05-17 |
-| [abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) [📸](https://opengraph.githubassets.com/1/abhi1693/openclaw-mission-control) | ⭐ 3,968 | AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinat | TypeScript | 🔴 Advanced | Dashboard de orquestracao de AI agents | `-` | 0 | 23 | 12 | 🟡 35+ | MIT | 827 | 2026-05-17 |
-| [snarktank/antfarm](https://github.com/snarktank/antfarm) [📸](https://opengraph.githubassets.com/1/snarktank/antfarm) | ⭐ 2,461 | Build your agent team in OpenClaw with one command. | TypeScript | 🟢 Plug & Play | Cria equipes de agents no OpenClaw com um unico comando | `-` | 0 | 8 | 3 | 🟡 11+ | MIT | 441 | 2026-05-17 |
-| [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) [📸](https://opengraph.githubassets.com/1/grp06/openclaw-studio) | ⭐ 2,020 | A clean web dashboard for OpenClaw. Connect your Gateway, manage agents, and shi | TypeScript | 🟡 Setup Medio | Dashboard web limpo pro OpenClaw | `-` | 0 | 1 | 0 | ⚪ 1+ | MIT | 300 | 2026-05-17 |
-| [win4r/ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) [📸](https://opengraph.githubassets.com/1/win4r/ClawTeam-OpenClaw) | ⭐ 1,370 | ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with O | Python | 🟡 Setup Medio | Fork do ClawTeam adaptado pro OpenClaw | `-` | 0 | 6 | 3 | ⚪ 9+ | MIT | 305 | 2026-05-17 |
-| [chrysb/alphaclaw](https://github.com/chrysb/alphaclaw) [📸](https://opengraph.githubassets.com/1/chrysb/alphaclaw) | ⭐ 1,302 | The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for mon | JavaScript | 🟡 Setup Medio | Setup pronto do OpenClaw - deploy em minutos | `-` | 36 | 12 | 8 | 🟢 56+ | MIT | 186 | 2026-05-17 |
-| [carlosazaustre/tenacitOS](https://github.com/carlosazaustre/tenacitOS) [📸](https://opengraph.githubassets.com/1/carlosazaustre/tenacitOS) | ⭐ 1,208 | OpenClaw Mission Control Dashboard | TypeScript | 🟢 Plug & Play | Dashboard de controle de missao pro OpenClaw | `-` | 0 | 2 | 1 | ⚪ 3+ | MIT | 228 | 2026-05-17 |
-| [JohnRiceML/clawport-ui](https://github.com/JohnRiceML/clawport-ui) [📸](https://opengraph.githubassets.com/1/JohnRiceML/clawport-ui) | ⭐ 874 | Open-source AI agent command center for Claude Code agent teams. Built on OpenCl | TypeScript | 🟢 Plug & Play | Dashboard web pra gerenciar equipes de agents | `-` | 0 | 0 | 0 | 💤 0+ | MIT | 131 | 2026-05-16 |
-| [UniRound-Tec/Aurogen](https://github.com/UniRound-Tec/Aurogen) [📸](https://opengraph.githubassets.com/1/UniRound-Tec/Aurogen) | ⭐ 759 | "Aurogen🍊: The Multi-Agent Evolution of OpenClaw." | TypeScript | 🟡 Setup Medio | Evolucao multi-agent do OpenClaw com auto-melhoria | `-` | 0 | 1 | 0 | ⚪ 1+ | MIT | 185 | 2026-05-15 |
-| [getclawe/clawe](https://github.com/getclawe/clawe) [📸](https://opengraph.githubassets.com/1/getclawe/clawe) | ⭐ 726 | Multi-agent coordination system: think Trello for OpenClaw agents.  | TypeScript | 🟡 Setup Medio | Gerenciador de multiplos agents OpenClaw estilo Trello | `-` | 0 | 0 | 0 | 💤 0+ | AGPL-3.0 | 86 | 2026-05-16 |
-| [robsannaa/openclaw-mission-control](https://github.com/robsannaa/openclaw-mission-control) [📸](https://opengraph.githubassets.com/1/robsannaa/openclaw-mission-control) | ⭐ 612 | A GUI that runs on your Openclaw host and lets you totally manage it without tou | TypeScript | 🔴 Advanced | Interface grafica que roda no host OpenClaw | `-` | 0 | 6 | 2 | ⚪ 8+ | MIT | 121 | 2026-05-16 |
-| [mudrii/openclaw-dashboard](https://github.com/mudrii/openclaw-dashboard) [📸](https://opengraph.githubassets.com/1/mudrii/openclaw-dashboard) | ⭐ 439 | A beautiful, zero-dependency command center for OpenClaw AI agents | Go | 🟢 Plug & Play | Dashboard bonito pra controlar agents OpenClaw | `-` | 54 | 6 | 4 | 🟢 64+ | MIT | 79 | 2026-05-17 |
-| [shenhao-stu/openclaw-agents](https://github.com/shenhao-stu/openclaw-agents) [📸](https://opengraph.githubassets.com/1/shenhao-stu/openclaw-agents) | ⭐ 431 | 🐾 One-command multi-agent setup for OpenClaw — 9 specialized AI agents, group ro | Shell | 🟡 Setup Medio | Setup de 9 agents especializados no OpenClaw | `-` | 0 | 1 | 0 | ⚪ 1+ | MIT | 68 | 2026-05-16 |
-| [raulvidis/openclaw-multi-agent-kit](https://github.com/raulvidis/openclaw-multi-agent-kit) [📸](https://opengraph.githubassets.com/1/raulvidis/openclaw-multi-agent-kit) | ⭐ 376 | Production-tested templates for deploying multi-agent AI teams on OpenClaw with  | Unknown | 🟡 Setup Medio | Templates prontos pra deploy de equipes multi-agent | `-` | 0 | 1 | 0 | ⚪ 1+ | MIT | 71 | 2026-05-15 |
-| [outsourc-e/clawsuite](https://github.com/outsourc-e/clawsuite) [📸](https://opengraph.githubassets.com/1/outsourc-e/clawsuite) | ⭐ 337 | All-in-one command center for OpenClaw agents | TypeScript | 🟡 Setup Medio | Central de comando unica pra gerenciar multiplos agents OpenClaw | `-` | 9 | 7 | 1 | 🟡 17+ | MIT | 54 | 2026-05-17 |
-| [1Panel-dev/ClawSwarm](https://github.com/1Panel-dev/ClawSwarm) [📸](https://opengraph.githubassets.com/1/1Panel-dev/ClawSwarm) | ⭐ 238 | 🔥 Open-source multi-agent orchestration system for OpenClaw, enabling swarm inte | Python | 🟡 Setup Medio | Orquestra swarms de agents OpenClaw em paralelo | `-` | 15 | 7 | 0 | 🟡 22+ | GPL-3.0 | 19 | 2026-05-16 |
-| [JIGGAI/ClawRecipes](https://github.com/JIGGAI/ClawRecipes) [📸](https://opengraph.githubassets.com/1/JIGGAI/ClawRecipes) | ⭐ 100 | Save 120+ Hours of Setup Pain (I did it for you) – Launch Your OpenClaw Agent Te | TypeScript | 🟢 Plug & Play | Templates prontos pra deploy de equipe OpenClaw | `-` | 42 | 26 | 23 | 🟢 91+ | Apache-2.0 | 15 | 2026-05-15 |
-| [garrytan/alphaclaw](https://github.com/garrytan/alphaclaw) [📸](https://opengraph.githubassets.com/1/garrytan/alphaclaw) | ⭐ 96 | The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for mon | Unknown | 🟡 Setup Medio | Setup pronto do OpenClaw usado pelo Garry Tan | `-` | 0 | 0 | 0 | 💤 0+ | MIT | 17 | 2026-05-17 |
-| [Richchen-maker/openclaw-multi-agent-team](https://github.com/Richchen-maker/openclaw-multi-agent-team) [📸](https://opengraph.githubassets.com/1/Richchen-maker/openclaw-multi-agent-team) | ⭐ 77 | 🐊 Multi-Team Intelligent Orchestrator v5.3.1 — DNA-driven multi-agent collaborat | Python | 🟢 Plug & Play | Orquestra multiplos agents OpenClaw em equipe | `-` | 0 | 0 | 0 | 💤 0+ | MIT | 18 | 2026-05-10 |
-| [jefferyjob/openclaw-it-team](https://github.com/jefferyjob/openclaw-it-team) [📸](https://opengraph.githubassets.com/1/jefferyjob/openclaw-it-team) | ⭐ 32 | 🦞 OpenClaw uses a multi-agent approach to simulate a complete IT team, automatin | Unknown | 🟢 Plug & Play | Simula um time completo de TI usando multiplos agents | `-` | 0 | 0 | 0 | 💤 0+ | MIT | 10 | 2026-04-19 |
-
-</details>
-
----
-
-## Agents & Skill Frameworks
-
-<div align="center"><a href="#table-of-contents">⬆️ Back to Top</a></div>
-
-### Quick View
-
-| Repo | Stars | Complexity | Activity |
-|------|-------|------------|----------|
-| [obra/superpowers](https://github.com/obra/superpowers) | ⭐ 194,963 | 🟢 Plug & Play | 🔥 203+ |
-| [anthropics/skills](https://github.com/anthropics/skills) | ⭐ 136,248 | 🟢 Plug & Play | 🔥 205+ |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | ⭐ 98,997 | 🟢 Plug & Play | ⚡ 134+ |
-| [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | ⭐ 81,511 | 🟢 Plug & Play | ⚡ 144+ |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | ⭐ 76,467 | 🟢 Plug & Play | 🔥 249+ |
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | ⭐ 66,073 | 🔴 Advanced | 🔥 300+ |
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | ⭐ 36,558 | 🔴 Advanced | 🔥 300+ |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | ⭐ 35,452 | 🟡 Setup Medio | 🔥 213+ |
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | ⭐ 34,368 | 🔴 Advanced | 🟢 56+ |
-| [multica-ai/multica](https://github.com/multica-ai/multica) | ⭐ 28,992 | 🟡 Setup Medio | 🔥 300+ |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ⭐ 23,712 | 🟢 Plug & Play | 🟢 76+ |
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | ⭐ 13,471 | 🟢 Plug & Play | ⚡ 165+ |
-| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | ⭐ 12,229 | 🔴 Advanced | 🟢 61+ |
-| [millionco/react-doctor](https://github.com/millionco/react-doctor) | ⭐ 9,902 | 🟡 Setup Medio | 🔥 300+ |
-| [bradygaster/squad](https://github.com/bradygaster/squad) | ⭐ 2,602 | 🟡 Setup Medio | 🔥 213+ |
-
-### Detailed View
-
-<details>
-<summary>Click to expand details</summary>
-
-| Repository | Stars | Description | Lang | Complexity | Popular Use Case | Quick Start | Commits | Issues | PRs | Activity | License | Forks | Updated |
-|------------|-------|-------------|------|------------|------------------|-------------|---------|--------|-----|----------|---------|-------|---------|
-| [obra/superpowers](https://github.com/obra/superpowers) [📸](https://opengraph.githubassets.com/1/obra/superpowers) | ⭐ 194,963 | An agentic skills framework & software development methodology that works. | Shell | 🟢 Plug & Play | Framework de skills e metodologia com agents | `git clone https://github.com/obra/superpowers.git && cd superpowers && make install` | 3 | 100+ | 100+ | 🔥 203+ | MIT | 17,335 | 2026-05-17 |
-| [anthropics/skills](https://github.com/anthropics/skills) [📸](https://opengraph.githubassets.com/1/anthropics/skills) | ⭐ 136,248 | Public repository for Agent Skills | Python | 🟢 Plug & Play | AI development tool | `-` | 5 | 100+ | 100+ | 🔥 205+ | Unknown | 16,067 | 2026-05-17 |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) [📸](https://opengraph.githubassets.com/1/msitarzewski/agency-agents) | ⭐ 98,997 | A complete AI agency at your fingertips - From frontend wizards to Reddit commun | Shell | 🟢 Plug & Play | Agencia completa de AI agents | `-` | 0 | 93 | 41 | ⚡ 134+ | MIT | 16,426 | 2026-05-17 |
-| [karpathy/autoresearch](https://github.com/karpathy/autoresearch) [📸](https://opengraph.githubassets.com/1/karpathy/autoresearch) | ⭐ 81,511 | AI agents running research on single-GPU nanochat training automatically | Python | 🟢 Plug & Play | AI development tool | `-` | 0 | 81 | 63 | ⚡ 144+ | Unknown | 11,852 | 2026-05-17 |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) [📸](https://opengraph.githubassets.com/1/TauricResearch/TradingAgents) | ⭐ 76,467 | TradingAgents: Multi-Agents LLM Financial Trading Framework | Python | 🟢 Plug & Play | AI development tool | `-` | 49 | 100+ | 100+ | 🔥 249+ | Apache-2.0 | 14,893 | 2026-05-17 |
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) [📸](https://opengraph.githubassets.com/1/paperclipai/paperclip) | ⭐ 66,073 | The open-source app everyone uses to manage agents at work | TypeScript | 🔴 Advanced | AI development tool | `-` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 12,037 | 2026-05-17 |
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) [📸](https://opengraph.githubassets.com/1/ZhuLinsen/daily_stock_analysis) | ⭐ 36,558 | LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stoc | Python | 🔴 Advanced | AI development tool | `-` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 35,914 | 2026-05-17 |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) [📸](https://opengraph.githubassets.com/1/HKUDS/CLI-Anything) | ⭐ 35,452 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything | Python | 🟡 Setup Medio | AI development tool | `-` | 100+ | 78 | 35 | 🔥 213+ | Apache-2.0 | 3,471 | 2026-05-17 |
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) [📸](https://opengraph.githubassets.com/1/bytedance/UI-TARS-desktop) | ⭐ 34,368 | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and | TypeScript | 🔴 Advanced | AI development tool | `-` | 0 | 34 | 22 | 🟢 56+ | Apache-2.0 | 3,443 | 2026-05-17 |
-| [multica-ai/multica](https://github.com/multica-ai/multica) [📸](https://opengraph.githubassets.com/1/multica-ai/multica) | ⭐ 28,992 | The open-source managed agents platform. Turn coding agents into real teammates  | TypeScript | 🟡 Setup Medio | Plataforma pra transformar agents de codigo em teammates | `-` | 100+ | 100+ | 100+ | 🔥 300+ | NOASSERTION | 3,515 | 2026-05-17 |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) [📸](https://opengraph.githubassets.com/1/K-Dense-AI/scientific-agent-skills) | ⭐ 23,712 | A set of ready to use Agent Skills for research, science, engineering, analysis, | Python | 🟢 Plug & Play | AI development tool | `-` | 22 | 35 | 19 | 🟢 76+ | MIT | 2,530 | 2026-05-17 |
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) [📸](https://opengraph.githubassets.com/1/CloakHQ/CloakBrowser) | ⭐ 13,471 | Stealth Chromium that passes every bot detection test. Drop-in Playwright replac | Python | 🟢 Plug & Play | AI development tool | `-` | 32 | 100+ | 33 | ⚡ 165+ | MIT | 1,055 | 2026-05-17 |
-| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) [📸](https://opengraph.githubassets.com/1/datawhalechina/easy-vibe) | ⭐ 12,229 | 💻 vibe coding 2026 \| Your first modern Coding course for beginners to master st | JavaScript | 🔴 Advanced | AI development tool | `-` | 28 | 22 | 11 | 🟢 61+ | Unknown | 1,149 | 2026-05-17 |
-| [millionco/react-doctor](https://github.com/millionco/react-doctor) [📸](https://opengraph.githubassets.com/1/millionco/react-doctor) | ⭐ 9,902 | Your agent writes bad React. This catches it | TypeScript | 🟡 Setup Medio | AI development tool | `-` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 314 | 2026-05-17 |
-| [bradygaster/squad](https://github.com/bradygaster/squad) [📸](https://opengraph.githubassets.com/1/bradygaster/squad) | ⭐ 2,602 | Squad: AI agent teams for any project | TypeScript | 🟡 Setup Medio | Cria equipes de AI agents pra qualquer projeto | `-` | 55 | 100+ | 58 | 🔥 213+ | MIT | 384 | 2026-05-17 |
-
-</details>
-
----
-
-## Claude Code & Coding Agents
-
-<div align="center"><a href="#table-of-contents">⬆️ Back to Top</a></div>
-
-### Quick View
-
-| Repo | Stars | Complexity | Activity |
-|------|-------|------------|----------|
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | ⭐ 191,777 | 🟡 Setup Medio | 🔥 300+ |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | ⭐ 161,598 | 🟢 Plug & Play | 🔥 300+ |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | ⭐ 98,451 | 🔴 Advanced | 🔥 262+ |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | ⭐ 61,275 | 🟢 Plug & Play | 🔥 242+ |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | ⭐ 52,270 | 🔴 Advanced | 🔥 300+ |
-| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | ⭐ 49,254 | 🟢 Plug & Play | 🔥 300+ |
-| [aaif-goose/goose](https://github.com/aaif-goose/goose) | ⭐ 45,395 | 🟢 Plug & Play | 🔥 300+ |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | ⭐ 45,158 | 🟡 Setup Medio | 🔥 276+ |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | ⭐ 43,450 | 🔴 Advanced | 🔥 300+ |
-| [wshobson/agents](https://github.com/wshobson/agents) | ⭐ 35,541 | 🟡 Setup Medio | 🟢 94+ |
-| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | ⭐ 34,079 | 🔴 Advanced | 🔥 300+ |
-| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | ⭐ 28,901 | 🟡 Setup Medio | 🔥 300+ |
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | ⭐ 19,039 | 🟢 Plug & Play | 🟢 54+ |
-| [decolua/9router](https://github.com/decolua/9router) | ⭐ 11,494 | 🟢 Plug & Play | 🔥 300+ |
-| [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) | ⭐ 2,272 | 🟡 Setup Medio | 🔥 300+ |
-
-### Detailed View
-
-<details>
-<summary>Click to expand details</summary>
-
-| Repository | Stars | Description | Lang | Complexity | Popular Use Case | Quick Start | Commits | Issues | PRs | Activity | License | Forks | Updated |
-|------------|-------|-------------|------|------------|------------------|-------------|---------|--------|-----|----------|---------|-------|---------|
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) [📸](https://opengraph.githubassets.com/1/ultraworkers/claw-code) | ⭐ 191,777 | The repo is finally unlocked. enjoy the party! The fastest repo in history to su | Rust | 🟡 Setup Medio | Repo de skills massivas pro OpenClaw | `-` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 109,915 | 2026-05-17 |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) [📸](https://opengraph.githubassets.com/1/anomalyco/opencode) | ⭐ 161,598 | The open source coding agent. | TypeScript | 🟢 Plug & Play | Deixa o AI agent codar sozinho no seu projeto | `npx opencode` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 18,994 | 2026-05-17 |
-| [garrytan/gstack](https://github.com/garrytan/gstack) [📸](https://opengraph.githubassets.com/1/garrytan/gstack) | ⭐ 98,451 | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, | TypeScript | 🔴 Advanced | Configuracao completa do Claude Code com 23 ferramentas | `npx gstack-init` | 62 | 100+ | 100+ | 🔥 262+ | MIT | 14,653 | 2026-05-17 |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) [📸](https://opengraph.githubassets.com/1/JuliusBrussee/caveman) | ⭐ 61,275 | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o | JavaScript | 🟢 Plug & Play | Skill pro Claude Code que corta 65% dos tokens | `-` | 42 | 100+ | 100+ | 🔥 242+ | MIT | 3,409 | 2026-05-17 |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) [📸](https://opengraph.githubassets.com/1/ruvnet/ruflo) | ⭐ 52,270 | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi- | TypeScript | 🔴 Advanced | Plataforma de orquestracao de agents pra Claude | `-` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 5,904 | 2026-05-17 |
-| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) [📸](https://opengraph.githubassets.com/1/rtk-ai/rtk) | ⭐ 49,254 | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S | Rust | 🟢 Plug & Play | Reduz o gasto de tokens em 60-90% ao usar LLMs | `-` | 100+ | 100+ | 100+ | 🔥 300+ | Apache-2.0 | 2,999 | 2026-05-17 |
-| [aaif-goose/goose](https://github.com/aaif-goose/goose) [📸](https://opengraph.githubassets.com/1/aaif-goose/goose) | ⭐ 45,395 | an open source, extensible AI agent that goes beyond code suggestions - install, | Rust | 🟢 Plug & Play | Agente de codigo que edita, testa e executa arquivos automaticamente | `curl -fsSL https://github.com/aaif-goose/goose/releases/download/stable/install.sh \| bash` | 100+ | 100+ | 100+ | 🔥 300+ | Apache-2.0 | 4,653 | 2026-05-17 |
-| [santifer/career-ops](https://github.com/santifer/career-ops) [📸](https://opengraph.githubassets.com/1/santifer/career-ops) | ⭐ 45,158 | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, | JavaScript | 🟡 Setup Medio | AI development tool | `-` | 76 | 100+ | 100+ | 🔥 276+ | MIT | 9,481 | 2026-05-17 |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) [📸](https://opengraph.githubassets.com/1/nexu-io/open-design) | ⭐ 43,450 | 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills | TypeScript | 🔴 Advanced | AI development tool | `-` | 100+ | 100+ | 100+ | 🔥 300+ | Apache-2.0 | 4,960 | 2026-05-17 |
-| [wshobson/agents](https://github.com/wshobson/agents) [📸](https://opengraph.githubassets.com/1/wshobson/agents) | ⭐ 35,541 | Intelligent automation and multi-agent orchestration for Claude Code | Python | 🟡 Setup Medio | Automacao inteligente e orquestracao multi-agent | `-` | 29 | 40 | 25 | 🟢 94+ | MIT | 3,867 | 2026-05-17 |
-| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) [📸](https://opengraph.githubassets.com/1/Yeachan-Heo/oh-my-claudecode) | ⭐ 34,079 | Teams-first Multi-agent orchestration for Claude Code | TypeScript | 🔴 Advanced | Orquestracao multi-agent pra equipes com Claude Code | `-` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 3,127 | 2026-05-17 |
-| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) [📸](https://opengraph.githubassets.com/1/Yeachan-Heo/oh-my-codex) | ⭐ 28,901 | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so | TypeScript | 🟡 Setup Medio | Adiciona hooks, equipes de agents e HUDs pro Codex | `-` | 100+ | 100+ | 100+ | 🔥 300+ | Unknown | 2,306 | 2026-05-17 |
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) [📸](https://opengraph.githubassets.com/1/Donchitos/Claude-Code-Game-Studios) | ⭐ 19,039 | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, | Shell | 🟢 Plug & Play | Transforma o Claude Code num estudio de jogos | `-` | 5 | 37 | 12 | 🟢 54+ | MIT | 2,782 | 2026-05-17 |
-| [decolua/9router](https://github.com/decolua/9router) [📸](https://opengraph.githubassets.com/1/decolua/9router) | ⭐ 11,494 | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An | JavaScript | 🟢 Plug & Play | Proxy que conecta Claude Code/Codex/Cursor a providers gratuitos | `-` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 1,754 | 2026-05-17 |
-| [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) [📸](https://opengraph.githubassets.com/1/njbrake/agent-of-empires) | ⭐ 2,272 | Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy acc | Rust | 🟡 Setup Medio | Gerencia multiplos agents via interface TUI ou Web | `-` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 194 | 2026-05-17 |
-
-</details>
-
----
-
-## Other Projects
-
-<div align="center"><a href="#table-of-contents">⬆️ Back to Top</a></div>
-
-### Quick View
-
-| Repo | Stars | Complexity | Activity |
-|------|-------|------------|----------|
-| [calcom/cal.diy](https://github.com/calcom/cal.diy) | ⭐ 43,150 | 🔴 Advanced | 🔥 237+ |
-| [roboflow/supervision](https://github.com/roboflow/supervision) | ⭐ 39,162 | 🔴 Advanced | ⚡ 137+ |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | ⭐ 25,217 | 🟢 Plug & Play | 🟡 41+ |
-| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | ⭐ 14,611 | 🔴 Advanced | 🟢 65+ |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | ⭐ 12,633 | 🔴 Advanced | 🔥 300+ |
-| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | ⭐ 7,463 | 🟢 Plug & Play | 🟢 79+ |
-
-### Detailed View
-
-<details>
-<summary>Click to expand details</summary>
-
-| Repository | Stars | Description | Lang | Complexity | Popular Use Case | Quick Start | Commits | Issues | PRs | Activity | License | Forks | Updated |
-|------------|-------|-------------|------|------------|------------------|-------------|---------|--------|-----|----------|---------|-------|---------|
-| [calcom/cal.diy](https://github.com/calcom/cal.diy) [📸](https://opengraph.githubassets.com/1/calcom/cal.diy) | ⭐ 43,150 | Scheduling infrastructure for absolutely everyone. | TypeScript | 🔴 Advanced | AI development tool | `-` | 37 | 100+ | 100+ | 🔥 237+ | MIT | 13,379 | 2026-05-17 |
-| [roboflow/supervision](https://github.com/roboflow/supervision) [📸](https://opengraph.githubassets.com/1/roboflow/supervision) | ⭐ 39,162 | We write your reusable computer vision tools. 💜 | Python | 🔴 Advanced | AI development tool | `-` | 28 | 82 | 27 | ⚡ 137+ | MIT | 3,504 | 2026-05-17 |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) [📸](https://opengraph.githubassets.com/1/shiyu-coder/Kronos) | ⭐ 25,217 | Kronos: A Foundation Model for the Language of Financial Markets | Python | 🟢 Plug & Play | AI development tool | `-` | 0 | 29 | 12 | 🟡 41+ | MIT | 4,411 | 2026-05-17 |
-| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) [📸](https://opengraph.githubassets.com/1/yikart/AiToEarn) | ⭐ 14,611 | Let's use AI to Earn! | TypeScript | 🔴 Advanced | AI development tool | `-` | 14 | 35 | 16 | 🟢 65+ | MIT | 2,443 | 2026-05-17 |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) [📸](https://opengraph.githubassets.com/1/tinyhumansai/openhuman) | ⭐ 12,633 | Your Personal AI super intelligence. Private, Simple and extremely powerful. | Rust | 🔴 Advanced | AI development tool | `-` | 100+ | 100+ | 100+ | 🔥 300+ | GPL-3.0 | 1,085 | 2026-05-17 |
-| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) [📸](https://opengraph.githubassets.com/1/supertone-inc/supertonic) | ⭐ 7,463 | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. | Swift | 🟢 Plug & Play | AI development tool | `-` | 6 | 60 | 13 | 🟢 79+ | MIT | 765 | 2026-05-17 |
-
-</details>
-
----
-
-## AI Gateways & Model Routing
-
-<div align="center"><a href="#table-of-contents">⬆️ Back to Top</a></div>
-
-### Quick View
-
-| Repo | Stars | Complexity | Activity |
-|------|-------|------------|----------|
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | ⭐ 68,124 | 🔴 Advanced | 🔥 300+ |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | ⭐ 47,306 | 🟢 Plug & Play | 🔥 300+ |
-| [maximhq/bifrost](https://github.com/maximhq/bifrost) | ⭐ 4,985 | 🟢 Plug & Play | 🔥 300+ |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | ⭐ 4,766 | 🟢 Plug & Play | 🔥 300+ |
-
-### Detailed View
-
-<details>
-<summary>Click to expand details</summary>
-
-| Repository | Stars | Description | Lang | Complexity | Popular Use Case | Quick Start | Commits | Issues | PRs | Activity | License | Forks | Updated |
-|------------|-------|-------------|------|------------|------------------|-------------|---------|--------|-----|----------|---------|-------|---------|
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) [📸](https://opengraph.githubassets.com/1/bytedance/deer-flow) | ⭐ 68,124 | An open-source long-horizon SuperAgent harness that researches, codes, and creat | Python | 🔴 Advanced | SuperAgent open-source que pesquisa, codifica e cria projetos | `-` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 9,074 | 2026-05-17 |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) [📸](https://opengraph.githubassets.com/1/BerriAI/litellm) | ⭐ 47,306 | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native | Python | 🟢 Plug & Play | SDK/proxy pra chamar 100+ APIs de LLM | `pip install litellm` | 100+ | 100+ | 100+ | 🔥 300+ | NOASSERTION | 8,126 | 2026-05-17 |
-| [maximhq/bifrost](https://github.com/maximhq/bifrost) [📸](https://opengraph.githubassets.com/1/maximhq/bifrost) | ⭐ 4,985 | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balan | Go | 🟢 Plug & Play | Roteia chamadas de LLM entre multiplos providers com load balancing | `docker pull maximhq/bifrost:latest` | 100+ | 100+ | 100+ | 🔥 300+ | Apache-2.0 | 605 | 2026-05-17 |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) [📸](https://opengraph.githubassets.com/1/diegosouzapw/OmniRoute) | ⭐ 4,766 | Never stop coding. Free AI gateway: one endpoint, 160+ providers, RTK+Caveman st | TypeScript | 🟢 Plug & Play | Gateway gratuito pra usar Claude/Codex/Cursor com 160+ providers de LLM | `curl -fsSL https://omniroute.dev/install \| bash` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 803 | 2026-05-17 |
-
-</details>
-
----
-
-## Memory & Knowledge Systems
-
-<div align="center"><a href="#table-of-contents">⬆️ Back to Top</a></div>
-
-### Quick View
-
-| Repo | Stars | Complexity | Activity |
-|------|-------|------------|----------|
-| [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | ⭐ 52,366 | 🟡 Setup Medio | 🔥 300+ |
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | ⭐ 22,601 | 🔴 Advanced | 🔥 277+ |
-| [EvoMap/evolver](https://github.com/EvoMap/evolver) | ⭐ 7,462 | 🔴 Advanced | ⚡ 198+ |
-
-### Detailed View
-
-<details>
-<summary>Click to expand details</summary>
-
-| Repository | Stars | Description | Lang | Complexity | Popular Use Case | Quick Start | Commits | Issues | PRs | Activity | License | Forks | Updated |
-|------------|-------|-------------|------|------------|------------------|-------------|---------|--------|-----|----------|---------|-------|---------|
-| [MemPalace/mempalace](https://github.com/MemPalace/mempalace) [📸](https://opengraph.githubassets.com/1/MemPalace/mempalace) | ⭐ 52,366 | The best-benchmarked open-source AI memory system. And it's free. | Python | 🟡 Setup Medio | Sistema de memoria open-source pra AI agents | `-` | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 6,918 | 2026-05-17 |
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) [📸](https://opengraph.githubassets.com/1/supermemoryai/supermemory) | ⭐ 22,601 | Memory engine and app that is extremely fast, scalable. The Memory API for the A | TypeScript | 🔴 Advanced | Memoria ultra-rapida e escalavel pra AI agents | `npm install supermemory` | 82 | 100+ | 95 | 🔥 277+ | MIT | 2,062 | 2026-05-17 |
-| [EvoMap/evolver](https://github.com/EvoMap/evolver) [📸](https://opengraph.githubassets.com/1/EvoMap/evolver) | ⭐ 7,462 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Gen | JavaScript | 🔴 Advanced | Motor de evolucao genetica pra AI agents | `-` | 68 | 100+ | 30 | ⚡ 198+ | GPL-3.0 | 759 | 2026-05-17 |
-
-</details>
-
----
-
-## UI, Dashboards & Desktop Apps
-
-<div align="center"><a href="#table-of-contents">⬆️ Back to Top</a></div>
-
-### Quick View
-
-| Repo | Stars | Complexity | Activity |
-|------|-------|------------|----------|
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | ⭐ 54,335 | 🔴 Advanced | 🔥 300+ |
-| [apernet/hysteria](https://github.com/apernet/hysteria) | ⭐ 21,061 | 🟡 Setup Medio | 🟢 66+ |
-
-### Detailed View
-
-<details>
-<summary>Click to expand details</summary>
-
-| Repository | Stars | Description | Lang | Complexity | Popular Use Case | Quick Start | Commits | Issues | PRs | Activity | License | Forks | Updated |
-|------------|-------|-------------|------|------------|------------------|-------------|---------|--------|-----|----------|---------|-------|---------|
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) [📸](https://opengraph.githubassets.com/1/koala73/worldmonitor) | ⭐ 54,335 | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic | TypeScript | 🔴 Advanced | AI development tool | `-` | 100+ | 100+ | 100+ | 🔥 300+ | NOASSERTION | 8,741 | 2026-05-17 |
-| [apernet/hysteria](https://github.com/apernet/hysteria) [📸](https://opengraph.githubassets.com/1/apernet/hysteria) | ⭐ 21,061 | Hysteria is a powerful, lightning fast and censorship resistant proxy. | Go | 🟡 Setup Medio | AI development tool | `-` | 18 | 38 | 10 | 🟢 66+ | MIT | 2,166 | 2026-05-17 |
-
-</details>
-
----
-
-## Automation & Productivity
-
-<div align="center"><a href="#table-of-contents">⬆️ Back to Top</a></div>
-
-### Quick View
-
-| Repo | Stars | Complexity | Activity |
-|------|-------|------------|----------|
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | ⭐ 50,662 | 🟢 Plug & Play | ⚡ 103+ |
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | ⭐ 40,771 | 🟢 Plug & Play | 🔥 300+ |
-
-### Detailed View
-
-<details>
-<summary>Click to expand details</summary>
-
-| Repository | Stars | Description | Lang | Complexity | Popular Use Case | Quick Start | Commits | Issues | PRs | Activity | License | Forks | Updated |
-|------------|-------|-------------|------|------------|------------------|-------------|---------|--------|-----|----------|---------|-------|---------|
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) [📸](https://opengraph.githubassets.com/1/D4Vinci/Scrapling) | ⭐ 50,662 | 🕷️ An adaptive Web Scraping framework that handles everything from a single requ | Python | 🟢 Plug & Play | Web scraping adaptativo - extrai dados de sites sem quebrar | `-` | 47 | 41 | 15 | ⚡ 103+ | BSD-3-Clause | 4,805 | 2026-05-17 |
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) [📸](https://opengraph.githubassets.com/1/paperless-ngx/paperless-ngx) | ⭐ 40,771 | A community-supported supercharged document management system: scan, index and a | Python | 🟢 Plug & Play | Gerenciador de documentos - escaneia, indexa e busca PDFs | `docker run -d --name paperless ghcr.io/paperless-ngx/paperless-ngx:latest` | 100+ | 100+ | 100+ | 🔥 300+ | GPL-3.0 | 2,703 | 2026-05-17 |
-
-</details>
-
----
-
-# 📚 Part 2: Lists, Guides & Resources
-
-> Curated lists, awesome collections, setup guides, best practices, and learning materials. Read, learn, and copy.
-
----
-
-## Awesome Lists
-
-<div align="center"><a href="#table-of-contents">⬆️ Back to Top</a></div>
-
-### Quick View
-
-| Repo | Stars | Type | Activity |
-|------|-------|------|----------|
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | ⭐ 80,281 | 📖 Awesome Lists | 🟢 61+ |
-| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | ⭐ 48,853 | 📖 Awesome Lists | ⚡ 124+ |
-| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ⭐ 44,032 | 📖 Awesome Lists | ⚡ 183+ |
-| [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | ⭐ 31,079 | 📖 Awesome Lists | 🟡 44+ |
-| [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | ⭐ 12,270 | 📖 Awesome Lists | 🟡 48+ |
-| [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | ⭐ 3,396 | 📖 Awesome Lists | 🟡 40+ |
-| [alvinreal/awesome-openclaw](https://github.com/alvinreal/awesome-openclaw) | ⭐ 681 | 📖 Awesome Lists | 🟡 36+ |
-
-### Detailed View
-
-<details>
-<summary>Click to expand details</summary>
-
-| Repository | Stars | Description | Lang | What You Get | Commits | Issues | PRs | Activity | License | Forks | Updated |
-|------------|-------|-------------|------|--------------|---------|--------|-----|----------|---------|-------|---------|
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) [📸](https://opengraph.githubassets.com/1/VoltAgent/awesome-design-md) | ⭐ 80,281 | A collection of DESIGN.md files inspired by popular brand design systems. Drop o | Unknown | Colecao de arquivos DESIGN.md inspirados em sistemas famosos | 12 | 39 | 10 | 🟢 61+ | MIT | 9,687 | 2026-05-17 |
-| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) [📸](https://opengraph.githubassets.com/1/VoltAgent/awesome-openclaw-skills) | ⭐ 48,853 | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorize | Unknown | Colecao com 5400+ skills pro OpenClaw | 28 | 68 | 28 | ⚡ 124+ | MIT | 4,782 | 2026-05-17 |
-| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) [📸](https://opengraph.githubassets.com/1/hesreallyhim/awesome-claude-code) | ⭐ 44,032 | A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap | Python | Lista curada de skills e orquestradores pro Claude Code | 81 | 100+ | 2 | ⚡ 183+ | NOASSERTION | 3,774 | 2026-05-17 |
-| [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) [📸](https://opengraph.githubassets.com/1/hesamsheikh/awesome-openclaw-usecases) | ⭐ 31,079 | A community collection of OpenClaw use cases for making life easier. | Unknown | Casos de uso reais da comunidade OpenClaw | 0 | 24 | 20 | 🟡 44+ | MIT | 2,676 | 2026-05-17 |
-| [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) [📸](https://opengraph.githubassets.com/1/Arindam200/awesome-ai-apps) | ⭐ 12,270 | A collection of projects showcasing RAG, agents, workflows, and other AI use cas | Python | Colecao de apps prontos usando RAG, agents e workflows | 20 | 19 | 9 | 🟡 48+ | MIT | 1,566 | 2026-05-17 |
-| [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) [📸](https://opengraph.githubassets.com/1/mergisi/awesome-openclaw-agents) | ⭐ 3,396 | 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19  | HTML | 162 templates de AI agents prontos pro OpenClaw | 2 | 24 | 14 | 🟡 40+ | MIT | 557 | 2026-05-17 |
-| [alvinreal/awesome-openclaw](https://github.com/alvinreal/awesome-openclaw) [📸](https://opengraph.githubassets.com/1/alvinreal/awesome-openclaw) | ⭐ 681 | A curated list of the best OpenClaw resources: official projects, skills, plugin | Unknown | Lista curada dos melhores recursos pro OpenClaw | 3 | 18 | 15 | 🟡 36+ | CC0-1.0 | 72 | 2026-05-16 |
-
-</details>
-
----
-
-## Skills Collections
-
-<div align="center"><a href="#table-of-contents">⬆️ Back to Top</a></div>
-
-### Quick View
-
-| Repo | Stars | Type | Activity |
-|------|-------|------|----------|
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐ 133,755 | 📖 Skills Collections | ⚡ 102+ |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | ⭐ 88,577 | 📖 Skills Collections | ⚡ 174+ |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⭐ 42,810 | 📖 Skills Collections | 🔥 224+ |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ⭐ 26,028 | 📖 Skills Collections | 🔥 300+ |
-| [LeoYeAI/openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills) | ⭐ 1,989 | 📖 Skills Collections | 🟡 21+ |
-
-### Detailed View
-
-<details>
-<summary>Click to expand details</summary>
-
-| Repository | Stars | Description | Lang | What You Get | Commits | Issues | PRs | Activity | License | Forks | Updated |
-|------------|-------|-------------|------|--------------|---------|--------|-----|----------|---------|-------|---------|
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) [📸](https://opengraph.githubassets.com/1/multica-ai/andrej-karpathy-skills) | ⭐ 133,755 | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar | Unknown | Arquivo CLAUDE.md baseado no estilo do Andrej Karpathy | 3 | 53 | 46 | ⚡ 102+ | Unknown | 13,666 | 2026-05-17 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) [📸](https://opengraph.githubassets.com/1/mattpocock/skills) | ⭐ 88,577 | Skills for Real Engineers. Straight from my .claude directory. | Shell | Skills prontas pro Claude Code (TypeScript/engenharia) | 51 | 100+ | 23 | ⚡ 174+ | MIT | 7,734 | 2026-05-17 |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) [📸](https://opengraph.githubassets.com/1/addyosmani/agent-skills) | ⭐ 42,810 | Production-grade engineering skills for AI coding agents. | Shell | Skills de engenharia prontas pra uso em producao | 62 | 100+ | 62 | 🔥 224+ | MIT | 4,710 | 2026-05-17 |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) [📸](https://opengraph.githubassets.com/1/mvanhorn/last30days-skill) | ⭐ 26,028 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark | Python | Skill que pesquisa o que a internet esta falando sobre qualquer topico | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 2,207 | 2026-05-17 |
-| [LeoYeAI/openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills) [📸](https://opengraph.githubassets.com/1/LeoYeAI/openclaw-master-skills) | ⭐ 1,989 | 🧠 Curated collection of 1209+ best OpenClaw skills — weekly updated by MyClaw.ai | Python | Colecao de 1209+ skills pro OpenClaw | 6 | 12 | 3 | 🟡 21+ | MIT | 301 | 2026-05-17 |
-
-</details>
-
----
-
-## Learning Resources
-
-<div align="center"><a href="#table-of-contents">⬆️ Back to Top</a></div>
-
-### Quick View
-
-| Repo | Stars | Type | Activity |
-|------|-------|------|----------|
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ⭐ 185,496 | 📖 Learning Resources | 🔥 300+ |
-| [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | ⭐ 21,718 | 📖 Learning Resources | 🟡 41+ |
-| [czl9707/build-your-own-openclaw](https://github.com/czl9707/build-your-own-openclaw) | ⭐ 1,642 | 📖 Learning Resources | ⚪ 9+ |
-
-### Detailed View
-
-<details>
-<summary>Click to expand details</summary>
-
-| Repository | Stars | Description | Lang | What You Get | Commits | Issues | PRs | Activity | License | Forks | Updated |
-|------------|-------|-------------|------|--------------|---------|--------|-----|----------|---------|-------|---------|
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) [📸](https://opengraph.githubassets.com/1/affaan-m/everything-claude-code) | ⭐ 185,496 | The agent harness performance optimization system. Skills, instincts, memory, se | JavaScript | Sistema completo de otimizacao do Claude Code | 100+ | 100+ | 100+ | 🔥 300+ | MIT | 28,697 | 2026-05-17 |
-| [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) [📸](https://opengraph.githubassets.com/1/cheahjs/free-llm-api-resources) | ⭐ 21,718 | A list of free LLM inference resources accessible via API. | Python | Lista de APIs de LLM gratuitas | 5 | 21 | 15 | 🟡 41+ | Unknown | 2,205 | 2026-05-17 |
-| [czl9707/build-your-own-openclaw](https://github.com/czl9707/build-your-own-openclaw) [📸](https://opengraph.githubassets.com/1/czl9707/build-your-own-openclaw) | ⭐ 1,642 | A step-by-step guide to build your own AI agent. | Python | Tutorial passo-a-passo pra construir seu proprio agente AI | 2 | 5 | 2 | ⚪ 9+ | MIT | 293 | 2026-05-17 |
-
-</details>
-
----
-
-## Setup Guides & Configs
-
-<div align="center"><a href="#table-of-contents">⬆️ Back to Top</a></div>
-
-### Quick View
-
-| Repo | Stars | Type | Activity |
-|------|-------|------|----------|
-| [ucsandman/OpenClaw-Setup](https://github.com/ucsandman/OpenClaw-Setup) | ⭐ 112 | 📖 Setup Guides & Configs | 💤 0+ |
-| [Atlas-Cowork/openclaw-reference-setup](https://github.com/Atlas-Cowork/openclaw-reference-setup) | ⭐ 83 | 📖 Setup Guides & Configs | 💤 0+ |
-| [TheSethRose/OpenClaw-Advanced-Config](https://github.com/TheSethRose/OpenClaw-Advanced-Config) | ⭐ 46 | 📖 Setup Guides & Configs | 💤 0+ |
-
-### Detailed View
-
-<details>
-<summary>Click to expand details</summary>
-
-| Repository | Stars | Description | Lang | What You Get | Commits | Issues | PRs | Activity | License | Forks | Updated |
-|------------|-------|-------------|------|--------------|---------|--------|-----|----------|---------|-------|---------|
-| [ucsandman/OpenClaw-Setup](https://github.com/ucsandman/OpenClaw-Setup) [📸](https://opengraph.githubassets.com/1/ucsandman/OpenClaw-Setup) | ⭐ 112 | my personal OpenClaw setup with hierarchical memory, meditation, tools, etc. htt | Python | Configuracao pessoal de OpenClaw com memoria hierarquica | 0 | 0 | 0 | 💤 0+ | Unknown | 21 | 2026-05-12 |
-| [Atlas-Cowork/openclaw-reference-setup](https://github.com/Atlas-Cowork/openclaw-reference-setup) [📸](https://opengraph.githubassets.com/1/Atlas-Cowork/openclaw-reference-setup) | ⭐ 83 | Production-grade OpenClaw personal assistant setup. Security-hardened, 15+ custo | Shell | Setup pessoal de OpenClaw pronto pra producao | 0 | 0 | 0 | 💤 0+ | MIT | 6 | 2026-05-04 |
-| [TheSethRose/OpenClaw-Advanced-Config](https://github.com/TheSethRose/OpenClaw-Advanced-Config) [📸](https://opengraph.githubassets.com/1/TheSethRose/OpenClaw-Advanced-Config) | ⭐ 46 | A production-ready, multi-agent OpenClaw setup with a hub-and-spoke architecture | Unknown | Setup production-ready de OpenClaw com multiplos agents | 0 | 0 | 0 | 💤 0+ | Unknown | 5 | 2026-04-21 |
-
-</details>
-
----
-
-## How-To Guides
-
-<div align="center"><a href="#table-of-contents">⬆️ Back to Top</a></div>
-
-### Quick View
-
-| Repo | Stars | Type | Activity |
-|------|-------|------|----------|
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | ⭐ 33,280 | 📖 How-To Guides | ⚡ 101+ |
-| [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide) | ⭐ 2,829 | 📖 How-To Guides | ⚪ 6+ |
-
-### Detailed View
-
-<details>
-<summary>Click to expand details</summary>
-
-| Repository | Stars | Description | Lang | What You Get | Commits | Issues | PRs | Activity | License | Forks | Updated |
-|------------|-------|-------------|------|--------------|---------|--------|-----|----------|---------|-------|---------|
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) [📸](https://opengraph.githubassets.com/1/luongnv89/claude-howto) | ⭐ 33,280 | A visual, example-driven guide to Claude Code — from basic concepts to advanced  | Python | Guia visual de como usar o Claude Code | 30 | 45 | 26 | ⚡ 101+ | MIT | 4,074 | 2026-05-17 |
-| [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide) [📸](https://opengraph.githubassets.com/1/slowmist/openclaw-security-practice-guide) | ⭐ 2,829 | This guide is designed for OpenClaw itself (Agent-facing), not as a traditional  | Shell | Guia de seguranca pro agente OpenClaw | 0 | 6 | 0 | ⚪ 6+ | MIT | 196 | 2026-05-16 |
-
-</details>
-
----
-
-## Best Practices & Security
-
-<div align="center"><a href="#table-of-contents">⬆️ Back to Top</a></div>
-
-### Quick View
-
-| Repo | Stars | Type | Activity |
-|------|-------|------|----------|
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ⭐ 53,413 | 📖 Best Practices & Security | ⚡ 140+ |
-
-### Detailed View
-
-<details>
-<summary>Click to expand details</summary>
-
-| Repository | Stars | Description | Lang | What You Get | Commits | Issues | PRs | Activity | License | Forks | Updated |
-|------------|-------|-------------|------|--------------|---------|--------|-----|----------|---------|-------|---------|
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) [📸](https://opengraph.githubassets.com/1/shanraisshan/claude-code-best-practice) | ⭐ 53,413 | from vibe coding to agentic engineering - practice makes claude perfect | HTML | Do vibe coding a engenharia agentic | 100+ | 26 | 14 | ⚡ 140+ | MIT | 5,350 | 2026-05-17 |
-
-</details>
-
----
-
-## Head-to-Head Comparisons
-
-> Repos that solve similar problems - side by side.
-
-### AI Gateways: Which one to pick?
-
-| Feature | [litellm](https://github.com/BerriAI/litellm) | [bifrost](https://github.com/maximhq/bifrost) | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [manifest](https://github.com/mnfst/manifest) |
-|---------|-----------------------------------------------|-----------------------------------------------|------------------------------------------------------|---------------------------------------------------|
-| **Stars** | ⭐ 65,000+ | ⭐ 4,984 | ⭐ 4,763 | ⭐ 6,525 |
-| **Speed** | Fast | 50x faster than LiteLLM | RTK compression | Smart routing |
-| **Providers** | 100+ | 1000+ | 160+ | Multi-provider |
-| **Cost Reduction** | Unified billing | Load balancing | ~95% token savings | Up to 70% |
-| **Best For** | Enterprise fleets | High throughput | Free tier maximization | Cost-aware routing |
-| **Complexity** | 🟡 Setup Medio | 🔴 Advanced | 🟢 Plug & Play | 🟡 Setup Medio |
-| **Quick Start** | `pip install litellm` | Docker | `curl install` | `npx @mnfst/manifest` |
-
-### Claude Code Skill Frameworks
-
-| Feature | [gstack](https://github.com/garrytan/gstack) | [superpowers](https://github.com/obra/superpowers) | [gbrain](https://github.com/garrytan/gbrain) |
-|---------|----------------------------------------------|----------------------------------------------------|----------------------------------------------|
-| **Stars** | ⭐ 98,421 | ⭐ 194,942 | ⭐ 16,423 |
-| **Focus** | 23 opinionated roles | Agentic dev methodology | Agent brain/opinions |
-| **Author** | Garry Tan | obra | Garry Tan |
-| **Best For** | Full team simulation | Methodology & patterns | Agent personality |
-| **Complexity** | 🟢 Plug & Play | 🟢 Plug & Play | 🟢 Plug & Play |
-
-### Multi-Agent Orchestration
-
-| Feature | [ClawSwarm](https://github.com/1Panel-dev/ClawSwarm) | [ClawRecipes](https://github.com/JIGGAI/ClawRecipes) | [antfarm](https://github.com/snarktank/antfarm) | [Squad](https://github.com/bradygaster/squad) |
-|---------|------------------------------------------------------|------------------------------------------------------|--------------------------------------------------|-----------------------------------------------|
-| **Approach** | Swarm intelligence | Pre-built templates | One-command setup | General teams |
-| **Best For** | Parallel agent execution | Zero-config deploy | Quick experiments | Any project |
-| **Complexity** | 🔴 Advanced | 🟢 Plug & Play | 🟢 Plug & Play | 🟡 Setup Medio |
-
-### Memory Systems for Agents
-
-| Feature | [memU](https://github.com/NevaMind-AI/memU) | [mempalace](https://github.com/MemPalace/mempalace) | [MemOS](https://github.com/MemTensor/MemOS) | [supermemory](https://github.com/supermemoryai/supermemory) |
-|---------|---------------------------------------------|----------------------------------------------------|---------------------------------------------|----------------------------------------------------------|
-| **Type** | 24/7 persistent | Benchmarked open-source | Self-evolving OS | Ultra-fast API |
-| **Best For** | Long-running agents | Performance-critical | Adaptive memory | Production apps |
-| **Complexity** | 🟡 Setup Medio | 🔴 Advanced | 🔴 Advanced | 🟡 Setup Medio |
-
----
-
-## My Personal Tracker
-
-> A personal checklist of what I have tried. Update manually with ✅ / 🔄 / ⬜
-
-### 🛠️ Projects
-
-#### OpenClaw Ecosystem
-
-- [ ] ⬜ [openclaw/openclaw](https://github.com/openclaw/openclaw) - Seu assistente pessoal de IA que roda em qualquer OS
-- [ ] ⬜ [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - Agente de AI que aprende e cresce com voce
-- [ ] ⬜ [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Memoria persistente entre sessoes do Claude
-- [ ] ⬜ [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - Desktop app que junta Claude Code, Codex, OpenCode em um so 
-- [ ] ⬜ [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI development tool
-- [ ] ⬜ [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Banco de dados de contexto open-source pra AI agents
-- [ ] ⬜ [garrytan/gbrain](https://github.com/garrytan/gbrain) - Cerebro de agente OpenClaw/Hermes
-- [ ] ⬜ [cft0808/edict](https://github.com/cft0808/edict) - Sistema de 9 agents especializados OpenClaw
-- [ ] ⬜ [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 263+ skills prontas pro Claude Code, Codex, Gemini CLI e Cur
-- [ ] ⬜ [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memoria persistente pra agents OpenClaw 24/7
-- [ ] ⬜ [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - AI development tool
-- [ ] ⬜ [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Sistema operacional de memoria pra LLM/agents
-- [ ] ⬜ [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) - App desktop com interface grafica pro OpenClaw
-- [ ] ⬜ [mnfst/manifest](https://github.com/mnfst/manifest) - Roteamento inteligente de modelos LLM - reduz custos em ate 
-- [ ] ⬜ [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Plataforma self-hosted de orquestracao de AI agents
-- [ ] ⬜ [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center) - Transforma o OpenClaw num centro de controle local
-- [ ] ⬜ [abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - Dashboard de orquestracao de AI agents
-- [ ] ⬜ [snarktank/antfarm](https://github.com/snarktank/antfarm) - Cria equipes de agents no OpenClaw com um unico comando
-- [ ] ⬜ [grp06/openclaw-studio](https://github.com/grp06/openclaw-studio) - Dashboard web limpo pro OpenClaw
-- [ ] ⬜ [win4r/ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) - Fork do ClawTeam adaptado pro OpenClaw
-- [ ] ⬜ [chrysb/alphaclaw](https://github.com/chrysb/alphaclaw) - Setup pronto do OpenClaw - deploy em minutos
-- [ ] ⬜ [carlosazaustre/tenacitOS](https://github.com/carlosazaustre/tenacitOS) - Dashboard de controle de missao pro OpenClaw
-- [ ] ⬜ [JohnRiceML/clawport-ui](https://github.com/JohnRiceML/clawport-ui) - Dashboard web pra gerenciar equipes de agents
-- [ ] ⬜ [UniRound-Tec/Aurogen](https://github.com/UniRound-Tec/Aurogen) - Evolucao multi-agent do OpenClaw com auto-melhoria
-- [ ] ⬜ [getclawe/clawe](https://github.com/getclawe/clawe) - Gerenciador de multiplos agents OpenClaw estilo Trello
-- [ ] ⬜ [robsannaa/openclaw-mission-control](https://github.com/robsannaa/openclaw-mission-control) - Interface grafica que roda no host OpenClaw
-- [ ] ⬜ [mudrii/openclaw-dashboard](https://github.com/mudrii/openclaw-dashboard) - Dashboard bonito pra controlar agents OpenClaw
-- [ ] ⬜ [shenhao-stu/openclaw-agents](https://github.com/shenhao-stu/openclaw-agents) - Setup de 9 agents especializados no OpenClaw
-- [ ] ⬜ [raulvidis/openclaw-multi-agent-kit](https://github.com/raulvidis/openclaw-multi-agent-kit) - Templates prontos pra deploy de equipes multi-agent
-- [ ] ⬜ [outsourc-e/clawsuite](https://github.com/outsourc-e/clawsuite) - Central de comando unica pra gerenciar multiplos agents Open
-- [ ] ⬜ [1Panel-dev/ClawSwarm](https://github.com/1Panel-dev/ClawSwarm) - Orquestra swarms de agents OpenClaw em paralelo
-- [ ] ⬜ [JIGGAI/ClawRecipes](https://github.com/JIGGAI/ClawRecipes) - Templates prontos pra deploy de equipe OpenClaw
-- [ ] ⬜ [garrytan/alphaclaw](https://github.com/garrytan/alphaclaw) - Setup pronto do OpenClaw usado pelo Garry Tan
-- [ ] ⬜ [Richchen-maker/openclaw-multi-agent-team](https://github.com/Richchen-maker/openclaw-multi-agent-team) - Orquestra multiplos agents OpenClaw em equipe
-- [ ] ⬜ [jefferyjob/openclaw-it-team](https://github.com/jefferyjob/openclaw-it-team) - Simula um time completo de TI usando multiplos agents
-
-#### Agents & Skill Frameworks
-
-- [ ] ⬜ [obra/superpowers](https://github.com/obra/superpowers) - Framework de skills e metodologia com agents
-- [ ] ⬜ [anthropics/skills](https://github.com/anthropics/skills) - AI development tool
-- [ ] ⬜ [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - Agencia completa de AI agents
-- [ ] ⬜ [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI development tool
-- [ ] ⬜ [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - AI development tool
-- [ ] ⬜ [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - AI development tool
-- [ ] ⬜ [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - AI development tool
-- [ ] ⬜ [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - AI development tool
-- [ ] ⬜ [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - AI development tool
-- [ ] ⬜ [multica-ai/multica](https://github.com/multica-ai/multica) - Plataforma pra transformar agents de codigo em teammates
-- [ ] ⬜ [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - AI development tool
-- [ ] ⬜ [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - AI development tool
-- [ ] ⬜ [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - AI development tool
-- [ ] ⬜ [millionco/react-doctor](https://github.com/millionco/react-doctor) - AI development tool
-- [ ] ⬜ [bradygaster/squad](https://github.com/bradygaster/squad) - Cria equipes de AI agents pra qualquer projeto
-
-#### Claude Code & Coding Agents
-
-- [ ] ⬜ [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - Repo de skills massivas pro OpenClaw
-- [ ] ⬜ [anomalyco/opencode](https://github.com/anomalyco/opencode) - Deixa o AI agent codar sozinho no seu projeto
-- [ ] ⬜ [garrytan/gstack](https://github.com/garrytan/gstack) - Configuracao completa do Claude Code com 23 ferramentas
-- [ ] ⬜ [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - Skill pro Claude Code que corta 65% dos tokens
-- [ ] ⬜ [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - Plataforma de orquestracao de agents pra Claude
-- [ ] ⬜ [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - Reduz o gasto de tokens em 60-90% ao usar LLMs
-- [ ] ⬜ [aaif-goose/goose](https://github.com/aaif-goose/goose) - Agente de codigo que edita, testa e executa arquivos automat
-- [ ] ⬜ [santifer/career-ops](https://github.com/santifer/career-ops) - AI development tool
-- [ ] ⬜ [nexu-io/open-design](https://github.com/nexu-io/open-design) - AI development tool
-- [ ] ⬜ [wshobson/agents](https://github.com/wshobson/agents) - Automacao inteligente e orquestracao multi-agent
-- [ ] ⬜ [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Orquestracao multi-agent pra equipes com Claude Code
-- [ ] ⬜ [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - Adiciona hooks, equipes de agents e HUDs pro Codex
-- [ ] ⬜ [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Transforma o Claude Code num estudio de jogos
-- [ ] ⬜ [decolua/9router](https://github.com/decolua/9router) - Proxy que conecta Claude Code/Codex/Cursor a providers gratu
-- [ ] ⬜ [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Gerencia multiplos agents via interface TUI ou Web
-
-#### Other Projects
-
-- [ ] ⬜ [calcom/cal.diy](https://github.com/calcom/cal.diy) - AI development tool
-- [ ] ⬜ [roboflow/supervision](https://github.com/roboflow/supervision) - AI development tool
-- [ ] ⬜ [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - AI development tool
-- [ ] ⬜ [yikart/AiToEarn](https://github.com/yikart/AiToEarn) - AI development tool
-- [ ] ⬜ [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - AI development tool
-- [ ] ⬜ [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - AI development tool
-
-#### AI Gateways & Model Routing
-
-- [ ] ⬜ [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - SuperAgent open-source que pesquisa, codifica e cria projeto
-- [ ] ⬜ [BerriAI/litellm](https://github.com/BerriAI/litellm) - SDK/proxy pra chamar 100+ APIs de LLM
-- [ ] ⬜ [maximhq/bifrost](https://github.com/maximhq/bifrost) - Roteia chamadas de LLM entre multiplos providers com load ba
-- [ ] ⬜ [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Gateway gratuito pra usar Claude/Codex/Cursor com 160+ provi
-
-#### Memory & Knowledge Systems
-
-- [ ] ⬜ [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - Sistema de memoria open-source pra AI agents
-- [ ] ⬜ [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memoria ultra-rapida e escalavel pra AI agents
-- [ ] ⬜ [EvoMap/evolver](https://github.com/EvoMap/evolver) - Motor de evolucao genetica pra AI agents
-
-#### UI, Dashboards & Desktop Apps
-
-- [ ] ⬜ [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - AI development tool
-- [ ] ⬜ [apernet/hysteria](https://github.com/apernet/hysteria) - AI development tool
-
-#### Automation & Productivity
-
-- [ ] ⬜ [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - Web scraping adaptativo - extrai dados de sites sem quebrar
-- [ ] ⬜ [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - Gerenciador de documentos - escaneia, indexa e busca PDFs
-
-### 📚 Lists & Guides
-
-#### Awesome Lists
-
-- [ ] ⬜ [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Colecao de arquivos DESIGN.md inspirados em sistemas famosos
-- [ ] ⬜ [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Colecao com 5400+ skills pro OpenClaw
-- [ ] ⬜ [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Lista curada de skills e orquestradores pro Claude Code
-- [ ] ⬜ [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - Casos de uso reais da comunidade OpenClaw
-- [ ] ⬜ [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - Colecao de apps prontos usando RAG, agents e workflows
-- [ ] ⬜ [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 templates de AI agents prontos pro OpenClaw
-- [ ] ⬜ [alvinreal/awesome-openclaw](https://github.com/alvinreal/awesome-openclaw) - Lista curada dos melhores recursos pro OpenClaw
-
-#### Skills Collections
-
-- [ ] ⬜ [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - Arquivo CLAUDE.md baseado no estilo do Andrej Karpathy
-- [ ] ⬜ [mattpocock/skills](https://github.com/mattpocock/skills) - Skills prontas pro Claude Code (TypeScript/engenharia)
-- [ ] ⬜ [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Skills de engenharia prontas pra uso em producao
-- [ ] ⬜ [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - Skill que pesquisa o que a internet esta falando sobre qualq
-- [ ] ⬜ [LeoYeAI/openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills) - Colecao de 1209+ skills pro OpenClaw
-
-#### Learning Resources
-
-- [ ] ⬜ [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Sistema completo de otimizacao do Claude Code
-- [ ] ⬜ [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - Lista de APIs de LLM gratuitas
-- [ ] ⬜ [czl9707/build-your-own-openclaw](https://github.com/czl9707/build-your-own-openclaw) - Tutorial passo-a-passo pra construir seu proprio agente AI
-
-#### Setup Guides & Configs
-
-- [ ] ⬜ [ucsandman/OpenClaw-Setup](https://github.com/ucsandman/OpenClaw-Setup) - Configuracao pessoal de OpenClaw com memoria hierarquica
-- [ ] ⬜ [Atlas-Cowork/openclaw-reference-setup](https://github.com/Atlas-Cowork/openclaw-reference-setup) - Setup pessoal de OpenClaw pronto pra producao
-- [ ] ⬜ [TheSethRose/OpenClaw-Advanced-Config](https://github.com/TheSethRose/OpenClaw-Advanced-Config) - Setup production-ready de OpenClaw com multiplos agents
-
-#### How-To Guides
-
-- [ ] ⬜ [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - Guia visual de como usar o Claude Code
-- [ ] ⬜ [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide) - Guia de seguranca pro agente OpenClaw
-
-#### Best Practices & Security
-
-- [ ] ⬜ [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - Do vibe coding a engenharia agentic
-
----
-
-## How to Use This List
-
-### For Projects
-
-1. **Pick a category** that matches what you are looking for.
-2. **Check the complexity badge** - 🟢 = quick win, 🔴 = weekend project.
-3. **Check the activity emoji** - avoid 💤 repos if you need support.
-4. **Read the Popular Use Case** - one-line explanation of what it actually does.
-5. **Click the 📸 icon** for a social preview screenshot.
-6. **Copy the Quick Start command** and try it now.
-
-### For Lists & Guides
-
-1. **Browse by topic** - Awesome Lists, Setup Guides, Skills Collections, etc.
-2. **Check star count** - Higher stars usually mean higher quality curation.
-3. **Fork or bookmark** - Great for reference and learning.
-
----
-
-## Auto-Update
-
-This list is automatically updated daily at 9:00 AM (Sao Paulo time) via a cron job that:
-- Fetches new starred repositories
-- Updates 30-day activity stats (commits, issues, PRs)
-- Regenerates this README with fresh data
-- Commits and pushes to GitHub
-
-> **Note:** Activity counts are capped at 100+ per metric due to GitHub API pagination. Totals may show `300+` for hyperactive repos.
-
----
-
-*Last updated: 2026-05-17*
-*Auto-generated with ❤️ by [Jaime](https://github.com/joaosbp)*
+*This list is auto-updated daily at 9:00 AM BRT.*
+*Last update: 2026-05-17 · Auto-generated with ❤️*
 
