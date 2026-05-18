@@ -1,9 +1,9 @@
 # One Day I Will Try This
 
-> **112 AI agent, coding, and automation repositories worth your attention.**
+> **111 AI agent, coding, and automation repositories worth your attention.**
 > Stars ≈ 3M+ | Auto-updated daily at 9:00 AM BRT
 
-![Repos](https://img.shields.io/badge/repos-112-blue) ![Stars](https://img.shields.io/badge/total%20stars-4M-yellow) ![Hyperactive](https://img.shields.io/badge/hyperactive-101-red)
+![Repos](https://img.shields.io/badge/repos-111-blue) ![Stars](https://img.shields.io/badge/total%20stars-4M-yellow) ![Hyperactive](https://img.shields.io/badge/hyperactive-100-red)
 
 <table width="100%">
   <colgroup>
@@ -21,12 +21,6 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="https://github.com/EbookFoundation/free-programming-books">**EbookFoundation** /<br>free-programming-books</a> <a href="https://star-history.com/#EbookFoundation/free-programming-books">📈</a></td>
-      <td>🔥<br>Oct 2013<br>⭐ 388K<br>⚡⚡⚡</td>
-      <td><code>guide</code></td>
-      <td>:books: Freely available programming books</td>
-    </tr>
     <tr>
       <td><a href="https://github.com/openclaw/openclaw">**openclaw** / openclaw</a> <a href="https://star-history.com/#openclaw/openclaw">📈</a></td>
       <td>🔥🔥🔥<br>Nov 2025<br>⭐ 372K<br>⚡⚡⚡</td>
@@ -179,7 +173,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/D4Vinci/Scrapling">**D4Vinci** / Scrapling</a> <a href="https://star-history.com/#D4Vinci/Scrapling">📈</a></td>
-      <td>🔥<br>Oct 2024<br>⭐ 50K<br>⚡⚡⚡</td>
+      <td>🔥<br>Oct 2024<br>⭐ 51K<br>⚡⚡⚡</td>
       <td><code>devtools</code></td>
       <td>🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!</td>
     </tr>
@@ -263,7 +257,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/ZhuLinsen/daily_stock_analysis">**ZhuLinsen** /<br>daily_stock_analysis</a> <a href="https://star-history.com/#ZhuLinsen/daily_stock_analysis">📈</a></td>
-      <td>🔥🔥🔥<br>Jan 2026<br>⭐ 36K<br>⚡⚡⚡</td>
+      <td>🔥🔥🔥<br>Jan 2026<br>⭐ 37K<br>⚡⚡⚡</td>
       <td><code>financial</code></td>
       <td>LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.</td>
     </tr>
@@ -425,7 +419,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/CloakHQ/CloakBrowser">**CloakHQ** / CloakBrowser</a> <a href="https://star-history.com/#CloakHQ/CloakBrowser">📈</a></td>
-      <td>🔥🔥<br>Feb 2026<br>⭐ 14K<br>⚡⚡⚡</td>
+      <td>🔥🔥<br>Feb 2026<br>⭐ 15K<br>⚡⚡⚡</td>
       <td><code>security</code> <code>devtools</code></td>
       <td>Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.</td>
     </tr>
