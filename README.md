@@ -19,7 +19,7 @@
 | `memory` | Memory and knowledge systems |
 | `coding-agent` | Code-writing AI agents |
 | `devtools` | Scraping, vision, docs, utilities |
-| `specialized` | Trading, research, gaming, niche domains |
+| `security` | Security tools, pentest, stealth browsers |
 | `financial` | Finance, trading, stock analysis |
 | `security` | Security tools, pentest, stealth browsers |
 | `gaming` | Game development, game studios |
@@ -108,7 +108,7 @@
     <tr>
       <td><a href="https://github.com/msitarzewski/agency-agents">**msitarzewski** / agency-agents</a> <a href="https://star-history.com/#msitarzewski/agency-agents">📈</a></td>
       <td>🔥🔥🔥<br>Oct 2025<br>⭐ 99K<br>⚡⚡⚡</td>
-      <td><code>orchestration</code> <code>specialized</code></td>
+      <td><code>orchestration</code></td>
       <td>A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert...</td>
     </tr>
     <tr>
@@ -138,7 +138,7 @@
     <tr>
       <td><a href="https://github.com/TauricResearch/TradingAgents">**TauricResearch** / TradingAgents</a> <a href="https://star-history.com/#TauricResearch/TradingAgents">📈</a></td>
       <td>🔥🔥<br>Dec 2024<br>⭐ 76K<br>⚡⚡⚡</td>
-      <td><code>orchestration</code> <code>specialized</code><br><code>financial</code></td>
+      <td><code>orchestration</code> <code>financial</code></td>
       <td>TradingAgents: Multi-Agents LLM Financial Trading Framework</td>
     </tr>
     <tr>
@@ -168,7 +168,7 @@
     <tr>
       <td><a href="https://github.com/paperclipai/paperclip">**paperclipai** / paperclip</a> <a href="https://star-history.com/#paperclipai/paperclip">📈</a></td>
       <td>🔥🔥🔥<br>Mar 2026<br>⭐ 66K<br>⚡⚡⚡</td>
-      <td><code>orchestration</code> <code>specialized</code></td>
+      <td><code>orchestration</code> <code>productivity</code></td>
       <td>The open-source app everyone uses to manage agents at work</td>
     </tr>
     <tr>
@@ -180,7 +180,7 @@
     <tr>
       <td><a href="https://github.com/koala73/worldmonitor">**koala73** / worldmonitor</a> <a href="https://star-history.com/#koala73/worldmonitor">📈</a></td>
       <td>🔥🔥🔥<br>Jan 2026<br>⭐ 54K<br>⚡⚡⚡</td>
-      <td><code>monitoring</code> <code>specialized</code></td>
+      <td><code>monitoring</code></td>
       <td>Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface</td>
     </tr>
     <tr>
@@ -210,7 +210,7 @@
     <tr>
       <td><a href="https://github.com/freqtrade/freqtrade">**freqtrade** / freqtrade</a> <a href="https://star-history.com/#freqtrade/freqtrade">📈</a></td>
       <td>🧊<br>May 2017<br>⭐ 50K<br>⚡⚡⚡</td>
-      <td><code>financial</code> <code>specialized</code></td>
+      <td><code>financial</code></td>
       <td>Free, open source crypto trading bot</td>
     </tr>
     <tr>
@@ -246,7 +246,7 @@
     <tr>
       <td><a href="https://github.com/santifer/career-ops">**santifer** / career-ops</a> <a href="https://star-history.com/#santifer/career-ops">📈</a></td>
       <td>🔥🔥🔥<br>Apr 2026<br>⭐ 45K<br>⚡⚡⚡</td>
-      <td><code>claude</code> <code>skills</code><br><code>specialized</code></td>
+      <td><code>claude</code> <code>skills</code></td>
       <td>AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.</td>
     </tr>
     <tr>
@@ -288,7 +288,7 @@
     <tr>
       <td><a href="https://github.com/ZhuLinsen/daily_stock_analysis">**ZhuLinsen** /<br>daily_stock_analysis</a> <a href="https://star-history.com/#ZhuLinsen/daily_stock_analysis">📈</a></td>
       <td>🔥🔥🔥<br>Jan 2026<br>⭐ 36K<br>⚡⚡⚡</td>
-      <td><code>specialized</code> <code>financial</code></td>
+      <td><code>financial</code></td>
       <td>LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.</td>
     </tr>
     <tr>
@@ -366,7 +366,7 @@
     <tr>
       <td><a href="https://github.com/K-Dense-AI/scientific-agent-skills">**K-Dense-AI** /<br>scientific-agent-skills</a> <a href="https://star-history.com/#K-Dense-AI/scientific-agent-skills">📈</a></td>
       <td>🔥🔥<br>Oct 2025<br>⭐ 24K<br>⚡⚡⚡</td>
-      <td><code>claude</code> <code>financial</code><br><code>skills</code> <code>specialized</code></td>
+      <td><code>claude</code> <code>financial</code><br><code>skills</code></td>
       <td>A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.</td>
     </tr>
     <tr>
@@ -390,7 +390,7 @@
     <tr>
       <td><a href="https://github.com/Fincept-Corporation/FinceptTerminal">**Fincept-Corporation** / FinceptTerminal</a> <a href="https://star-history.com/#Fincept-Corporation/FinceptTerminal">📈</a></td>
       <td>🔥<br>Aug 2024<br>⭐ 21K<br>⚡⚡⚡</td>
-      <td><code>financial</code> <code>specialized</code></td>
+      <td><code>financial</code></td>
       <td>FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and...</td>
     </tr>
     <tr>
@@ -402,13 +402,13 @@
     <tr>
       <td><a href="https://github.com/Donchitos/Claude-Code-Game-Studios">**Donchitos** /<br>Claude-Code-Game-Studios</a> <a href="https://star-history.com/#Donchitos/Claude-Code-Game-Studios">📈</a></td>
       <td>🔥🔥<br>Feb 2026<br>⭐ 19K<br>⚡⚡⚡</td>
-      <td><code>claude</code> <code>gaming</code><br><code>orchestration</code> <code>specialized</code></td>
+      <td><code>claude</code> <code>gaming</code><br><code>orchestration</code></td>
       <td>Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/HKUDS/AI-Trader">**HKUDS** / AI-Trader</a> <a href="https://star-history.com/#HKUDS/AI-Trader">📈</a></td>
       <td>🔥<br>Oct 2025<br>⭐ 18K<br>⚡⚡⚡</td>
-      <td><code>financial</code> <code>specialized</code></td>
+      <td><code>financial</code></td>
       <td>"AI-Trader: 100% Fully-Automated Agent-Native Trading"</td>
     </tr>
     <tr>
@@ -420,7 +420,7 @@
     <tr>
       <td><a href="https://github.com/tinyhumansai/openhuman">**tinyhumansai** / openhuman</a> <a href="https://star-history.com/#tinyhumansai/openhuman">📈</a></td>
       <td>🔥🔥<br>Feb 2026<br>⭐ 16K<br>⚡⚡⚡</td>
-      <td><code>openclaw</code> <code>specialized</code></td>
+      <td><code>openclaw</code></td>
       <td>Your Personal AI super intelligence. Private, Simple and extremely powerful.</td>
     </tr>
     <tr>
@@ -444,7 +444,7 @@
     <tr>
       <td><a href="https://github.com/yikart/AiToEarn">**yikart** / AiToEarn</a> <a href="https://star-history.com/#yikart/AiToEarn">📈</a></td>
       <td>🔥<br>Feb 2025<br>⭐ 15K<br>⚡⚡⚡</td>
-      <td><code>specialized</code></td>
+      <td><code>productivity</code></td>
       <td>Let's use AI to Earn!</td>
     </tr>
     <tr>
