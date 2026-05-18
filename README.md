@@ -5,30 +5,6 @@
 
 ![Repos](https://img.shields.io/badge/repos-112-blue) ![Stars](https://img.shields.io/badge/total%20stars-4M-yellow) ![Hyperactive](https://img.shields.io/badge/hyperactive-101-red)
 
-## 🏷️ Tags
-
-| Tag | Meaning |
-|-----|---------|
-| `openclaw` | OpenClaw ecosystem |
-| `claude` | Claude Code, Desktop, skills |
-| `llm-routing` | Gateways, proxies, model routers |
-| `skills` | Skill packs, configs, .claude directories |
-| `guide` | Tutorials, how-to, step-by-step |
-| `orchestration` | Multi-agent, swarms, coordination |
-| `curated-list` | Awesome lists, showcases, collections |
-| `memory` | Memory and knowledge systems |
-| `coding-agent` | Code-writing AI agents |
-| `devtools` | Scraping, vision, docs, utilities |
-| `security` | Security tools, pentest, stealth browsers |
-| `financial` | Finance, trading, stock analysis |
-| `security` | Security tools, pentest, stealth browsers |
-| `gaming` | Game development, game studios |
-| `audio` | TTS, voice, sound |
-| `research` | AI research, scientific computing |
-| `monitoring` | Dashboards, intelligence, tracking |
-| `creative-ai` | Image/video generation, creative tools |
-| `productivity` | Document management, scheduling, productivity tools |
-
 <table width="100%">
   <colgroup>
     <col width="25%">
