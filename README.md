@@ -3,7 +3,7 @@
 > **186 AI agent, coding, and automation repositories worth your attention.**
 > Stars ≈ 3M+ | Auto-updated daily at 9:00 AM BRT
 
-![Repos](https://img.shields.io/badge/repos-186-blue) ![Stars](https://img.shields.io/badge/total%20stars-7M-yellow) ![Hyperactive](https://img.shields.io/badge/hyperactive-157-red)
+![Repos](https://img.shields.io/badge/repos-186-blue) ![Stars](https://img.shields.io/badge/total%20stars-7M-yellow) ![Hyperactive](https://img.shields.io/badge/hyperactive-158-red)
 
 ## 🛠️ Real Stuff
 
@@ -45,13 +45,13 @@ Tools, frameworks, apps, libraries, and actual code you can use.
     </tr>
     <tr>
       <td><a href="https://github.com/obra/superpowers">obra / superpowers</a> <a href="https://star-history.com/#obra/superpowers">📈</a></td>
-      <td>🔥🔥🔥<br>Oct 2025<br>⭐ 221K<br>⚡⚡⚡</td>
+      <td>🔥🔥🔥<br>Oct 2025<br>⭐ 222K<br>⚡⚡⚡</td>
       <td><code>skills</code> <code>methodology</code><br><code>framework</code> <code>coding-agent</code></td>
       <td>An agentic skills framework & software development methodology that works.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/affaan-m/ECC">affaan-m / ECC</a> <a href="https://star-history.com/#affaan-m/ECC">📈</a></td>
-      <td>🔥🔥🔥<br>Jan 2026<br>⭐ 210K<br>⚡⚡⚡</td>
+      <td>🔥🔥🔥<br>Jan 2026<br>⭐ 211K<br>⚡⚡⚡</td>
       <td><code>performance</code> <code>harness</code><br><code>optimization</code> <code>agents</code></td>
       <td>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor ...</td>
     </tr>
@@ -63,7 +63,7 @@ Tools, frameworks, apps, libraries, and actual code you can use.
     </tr>
     <tr>
       <td><a href="https://github.com/NousResearch/hermes-agent">NousResearch / hermes-agent</a> <a href="https://star-history.com/#NousResearch/hermes-agent">📈</a></td>
-      <td>🔥🔥🔥<br>Jul 2025<br>⭐ 186K<br>⚡⚡⚡</td>
+      <td>🔥🔥🔥<br>Jul 2025<br>⭐ 188K<br>⚡⚡⚡</td>
       <td><code>openclaw</code> <code>claude</code><br><code>coding-agent</code> <code>memory</code></td>
       <td>The agent that grows with you</td>
     </tr>
@@ -81,25 +81,25 @@ Tools, frameworks, apps, libraries, and actual code you can use.
     </tr>
     <tr>
       <td><a href="https://github.com/multica-ai/andrej-karpathy-skills">multica-ai /<br>andrej-karpathy-skills</a> <a href="https://star-history.com/#multica-ai/andrej-karpathy-skills">📈</a></td>
-      <td>🔥🔥🔥<br>Jan 2026<br>⭐ 170K<br>⚡⚡⚡</td>
+      <td>🔥🔥🔥<br>Jan 2026<br>⭐ 171K<br>⚡⚡⚡</td>
       <td><code>skills</code> <code>claude</code><br><code>guidelines</code> <code>best-practices</code></td>
       <td>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/microsoft/markitdown">microsoft / markitdown</a> <a href="https://star-history.com/#microsoft/markitdown">📈</a></td>
-      <td>🔥🔥<br>Nov 2024<br>⭐ 147K<br>⚡⚡⚡</td>
+      <td>🔥🔥<br>Nov 2024<br>⭐ 148K<br>⚡⚡⚡</td>
       <td><code>autogen</code> <code>autogen-extension</code><br><code>langchain</code> <code>markdown</code></td>
       <td>Python tool for converting files and office documents to Markdown.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/anthropics/skills">anthropics / skills</a> <a href="https://star-history.com/#anthropics/skills">📈</a></td>
-      <td>🔥🔥🔥<br>Sep 2025<br>⭐ 147K<br>⚡⚡⚡</td>
+      <td>🔥🔥🔥<br>Sep 2025<br>⭐ 148K<br>⚡⚡⚡</td>
       <td><code>agent-skills</code> <code>claude</code><br><code>official</code> <code>skills</code></td>
       <td>Public repository for Agent Skills</td>
     </tr>
     <tr>
       <td><a href="https://github.com/mattpocock/skills">mattpocock / skills</a> <a href="https://star-history.com/#mattpocock/skills">📈</a></td>
-      <td>🔥🔥🔥<br>Feb 2026<br>⭐ 121K<br>⚡⚡⚡</td>
+      <td>🔥🔥🔥<br>Feb 2026<br>⭐ 122K<br>⚡⚡⚡</td>
       <td><code>claude</code> <code>skills</code><br><code>coding-agent</code></td>
       <td>Skills for Real Engineers. Straight from my .claude directory.</td>
     </tr>
@@ -129,7 +129,7 @@ Tools, frameworks, apps, libraries, and actual code you can use.
     </tr>
     <tr>
       <td><a href="https://github.com/farion1231/cc-switch">farion1231 / cc-switch</a> <a href="https://star-history.com/#farion1231/cc-switch">📈</a></td>
-      <td>🔥🔥<br>Aug 2025<br>⭐ 94K<br>⚡⚡⚡</td>
+      <td>🔥🔥<br>Aug 2025<br>⭐ 95K<br>⚡⚡⚡</td>
       <td><code>openclaw</code> <code>claude</code><br><code>coding-agent</code> <code>llm-routing</code></td>
       <td>A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io</td>
     </tr>
@@ -147,7 +147,7 @@ Tools, frameworks, apps, libraries, and actual code you can use.
     </tr>
     <tr>
       <td><a href="https://github.com/harry0703/MoneyPrinterTurbo">harry0703 / MoneyPrinterTurbo</a> <a href="https://star-history.com/#harry0703/MoneyPrinterTurbo">📈</a></td>
-      <td>🔥🔥<br>Mar 2024<br>⭐ 81K<br>⚡⚡⚡</td>
+      <td>🔥🔥<br>Mar 2024<br>⭐ 83K<br>⚡⚡⚡</td>
       <td><code>automation</code> <code>chatgpt</code><br><code>moviepy</code> <code>shortvideo</code></td>
       <td>利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.</td>
     </tr>
@@ -188,16 +188,16 @@ Tools, frameworks, apps, libraries, and actual code you can use.
       <td>12 Lessons to Get Started Building AI Agents</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/safishamsi/graphify">safishamsi / graphify</a> <a href="https://star-history.com/#safishamsi/graphify">📈</a></td>
-      <td>🔥🔥🔥<br>Apr 2026<br>⭐ 62K<br>⚡⚡⚡</td>
-      <td><code>knowledge-graph</code> <code>rag</code><br><code>graphrag</code> <code>skills</code></td>
-      <td>AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, pa...</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/pewdiepie-archdaemon/odysseus">pewdiepie-archdaemon / odysseus</a> <a href="https://star-history.com/#pewdiepie-archdaemon/odysseus">📈</a></td>
-      <td>🔥🔥🔥<br>May 2026<br>⭐ 62K<br>⚡⚡⚡</td>
+      <td>🔥🔥🔥<br>May 2026<br>⭐ 64K<br>⚡⚡⚡</td>
       <td><code>python</code></td>
       <td>Self-hosted AI workspace.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/safishamsi/graphify">safishamsi / graphify</a> <a href="https://star-history.com/#safishamsi/graphify">📈</a></td>
+      <td>🔥🔥🔥<br>Apr 2026<br>⭐ 63K<br>⚡⚡⚡</td>
+      <td><code>knowledge-graph</code> <code>rag</code><br><code>graphrag</code> <code>skills</code></td>
+      <td>AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, pa...</td>
     </tr>
     <tr>
       <td><a href="https://github.com/D4Vinci/Scrapling">D4Vinci / Scrapling</a> <a href="https://star-history.com/#D4Vinci/Scrapling">📈</a></td>
@@ -207,13 +207,13 @@ Tools, frameworks, apps, libraries, and actual code you can use.
     </tr>
     <tr>
       <td><a href="https://github.com/nexu-io/open-design">nexu-io / open-design</a> <a href="https://star-history.com/#nexu-io/open-design">📈</a></td>
-      <td>🔥🔥🔥<br>Apr 2026<br>⭐ 61K<br>⚡⚡⚡</td>
+      <td>🔥🔥🔥<br>Apr 2026<br>⭐ 62K<br>⚡⚡⚡</td>
       <td><code>claude</code> <code>coding-agent</code><br><code>skills</code> <code>design</code></td>
       <td>🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides...</td>
     </tr>
     <tr>
       <td><a href="https://github.com/rtk-ai/rtk">rtk-ai / rtk</a> <a href="https://star-history.com/#rtk-ai/rtk">📈</a></td>
-      <td>🔥🔥🔥<br>Jan 2026<br>⭐ 59K<br>⚡⚡⚡</td>
+      <td>🔥🔥🔥<br>Jan 2026<br>⭐ 60K<br>⚡⚡⚡</td>
       <td><code>claude</code> <code>llm-routing</code><br><code>devtools</code></td>
       <td>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</td>
     </tr>
@@ -230,14 +230,14 @@ Tools, frameworks, apps, libraries, and actual code you can use.
       <td>Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness in...</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Lum1104/Understand-Anything">Lum1104 /<br>Understand-Anything</a> <a href="https://star-history.com/#Lum1104/Understand-Anything">📈</a></td>
-      <td>🔥🔥🔥<br>Mar 2026<br>⭐ 54K<br>⚡⚡⚡</td>
+      <td><a href="https://github.com/Egonex-AI/Understand-Anything">Egonex-AI /<br>Understand-Anything</a> <a href="https://star-history.com/#Egonex-AI/Understand-Anything">📈</a></td>
+      <td>🔥🔥🔥<br>Mar 2026<br>⭐ 55K<br>⚡⚡⚡</td>
       <td><code>antigravity-skills</code> <code>business-knowledge</code><br><code>claude-code</code> <code>claude-skills</code></td>
       <td>Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude C...</td>
     </tr>
     <tr>
       <td><a href="https://github.com/MemPalace/mempalace">MemPalace / mempalace</a> <a href="https://star-history.com/#MemPalace/mempalace">📈</a></td>
-      <td>🔥🔥🔥<br>Apr 2026<br>⭐ 54K<br>⚡⚡⚡</td>
+      <td>🔥🔥🔥<br>Apr 2026<br>⭐ 55K<br>⚡⚡⚡</td>
       <td><code>memory</code> <code>llm</code><br><code>chromadb</code> <code>mcp</code></td>
       <td>The best-benchmarked open-source AI memory system. And it's free.</td>
     </tr>
@@ -255,7 +255,7 @@ Tools, frameworks, apps, libraries, and actual code you can use.
     </tr>
     <tr>
       <td><a href="https://github.com/santifer/career-ops">santifer / career-ops</a> <a href="https://star-history.com/#santifer/career-ops">📈</a></td>
-      <td>🔥🔥🔥<br>Apr 2026<br>⭐ 49K<br>⚡⚡⚡</td>
+      <td>🔥🔥🔥<br>Apr 2026<br>⭐ 51K<br>⚡⚡⚡</td>
       <td><code>claude</code> <code>skills</code><br><code>career</code></td>
       <td>AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.</td>
     </tr>
@@ -279,7 +279,7 @@ Tools, frameworks, apps, libraries, and actual code you can use.
     </tr>
     <tr>
       <td><a href="https://github.com/aaif-goose/goose">aaif-goose / goose</a> <a href="https://star-history.com/#aaif-goose/goose">📈</a></td>
-      <td>🔥<br>Aug 2024<br>⭐ 47K<br>⚡⚡⚡</td>
+      <td>🔥<br>Aug 2024<br>⭐ 48K<br>⚡⚡⚡</td>
       <td><code>coding-agent</code> <code>openclaw</code><br><code>mcp</code></td>
       <td>an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</td>
     </tr>
@@ -288,6 +288,12 @@ Tools, frameworks, apps, libraries, and actual code you can use.
       <td>🔥<br>Mar 2021<br>⭐ 45K<br>⚡⚡⚡</td>
       <td><code>productivity</code> <code>scheduling</code><br><code>nextjs</code> <code>open-source</code></td>
       <td>Scheduling infrastructure for absolutely everyone.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/roboflow/supervision">roboflow / supervision</a> <a href="https://star-history.com/#roboflow/supervision">📈</a></td>
+      <td>🔥<br>Nov 2022<br>⭐ 42K<br>⚡⚡⚡</td>
+      <td><code>computer-vision</code> <code>object-detection</code><br><code>python</code> <code>metrics</code></td>
+      <td>We write your reusable computer vision tools. 💜</td>
     </tr>
     <tr>
       <td><a href="https://github.com/HKUDS/CLI-Anything">HKUDS / CLI-Anything</a> <a href="https://star-history.com/#HKUDS/CLI-Anything">📈</a></td>
@@ -302,12 +308,6 @@ Tools, frameworks, apps, libraries, and actual code you can use.
       <td>A community-supported supercharged document management system: scan, index and archive all your documents</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/roboflow/supervision">roboflow / supervision</a> <a href="https://star-history.com/#roboflow/supervision">📈</a></td>
-      <td>🔥<br>Nov 2022<br>⭐ 41K<br>⚡⚡⚡</td>
-      <td><code>computer-vision</code> <code>object-detection</code><br><code>python</code> <code>metrics</code></td>
-      <td>We write your reusable computer vision tools. 💜</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/ZhuLinsen/daily_stock_analysis">ZhuLinsen /<br>daily_stock_analysis</a> <a href="https://star-history.com/#ZhuLinsen/daily_stock_analysis">📈</a></td>
       <td>🔥🔥🔥<br>Jan 2026<br>⭐ 41K<br>⚡⚡⚡</td>
       <td><code>financial</code> <code>stock-analysis</code><br><code>llm</code> <code>quant</code></td>
@@ -315,7 +315,7 @@ Tools, frameworks, apps, libraries, and actual code you can use.
     </tr>
     <tr>
       <td><a href="https://github.com/Leonxlnx/taste-skill">Leonxlnx / taste-skill</a> <a href="https://star-history.com/#Leonxlnx/taste-skill">📈</a></td>
-      <td>🔥🔥🔥<br>Feb 2026<br>⭐ 37K<br>⚡⚡⚡</td>
+      <td>🔥🔥🔥<br>Feb 2026<br>⭐ 39K<br>⚡⚡⚡</td>
       <td><code>agent</code> <code>claude</code><br><code>claude-code</code> <code>codex</code></td>
       <td>Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop</td>
     </tr>
@@ -332,8 +332,14 @@ Tools, frameworks, apps, libraries, and actual code you can use.
       <td>The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/mvanhorn/last30days-skill">mvanhorn / last30days-skill</a> <a href="https://star-history.com/#mvanhorn/last30days-skill">📈</a></td>
+      <td>🔥🔥<br>Jan 2026<br>⭐ 36K<br>⚡⚡⚡</td>
+      <td><code>openclaw</code> <code>claude</code><br><code>skills</code> <code>research</code></td>
+      <td>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Yeachan-Heo/oh-my-claudecode">Yeachan-Heo / oh-my-claudecode</a> <a href="https://star-history.com/#Yeachan-Heo/oh-my-claudecode">📈</a></td>
-      <td>🔥🔥<br>Jan 2026<br>⭐ 35K<br>⚡⚡⚡</td>
+      <td>🔥🔥<br>Jan 2026<br>⭐ 36K<br>⚡⚡⚡</td>
       <td><code>claude</code> <code>coding-agent</code><br><code>automation</code></td>
       <td>Teams-first Multi-agent orchestration for Claude Code</td>
     </tr>
@@ -356,22 +362,10 @@ Tools, frameworks, apps, libraries, and actual code you can use.
       <td>Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mvanhorn/last30days-skill">mvanhorn / last30days-skill</a> <a href="https://star-history.com/#mvanhorn/last30days-skill">📈</a></td>
-      <td>🔥🔥<br>Jan 2026<br>⭐ 32K<br>⚡⚡⚡</td>
-      <td><code>openclaw</code> <code>claude</code><br><code>skills</code> <code>research</code></td>
-      <td>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/tinyhumansai/openhuman">tinyhumansai / openhuman</a> <a href="https://star-history.com/#tinyhumansai/openhuman">📈</a></td>
       <td>🔥🔥<br>Feb 2026<br>⭐ 31K<br>⚡⚡⚡</td>
       <td><code>personal-ai</code> <code>desktop-app</code><br><code>memory</code> <code>integrations</code></td>
       <td>Your Personal AI super intelligence. Private, Simple and extremely powerful.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Yeachan-Heo/oh-my-codex">Yeachan-Heo / oh-my-codex</a> <a href="https://star-history.com/#Yeachan-Heo/oh-my-codex">📈</a></td>
-      <td>🔥🔥<br>Feb 2026<br>⭐ 30K<br>⚡⚡⚡</td>
-      <td><code>claude</code> <code>coding-agent</code><br><code>orchestration</code></td>
-      <td>OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/anthropics/financial-services">anthropics / financial-services</a> <a href="https://star-history.com/#anthropics/financial-services">📈</a></td>
@@ -380,8 +374,14 @@ Tools, frameworks, apps, libraries, and actual code you can use.
       <td>-</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/Yeachan-Heo/oh-my-codex">Yeachan-Heo / oh-my-codex</a> <a href="https://star-history.com/#Yeachan-Heo/oh-my-codex">📈</a></td>
+      <td>🔥🔥<br>Feb 2026<br>⭐ 30K<br>⚡⚡⚡</td>
+      <td><code>claude</code> <code>coding-agent</code><br><code>orchestration</code></td>
+      <td>OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/shiyu-coder/Kronos">shiyu-coder / Kronos</a> <a href="https://star-history.com/#shiyu-coder/Kronos">📈</a></td>
-      <td>🔥<br>Jul 2025<br>⭐ 28K<br>⚡⚡⚡</td>
+      <td>🔥<br>Jul 2025<br>⭐ 29K<br>⚡⚡⚡</td>
       <td><code>financial</code> <code>foundation-model</code><br><code>quant</code> <code>llm</code></td>
       <td>Kronos: A Foundation Model for the Language of Financial Markets</td>
     </tr>
@@ -399,7 +399,7 @@ Tools, frameworks, apps, libraries, and actual code you can use.
     </tr>
     <tr>
       <td><a href="https://github.com/Fincept-Corporation/FinceptTerminal">Fincept-Corporation / FinceptTerminal</a> <a href="https://star-history.com/#Fincept-Corporation/FinceptTerminal">📈</a></td>
-      <td>🔥<br>Aug 2024<br>⭐ 25K<br>⚡⚡⚡</td>
+      <td>🔥<br>Aug 2024<br>⭐ 26K<br>⚡⚡⚡</td>
       <td><code>financial</code> <code>trading</code><br><code>desktop-app</code> <code>ai-agents</code></td>
       <td>FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive explo...</td>
     </tr>
@@ -411,7 +411,7 @@ Tools, frameworks, apps, libraries, and actual code you can use.
     </tr>
     <tr>
       <td><a href="https://github.com/CloakHQ/CloakBrowser">CloakHQ / CloakBrowser</a> <a href="https://star-history.com/#CloakHQ/CloakBrowser">📈</a></td>
-      <td>🔥🔥<br>Feb 2026<br>⭐ 24K<br>⚡⚡⚡</td>
+      <td>🔥🔥<br>Feb 2026<br>⭐ 25K<br>⚡⚡⚡</td>
       <td><code>security</code> <code>browser-automation</code><br><code>stealth</code> <code>playwright</code></td>
       <td>Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.</td>
     </tr>
@@ -422,16 +422,16 @@ Tools, frameworks, apps, libraries, and actual code you can use.
       <td>Personal CRM. Remember everything about your friends, family and business relationships.</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/rohitg00/agentmemory">rohitg00 / agentmemory</a> <a href="https://star-history.com/#rohitg00/agentmemory">📈</a></td>
+      <td>🔥🔥<br>Feb 2026<br>⭐ 22K<br>⚡⚡⚡</td>
+      <td><code>memory</code> <code>agents</code><br><code>openclaw</code> <code>harness</code></td>
+      <td>#1 Persistent memory for AI coding agents based on real-world benchmarks</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/wwebjs/whatsapp-web.js">wwebjs / whatsapp-web.js</a> <a href="https://star-history.com/#wwebjs/whatsapp-web.js">📈</a></td>
       <td>🧊<br>Feb 2019<br>⭐ 21K<br>⚡⚡⚡</td>
       <td><code>api</code> <code>bot</code><br><code>bot-api</code> <code>whatsapp</code></td>
       <td>A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/rohitg00/agentmemory">rohitg00 / agentmemory</a> <a href="https://star-history.com/#rohitg00/agentmemory">📈</a></td>
-      <td>🔥🔥<br>Feb 2026<br>⭐ 21K<br>⚡⚡⚡</td>
-      <td><code>memory</code> <code>agents</code><br><code>openclaw</code> <code>harness</code></td>
-      <td>#1 Persistent memory for AI coding agents based on real-world benchmarks</td>
     </tr>
     <tr>
       <td><a href="https://github.com/garrytan/gbrain">garrytan / gbrain</a> <a href="https://star-history.com/#garrytan/gbrain">📈</a></td>
@@ -452,16 +452,16 @@ Tools, frameworks, apps, libraries, and actual code you can use.
       <td>Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/HKUDS/AI-Trader">HKUDS / AI-Trader</a> <a href="https://star-history.com/#HKUDS/AI-Trader">📈</a></td>
-      <td>🔥<br>Oct 2025<br>⭐ 19K<br>⚡⚡⚡</td>
-      <td><code>financial</code> <code>trading</code><br><code>ai-agents</code> <code>platform</code></td>
-      <td>"AI-Trader: 100% Fully-Automated Agent-Native Trading"</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/yikart/AiToEarn">yikart / AiToEarn</a> <a href="https://star-history.com/#yikart/AiToEarn">📈</a></td>
       <td>🔥<br>Feb 2025<br>⭐ 19K<br>⚡⚡⚡</td>
       <td><code>social-media</code> <code>content</code><br><code>monetization</code> <code>productivity</code></td>
       <td>Let's use AI to Earn!</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/HKUDS/AI-Trader">HKUDS / AI-Trader</a> <a href="https://star-history.com/#HKUDS/AI-Trader">📈</a></td>
+      <td>🔥<br>Oct 2025<br>⭐ 19K<br>⚡⚡⚡</td>
+      <td><code>financial</code> <code>trading</code><br><code>ai-agents</code> <code>platform</code></td>
+      <td>"AI-Trader: 100% Fully-Automated Agent-Native Trading"</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Anil-matcha/Open-Generative-AI">Anil-matcha / Open-Generative-AI</a> <a href="https://star-history.com/#Anil-matcha/Open-Generative-AI">📈</a></td>
@@ -549,7 +549,7 @@ Tools, frameworks, apps, libraries, and actual code you can use.
     </tr>
     <tr>
       <td><a href="https://github.com/rmyndharis/OpenWA">rmyndharis / OpenWA</a> <a href="https://star-history.com/#rmyndharis/OpenWA">📈</a></td>
-      <td>🔥<br>Feb 2026<br>⭐ 7K<br>⚡⚡⚡</td>
+      <td>🔥<br>Feb 2026<br>⭐ 8K<br>⚡⚡⚡</td>
       <td><code>api</code> <code>gateway</code><br><code>whatsapp</code></td>
       <td>Free, Open Source, Self-Hosted WhatsApp API Gateway</td>
     </tr>
@@ -575,7 +575,7 @@ Tools, frameworks, apps, libraries, and actual code you can use.
       <td><a href="https://github.com/mnfst/manifest">mnfst / manifest</a> <a href="https://star-history.com/#mnfst/manifest">📈</a></td>
       <td>🧊<br>Sep 2022<br>⭐ 6K<br>⚡⚡⚡</td>
       <td><code>llm-router</code> <code>cost-optimization</code><br><code>openclaw</code> <code>personal-ai</code></td>
-      <td>Smart Model Routing for Agents. Cut Costs up to 70% 🦚</td>
+      <td>Connect Your Agents And Harnesses With Any Provider 🦚</td>
     </tr>
     <tr>
       <td><a href="https://github.com/devlikeapro/waha">devlikeapro / waha</a> <a href="https://star-history.com/#devlikeapro/waha">📈</a></td>
@@ -633,21 +633,21 @@ Tools, frameworks, apps, libraries, and actual code you can use.
     </tr>
     <tr>
       <td><a href="https://github.com/TraderAlice/OpenAlice">TraderAlice / OpenAlice</a> <a href="https://star-history.com/#TraderAlice/OpenAlice">📈</a></td>
-      <td>🔥<br>Feb 2026<br>⭐ 4K<br>⚡⚡⚡</td>
+      <td>🔥<br>Feb 2026<br>⭐ 5K<br>⚡⚡⚡</td>
       <td><code>agents</code> <code>trading</code><br><code>crypto</code></td>
       <td>Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, ongoing manage...</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/abhi1693/openclaw-mission-control">abhi1693 /<br>openclaw-mission-control</a> <a href="https://star-history.com/#abhi1693/openclaw-mission-control">📈</a></td>
-      <td>🔥<br>Feb 2026<br>⭐ 4K<br>⚡⚡⚡</td>
-      <td><code>openclaw</code> <code>orchestration</code><br><code>automation</code></td>
-      <td>AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/aldinokemal/go-whatsapp-web-multidevice">aldinokemal /<br>go-whatsapp-web-multidevice</a> <a href="https://star-history.com/#aldinokemal/go-whatsapp-web-multidevice">📈</a></td>
       <td>🧊<br>Feb 2022<br>⭐ 4K<br>⚡⚡⚡</td>
       <td><code>bot</code> <code>go</code><br><code>golang</code> <code>golang-whatsapp</code></td>
       <td>GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/abhi1693/openclaw-mission-control">abhi1693 /<br>openclaw-mission-control</a> <a href="https://star-history.com/#abhi1693/openclaw-mission-control">📈</a></td>
+      <td>🔥<br>Feb 2026<br>⭐ 4K<br>⚡⚡⚡</td>
+      <td><code>openclaw</code> <code>orchestration</code><br><code>automation</code></td>
+      <td>AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/TianyiDataScience/openclaw-control-center">TianyiDataScience /<br>openclaw-control-center</a> <a href="https://star-history.com/#TianyiDataScience/openclaw-control-center">📈</a></td>
@@ -759,13 +759,13 @@ Tools, frameworks, apps, libraries, and actual code you can use.
     </tr>
     <tr>
       <td><a href="https://github.com/JohnRiceML/clawport-ui">JohnRiceML / clawport-ui</a> <a href="https://star-history.com/#JohnRiceML/clawport-ui">📈</a></td>
-      <td>🧊<br>Mar 2026<br>⭐ 880<br>⚡⚡</td>
+      <td>🧊<br>Mar 2026<br>⭐ 879<br>⚡⚡</td>
       <td><code>openclaw</code> <code>claude</code><br><code>orchestration</code> <code>devtools</code></td>
       <td>Open-source AI agent command center for Claude Code agent teams. Built on OpenClaw.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/UniRound-Tec/Aurogen">UniRound-Tec / Aurogen</a> <a href="https://star-history.com/#UniRound-Tec/Aurogen">📈</a></td>
-      <td>🧊<br>Mar 2026<br>⭐ 745<br>⚡⚡</td>
+      <td>🧊<br>Mar 2026<br>⭐ 744<br>⚡⚡</td>
       <td><code>openclaw</code> <code>chatbots</code></td>
       <td>"Aurogen🍊: The Multi-Agent Evolution of OpenClaw."</td>
     </tr>
@@ -789,13 +789,13 @@ Tools, frameworks, apps, libraries, and actual code you can use.
     </tr>
     <tr>
       <td><a href="https://github.com/C7-Game/OpenCiv3">C7-Game / OpenCiv3</a> <a href="https://star-history.com/#C7-Game/OpenCiv3">📈</a></td>
-      <td>🧊<br>Feb 2021<br>⭐ 605<br>⚡⚡⚡</td>
+      <td>🧊<br>Feb 2021<br>⭐ 606<br>⚡⚡⚡</td>
       <td><code>4x-strategy-game</code> <code>civilization</code><br><code>cross-platform</code> <code>csharp-game</code></td>
       <td>OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#, with ca...</td>
     </tr>
     <tr>
       <td><a href="https://github.com/steipete/sag">steipete / sag</a> <a href="https://star-history.com/#steipete/sag">📈</a></td>
-      <td>🧊<br>Dec 2025<br>⭐ 546<br>⚡⚡</td>
+      <td>🧊<br>Dec 2025<br>⭐ 552<br>⚡⚡</td>
       <td><code>elevenlabs</code> <code>go</code><br><code>say</code></td>
       <td>Like the macOS say command, but with a modern voice.</td>
     </tr>
@@ -831,7 +831,7 @@ Tools, frameworks, apps, libraries, and actual code you can use.
     </tr>
     <tr>
       <td><a href="https://github.com/100-Devs-1-Game/Our-Open-Source-Games">100-Devs-1-Game /<br>Our-Open-Source-Games</a> <a href="https://star-history.com/#100-Devs-1-Game/Our-Open-Source-Games">📈</a></td>
-      <td>🧊<br>Jan 2026<br>⭐ 255<br>⚡⚡</td>
+      <td>🧊<br>Jan 2026<br>⭐ 257<br>⚡⚡</td>
       <td><code>game-dev</code></td>
       <td>List of all Godot Collaborative Game Jam releases</td>
     </tr>
@@ -843,13 +843,13 @@ Tools, frameworks, apps, libraries, and actual code you can use.
     </tr>
     <tr>
       <td><a href="https://github.com/jonathaneeckhout/jdungeon">jonathaneeckhout / jdungeon</a> <a href="https://star-history.com/#jonathaneeckhout/jdungeon">📈</a></td>
-      <td>🧊<br>Sep 2023<br>⭐ 178<br>⚡⚡⚡</td>
+      <td>🧊<br>Sep 2023<br>⭐ 179<br>⚡⚡⚡</td>
       <td><code>game</code> <code>game-development</code><br><code>gamedev</code> <code>godot</code></td>
       <td>An opensource 2d morpg game based on the Godot engine in a medieval inspired fantasy world</td>
     </tr>
     <tr>
       <td><a href="https://github.com/garrytan/alphaclaw">garrytan / alphaclaw</a> <a href="https://star-history.com/#garrytan/alphaclaw">📈</a></td>
-      <td>🧊<br>Apr 2026<br>⭐ 118<br>⚡⚡</td>
+      <td>🧊<br>Apr 2026<br>⭐ 119<br>⚡⚡</td>
       <td><code>openclaw</code> <code>config</code><br><code>setup</code></td>
       <td>The ultimate setup harness for OpenClaw. Deploy in minutes. Stay running for months. No CLI required.</td>
     </tr>
@@ -914,7 +914,7 @@ Guides, courses, curated lists, awesome lists, tutorials, books, and use cases.
 
 > **41 repositories**
 
-![Repos](https://img.shields.io/badge/repos-41-blue) ![Stars](https://img.shields.io/badge/total%20stars-1M-yellow) ![Hyperactive](https://img.shields.io/badge/hyperactive-37-red)
+![Repos](https://img.shields.io/badge/repos-41-blue) ![Stars](https://img.shields.io/badge/total%20stars-1M-yellow) ![Hyperactive](https://img.shields.io/badge/hyperactive-38-red)
 
 <table width="100%">
   <colgroup>
@@ -964,19 +964,19 @@ Guides, courses, curated lists, awesome lists, tutorials, books, and use cases.
     </tr>
     <tr>
       <td><a href="https://github.com/shanraisshan/claude-code-best-practice">shanraisshan /<br>claude-code-best-practice</a> <a href="https://star-history.com/#shanraisshan/claude-code-best-practice">📈</a></td>
-      <td>🔥🔥<br>Oct 2025<br>⭐ 56K<br>⚡⚡⚡</td>
+      <td>🔥🔥<br>Oct 2025<br>⭐ 57K<br>⚡⚡⚡</td>
       <td><code>guide</code> <code>best-practices</code><br><code>claude</code></td>
       <td>from vibe coding to agentic engineering - practice makes claude perfect</td>
     </tr>
     <tr>
       <td><a href="https://github.com/VoltAgent/awesome-openclaw-skills">VoltAgent /<br>awesome-openclaw-skills</a> <a href="https://star-history.com/#VoltAgent/awesome-openclaw-skills">📈</a></td>
-      <td>🔥🔥🔥<br>Jan 2026<br>⭐ 49K<br>⚡⚡⚡</td>
+      <td>🔥🔥🔥<br>Jan 2026<br>⭐ 50K<br>⚡⚡⚡</td>
       <td><code>awesome-list</code> <code>openclaw</code><br><code>skills</code></td>
       <td>The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞</td>
     </tr>
     <tr>
       <td><a href="https://github.com/hesreallyhim/awesome-claude-code">hesreallyhim /<br>awesome-claude-code</a> <a href="https://star-history.com/#hesreallyhim/awesome-claude-code">📈</a></td>
-      <td>🔥🔥<br>Apr 2025<br>⭐ 45K<br>⚡⚡⚡</td>
+      <td>🔥🔥<br>Apr 2025<br>⭐ 46K<br>⚡⚡⚡</td>
       <td><code>awesome-list</code> <code>claude</code><br><code>coding-agent</code> <code>skills</code></td>
       <td>A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic</td>
     </tr>
@@ -987,20 +987,20 @@ Guides, courses, curated lists, awesome lists, tutorials, books, and use cases.
       <td>📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/luongnv89/claude-howto">luongnv89 / claude-howto</a> <a href="https://star-history.com/#luongnv89/claude-howto">📈</a></td>
+      <td>🔥🔥<br>Nov 2025<br>⭐ 36K<br>⚡⚡⚡</td>
+      <td><code>guide</code> <code>tutorial</code><br><code>claude</code></td>
+      <td>A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/jondot/awesome-react-native">jondot /<br>awesome-react-native</a> <a href="https://star-history.com/#jondot/awesome-react-native">📈</a></td>
       <td>🧊<br>Mar 2015<br>⭐ 35K<br>⚡⚡⚡</td>
       <td><code>awesome-list</code> <code>react-native</code><br><code>mobile</code></td>
       <td>Awesome React Native components, news, tools, and learning material!</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/luongnv89/claude-howto">luongnv89 / claude-howto</a> <a href="https://star-history.com/#luongnv89/claude-howto">📈</a></td>
-      <td>🔥🔥<br>Nov 2025<br>⭐ 35K<br>⚡⚡⚡</td>
-      <td><code>guide</code> <code>tutorial</code><br><code>claude</code></td>
-      <td>A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/ashishpatel26/500-AI-Agents-Projects">ashishpatel26 /<br>500-AI-Agents-Projects</a> <a href="https://star-history.com/#ashishpatel26/500-AI-Agents-Projects">📈</a></td>
-      <td>🔥<br>Dec 2024<br>⭐ 31K<br>⚡⚡⚡</td>
+      <td>🔥<br>Dec 2024<br>⭐ 32K<br>⚡⚡⚡</td>
       <td><code>awesome-list</code> <code>ai-agents</code><br><code>projects</code></td>
       <td>The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to op...</td>
     </tr>
@@ -1095,16 +1095,16 @@ Guides, courses, curated lists, awesome lists, tutorials, books, and use cases.
       <td>A curated list of vibe coding references, collaborating with AI to write code.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jamesmurdza/awesome-ai-devtools">jamesmurdza /<br>awesome-ai-devtools</a> <a href="https://star-history.com/#jamesmurdza/awesome-ai-devtools">📈</a></td>
-      <td>🧊<br>Aug 2023<br>⭐ 3K<br>⚡⚡⚡</td>
-      <td><code>awesome-list</code> <code>dev-tools</code><br><code>ai</code></td>
-      <td>Curated list of AI-powered developer tools.</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/alvinreal/awesome-opensource-ai">alvinreal /<br>awesome-opensource-ai</a> <a href="https://star-history.com/#alvinreal/awesome-opensource-ai">📈</a></td>
       <td>🔥<br>Mar 2026<br>⭐ 3K<br>⚡⚡⚡</td>
       <td><code>awesome-list</code> <code>open-source</code><br><code>ai</code></td>
       <td>Curated list of the best truly open-source AI projects, models, tools, and infrastructure.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jamesmurdza/awesome-ai-devtools">jamesmurdza /<br>awesome-ai-devtools</a> <a href="https://star-history.com/#jamesmurdza/awesome-ai-devtools">📈</a></td>
+      <td>🧊<br>Aug 2023<br>⭐ 3K<br>⚡⚡⚡</td>
+      <td><code>awesome-list</code> <code>dev-tools</code><br><code>ai</code></td>
+      <td>Curated list of AI-powered developer tools.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/mergisi/awesome-openclaw-agents">mergisi /<br>awesome-openclaw-agents</a> <a href="https://star-history.com/#mergisi/awesome-openclaw-agents">📈</a></td>
@@ -1162,7 +1162,7 @@ Guides, courses, curated lists, awesome lists, tutorials, books, and use cases.
     </tr>
     <tr>
       <td><a href="https://github.com/eudk/awesome-ai-tools">eudk / awesome-ai-tools</a> <a href="https://star-history.com/#eudk/awesome-ai-tools">📈</a></td>
-      <td>🧊<br>Dec 2023<br>⭐ 509<br>⚡⚡</td>
+      <td>🧊<br>Dec 2023<br>⭐ 509<br>⚡⚡⚡</td>
       <td><code>awesome-list</code> <code>ai-tools</code><br><code>llm</code></td>
       <td>🔴 VERY LARGE AI TOOL LIST! 🔴  Curated list of AI Tools  - Updated 2026</td>
     </tr>
@@ -1174,7 +1174,7 @@ Guides, courses, curated lists, awesome lists, tutorials, books, and use cases.
     </tr>
     <tr>
       <td><a href="https://github.com/Zijian-Ni/awesome-ai-agents-2026">Zijian-Ni /<br>awesome-ai-agents-2026</a> <a href="https://star-history.com/#Zijian-Ni/awesome-ai-agents-2026">📈</a></td>
-      <td>🧊<br>Mar 2026<br>⭐ 132<br>⚡⚡</td>
+      <td>🧊<br>Mar 2026<br>⭐ 135<br>⚡⚡</td>
       <td><code>awesome-list</code> <code>ai-agents</code><br><code>2026</code></td>
       <td>🤖 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 — the year agents went mainstream</td>
     </tr>
@@ -1206,4 +1206,4 @@ Guides, courses, curated lists, awesome lists, tutorials, books, and use cases.
 | 💤 | Dormant | < 10 |
 
 ---
-*Auto-generated. Last updated: 2026-06-08*
+*Auto-generated. Last updated: 2026-06-09*
