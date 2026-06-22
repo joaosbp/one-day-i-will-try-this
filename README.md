@@ -1,7 +1,7 @@
 # One Day I Will Try This
 
 > **198 AI agent, coding, and automation repositories worth your attention.**
-> Stars ≈ 8.1M+ | Auto-updated every 6 hours
+> Stars ≈ 8.1M+ | Auto-updated daily at 4am UTC
 
 ![Repos](https://img.shields.io/badge/repos-198-blue) ![Stars](https://img.shields.io/badge/total%20stars-8.1M-yellow) ![Hyperactive](https://img.shields.io/badge/hyperactive-43-red)
 
