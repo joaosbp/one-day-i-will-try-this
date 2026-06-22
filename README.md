@@ -36,7 +36,7 @@ Hype: 🟥🟧🟧🟧🟨🟨🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦
 Activity: 🟩🟩🟩🟩🟩🟨🟨🟨🟨🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜
 
 
-| Repository ——————————————— | Hype · Stats ————————— | Tags ————————— | Description ————————————————————————————————————— |
+| Repository | Hype · Activity | Tags | Description                                    |
 | :--- | :--- | :--- | :--- |
 | [openclaw/**openclaw**](https://github.com/openclaw/openclaw) [📈](https://star-history.com/#openclaw/openclaw) | 🔥🔥🔥 ⚡⚡⚡<br>⭐ 379K · Nov 2025 | `openclaw` `personal-ai` `rust` | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  |
 | [obra/**superpowers**](https://github.com/obra/superpowers) [📈](https://star-history.com/#obra/superpowers) | 🔥🔥🔥 ⚡⚡<br>⭐ 235K · Oct 2025 | `skills` `framework` `agents` | An agentic skills framework & software development methodology that works. |
@@ -195,7 +195,7 @@ Hype: 🟥🟧🟨🟨🟨🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦🟦🟦🟦
 Activity: 🟩🟨🟧🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 
-| Repository ——————————————— | Hype · Stats ————————— | Tags ————————— | Description ————————————————————————————————————— |
+| Repository | Hype · Activity | Tags | Description                                    |
 | :--- | :--- | :--- | :--- |
 | [codecrafters-io/**build-your-own-x**](https://github.com/codecrafters-io/build-your-own-x) [📈](https://star-history.com/#codecrafters-io/build-your-own-x) | 🔥🔥🔥 💤<br>⭐ 518K · May 2018 | `awesome-list` `guide` `tutorial` | Master programming by recreating your favorite technologies from scratch. |
 | [nilbuild/**developer-roadmap**](https://github.com/nilbuild/developer-roadmap) [📈](https://star-history.com/#nilbuild/developer-roadmap) | 🔥🔥🔥 ⚡⚡<br>⭐ 357K · Mar 2017 | `guide` `roadmap` `python` | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
