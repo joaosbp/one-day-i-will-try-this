@@ -521,7 +521,7 @@ def generate_readme(real_repos, ref_repos):
 <!-- Quick Stats -->
 <div align="center">
 
-| 🔥 Hot | 🔥🔥 Warm | 🔥 Trending | 🧊 Early | ⚡⚡⚡ Hyper | ⚡⚡ Active | ⚡ Moderate | 💤 Dormant |
+| 🔥🔥🔥 Hot | 🔥🔥 Warm | 🔥 Trending | 🧊 Early | ⚡⚡⚡ Hyper | ⚡⚡ Active | ⚡ Moderate | 💤 Dormant |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | {hype_summary['🔥🔥🔥']} | {hype_summary['🔥🔥']} | {hype_summary['🔥']} | {hype_summary['🧊']} | {act_summary['⚡⚡⚡']} | {act_summary['⚡⚡']} | {act_summary['⚡']} | {act_summary['💤']} |
 

@@ -18,7 +18,7 @@
 <!-- Quick Stats -->
 <div align="center">
 
-| 🔥 Hot | 🔥🔥 Warm | 🔥 Trending | 🧊 Early | ⚡⚡⚡ Hyper | ⚡⚡ Active | ⚡ Moderate | 💤 Dormant |
+| 🔥🔥🔥 Hot | 🔥🔥 Warm | 🔥 Trending | 🧊 Early | ⚡⚡⚡ Hyper | ⚡⚡ Active | ⚡ Moderate | 💤 Dormant |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 9 | 35 | 75 | 85 | 44 | 45 | 28 | 87 |
 
@@ -77,8 +77,8 @@ Activity: 🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨🟧🟧⬜⬜⬜⬜⬜⬜⬜
 | [santifer/**career-ops**](https://github.com/santifer/career-ops) [📈](https://star-history.com/#santifer/career-ops) | 🔥🔥 ⚡⚡⚡<br>⭐ 55K · Apr 2026 | `claude` `skills` `monitoring` | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. |
 | [penpot/**penpot**](https://github.com/penpot/penpot) [📈](https://star-history.com/#penpot/penpot) | 🔥 ⚡⚡⚡<br>⭐ 53K · Dec 2015 | `other` | Penpot: The open-source design tool for design and code collaboration |
 | [odoo/**odoo**](https://github.com/odoo/odoo) [📈](https://star-history.com/#odoo/odoo) | 🔥🔥 ⚡⚡⚡<br>⭐ 52K · May 2014 | `python` `open-source` | Odoo. Open Source Apps To Grow Your Business. |
-| [freqtrade/**freqtrade**](https://github.com/freqtrade/freqtrade) [📈](https://star-history.com/#freqtrade/freqtrade) | 🔥🔥 ⚡⚡⚡<br>⭐ 51K · May 2017 | `financial` `python` `open-source` | Free, open source crypto trading bot |
 | [DietrichGebert/**ponytail**](https://github.com/DietrichGebert/ponytail) [📈](https://star-history.com/#DietrichGebert/ponytail) | 🔥 ⚡⚡<br>⭐ 51K · Jun 2026 | `claude` `skills` `coding-agent` | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [freqtrade/**freqtrade**](https://github.com/freqtrade/freqtrade) [📈](https://star-history.com/#freqtrade/freqtrade) | 🔥🔥 ⚡⚡⚡<br>⭐ 51K · May 2017 | `financial` `python` `open-source` | Free, open source crypto trading bot |
 | [twentyhq/**twenty**](https://github.com/twentyhq/twenty) [📈](https://star-history.com/#twentyhq/twenty) | 🔥 ⚡⚡⚡<br>⭐ 51K · Dec 2022 | `typescript` `web` `database` | The open alternative to Salesforce, designed for AI. |
 | [BerriAI/**litellm**](https://github.com/BerriAI/litellm) [📈](https://star-history.com/#BerriAI/litellm) | 🔥 ⚡⚡⚡<br>⭐ 51K · Jul 2023 | `mcp` `claude` `llm-routing` | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, Ver... |
 | [remotion-dev/**remotion**](https://github.com/remotion-dev/remotion) [📈](https://star-history.com/#remotion-dev/remotion) | 🔥 ⚡⚡⚡<br>⭐ 50K · Jun 2020 | `video` `typescript` | 🎥      Make videos programmatically with React |
