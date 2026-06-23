@@ -351,7 +351,7 @@ def hype_score(repo, activity_count):
 
 def hype_tier(score):
     if score >= 15000:
-        return "🔥🔥🔥"
+        return "💥"
     elif score >= 5000:
         return "🔥🔥"
     elif score >= 1000:
@@ -361,7 +361,7 @@ def hype_tier(score):
 
 def activity_tier(events_30d):
     if events_30d >= 200:
-        return "⚡⚡⚡"
+        return "🚀"
     elif events_30d >= 50:
         return "⚡⚡"
     elif events_30d >= 10:
@@ -437,8 +437,8 @@ def generate_stats_bar(repos, title):
     total = len(repos)
     stars = sum(r[0].get("stargazers_count", 0) for r in repos)
     
-    hype_counts = {"🔥🔥🔥": 0, "🔥🔥": 0, "🔥": 0, "🧊": 0}
-    act_counts = {"⚡⚡⚡": 0, "⚡⚡": 0, "⚡": 0, "💤": 0}
+    hype_counts = {"💥": 0, "🔥🔥": 0, "🔥": 0, "🧊": 0}
+    act_counts = {"🚀": 0, "⚡⚡": 0, "⚡": 0, "💤": 0}
     
     for r in repos:
         # Reuse already-calculated hype score to avoid double computation
@@ -451,7 +451,7 @@ def generate_stats_bar(repos, title):
     for tier, count in hype_counts.items():
         if count > 0:
             blocks = max(1, int(count / total * 20))
-            if tier == "🔥🔥🔥":
+            if tier == "💥":
                 hype_bar += "🟥" * blocks
             elif tier == "🔥🔥":
                 hype_bar += "🟧" * blocks
@@ -465,7 +465,7 @@ def generate_stats_bar(repos, title):
     for tier, count in act_counts.items():
         if count > 0:
             blocks = max(1, int(count / total * 20))
-            if tier == "⚡⚡⚡":
+            if tier == "🚀":
                 act_bar += "🟩" * blocks
             elif tier == "⚡⚡":
                 act_bar += "🟨" * blocks
@@ -474,7 +474,7 @@ def generate_stats_bar(repos, title):
             else:
                 act_bar += "⬜" * blocks
     
-    stats = f"""📊 **{total}** repos · ⭐ **{format_stars(stars)}** stars · 🔥 **{hype_counts['🔥🔥🔥'] + hype_counts['🔥🔥']}** hot/warm · ⚡ **{act_counts['⚡⚡⚡'] + act_counts['⚡⚡']}** hyper/active
+    stats = f"""📊 **{total}** repos · ⭐ **{format_stars(stars)}** stars · 🔥 **{hype_counts['💥'] + hype_counts['🔥🔥']}** hot/warm · ⚡ **{act_counts['🚀'] + act_counts['⚡⚡']}** hyper/active
 
 Hype: {hype_bar}
 Activity: {act_bar}
@@ -487,15 +487,15 @@ def generate_readme(real_repos, ref_repos):
     total_repos = len(real_repos) + len(ref_repos)
     total_stars = sum(r[0].get("stargazers_count", 0) for r in real_repos + ref_repos)
     
-    real_hyper = sum(1 for r in real_repos if activity_tier(r[2]) == "⚡⚡⚡")
-    ref_hyper = sum(1 for r in ref_repos if activity_tier(r[2]) == "⚡⚡⚡")
+    real_hyper = sum(1 for r in real_repos if activity_tier(r[2]) == "🚀")
+    ref_hyper = sum(1 for r in ref_repos if activity_tier(r[2]) == "🚀")
     
     now = datetime.now().strftime("%Y-%m-%d")
     
     # Count all tiers for summary
     all_repos = real_repos + ref_repos
-    hype_summary = {"🔥🔥🔥": 0, "🔥🔥": 0, "🔥": 0, "🧊": 0}
-    act_summary = {"⚡⚡⚡": 0, "⚡⚡": 0, "⚡": 0, "💤": 0}
+    hype_summary = {"💥": 0, "🔥🔥": 0, "🔥": 0, "🧊": 0}
+    act_summary = {"🚀": 0, "⚡⚡": 0, "⚡": 0, "💤": 0}
     for r in all_repos:
         score = hype_score(r[0], r[2])
         hype_summary[hype_tier(score)] += 1
@@ -512,7 +512,7 @@ def generate_readme(real_repos, ref_repos):
 ![Repos](https://img.shields.io/badge/repos-{total_repos}-informational?style=flat-square&logo=github)
 ![Stars](https://img.shields.io/badge/stars-{format_stars(total_stars)}-yellow?style=flat-square&logo=starship)
 ![Hyperactive](https://img.shields.io/badge/hyperactive-{real_hyper + ref_hyper}-success?style=flat-square)
-![Trending](https://img.shields.io/badge/trending-{hype_summary['🔥'] + hype_summary['🔥🔥'] + hype_summary['🔥🔥🔥']}-orange?style=flat-square)
+![Trending](https://img.shields.io/badge/trending-{hype_summary['🔥'] + hype_summary['🔥🔥'] + hype_summary['💥']}-orange?style=flat-square)
 
 </div>
 
@@ -521,9 +521,9 @@ def generate_readme(real_repos, ref_repos):
 <!-- Quick Stats -->
 <div align="center">
 
-| 🔥🔥🔥 Hot | 🔥🔥 Warm | 🔥 Trending | 🧊 Early | ⚡⚡⚡ Hyper | ⚡⚡ Active | ⚡ Moderate | 💤 Dormant |
+| 💥 Hot | 🔥🔥 Warm | 🔥 Trending | 🧊 Early | 🚀 Hyper | ⚡⚡ Active | ⚡ Moderate | 💤 Dormant |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| {hype_summary['🔥🔥🔥']} | {hype_summary['🔥🔥']} | {hype_summary['🔥']} | {hype_summary['🧊']} | {act_summary['⚡⚡⚡']} | {act_summary['⚡⚡']} | {act_summary['⚡']} | {act_summary['💤']} |
+| {hype_summary['💥']} | {hype_summary['🔥🔥']} | {hype_summary['🔥']} | {hype_summary['🧊']} | {act_summary['🚀']} | {act_summary['⚡⚡']} | {act_summary['⚡']} | {act_summary['💤']} |
 
 </div>
 
@@ -561,7 +561,7 @@ def generate_readme(real_repos, ref_repos):
 ### Hype Tiers
 | Tier | Icon | Score Range | Color |
 |------|------|-------------|-------|
-| Hot | 🔥🔥🔥 | ≥ 15,000 | `#ff4757` |
+| Hot | 💥 | ≥ 15,000 | `#ff4757` |
 | Warm | 🔥🔥 | 5,000 – 14,999 | `#ff6348` |
 | Trending | 🔥 | 1,000 – 4,999 | `#ffa502` |
 | Early | 🧊 | < 1,000 | `#74b9ff` |
@@ -569,7 +569,7 @@ def generate_readme(real_repos, ref_repos):
 ### Activity Tiers
 | Tier | Icon | Events (30d) | Color |
 |------|------|-------------|-------|
-| Hyperactive | ⚡⚡⚡ | ≥ 200 | `#2ed573` |
+| Hyperactive | 🚀 | ≥ 200 | `#2ed573` |
 | Active | ⚡⚡ | 50 – 199 | `#7bed9f` |
 | Moderate | ⚡ | 10 – 49 | `#eccc68` |
 | Dormant | 💤 | < 10 | `#dfe4ea` |
@@ -663,7 +663,7 @@ def main():
     print("\n--- Hype Score Distribution ---")
     for repos, name in [(real_repos, "Real"), (ref_repos, "Reference")]:
         # Reuse pre-calculated hype scores
-        tiers = {"🔥🔥🔥": 0, "🔥🔥": 0, "🔥": 0, "🧊": 0}
+        tiers = {"💥": 0, "🔥🔥": 0, "🔥": 0, "🧊": 0}
         for r in repos:
             score = r[0].get("_hype_score", hype_score(r[0], r[2]))
             tiers[hype_tier(score)] += 1
@@ -671,7 +671,7 @@ def main():
 
     print("\n--- Activity Distribution ---")
     for repos, name in [(real_repos, "Real"), (ref_repos, "Reference")]:
-        tiers = {"⚡⚡⚡": 0, "⚡⚡": 0, "⚡": 0, "💤": 0}
+        tiers = {"🚀": 0, "⚡⚡": 0, "⚡": 0, "💤": 0}
         for r in repos:
             tiers[activity_tier(r[2])] += 1
         print(f"{name}: {tiers}")
