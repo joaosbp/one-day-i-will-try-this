@@ -30,9 +30,8 @@ if ! git diff --quiet || ! git diff --cached --quiet; then
 fi
 
 # Pull latest changes first. If this fails, abort instead of generating README on stale state.
-echo "🔄 Git pre-sync..."
 git fetch origin main --quiet
-git pull --rebase origin main
+git pull --rebase --quiet origin main
 
 # Run the generator with output captured. Temporarily disable set -e so we can show useful errors.
 set +e
@@ -68,8 +67,8 @@ fi
 
 # Commit and push README only. The generator script is source; README is generated output.
 git add README.md
-git commit -m "auto: update $(date +%Y-%m-%d)"
-git push origin main
+git commit --quiet -m "auto: update $(date +%Y-%m-%d)"
+git push --quiet origin main
 
 echo "✅ README atualizado e push feito!"
 echo "📊 $REPO_COUNT repos ($REAL_COUNT real + $REF_COUNT ref)"
